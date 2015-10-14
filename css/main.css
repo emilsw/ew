@@ -3,7 +3,7 @@ body {
     width: 45%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
-    
+    font-size: 1.5em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -54,4 +54,5 @@ ul.posts li {
 li {
     font-size: 1.5em;
     line-height: 1.4em;
+    padding-bottom: 5px;
 }
