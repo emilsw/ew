@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 45%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #333;
     
 }
 nav ul, footer ul {
