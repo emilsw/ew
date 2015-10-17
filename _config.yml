@@ -1,3 +1,4 @@
 name: Emils Veveris
 markdown: kramdown
 permalink: /articles/:title
+permalink: /optimize/:title
