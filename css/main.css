@@ -62,12 +62,16 @@ input[type="text"],
 input[type="tel"],
 input[type="url"],
 input[type="password"],
-textarea,
 select {
 height: 45px;
 width: 100%;
 }
 
+textarea {
+
+height: 100px;    
+width: 100%;    
+}
 
 .button,
 button,
