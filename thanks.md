@@ -4,4 +4,6 @@ title: Thanks
 ---
 
 
-**Thanks for contacting me.**
+**Thanks, expect to hear from me in the next 24 hours.**
+
+
