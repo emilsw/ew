@@ -29,6 +29,8 @@ Fill this out and I'll be back to you with more information in a day. I keep all
 </select>
 </p>
 
+<p>Tell me about your business (what do you want to achieve):
+<br><textarea name="goal" required></textarea></p>
 
 <p>What's your history of marketing and A/B testing?:
 <br><textarea name="goal" required></textarea></p>
