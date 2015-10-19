@@ -66,6 +66,7 @@ select {
 height: 45px;
 width: 100%;
 font-size: 1.3em;
+color: #333;
 }
 
 textarea {
@@ -73,6 +74,7 @@ textarea {
 height: 100px;    
 width: 100%;
 font-size: 1.3em;
+color: #333;
 }
 
 .button,
