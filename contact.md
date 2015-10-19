@@ -37,7 +37,7 @@ Fill this out and I'll be back to you with more information in a day. I keep all
 
 <p><button type="submit" class="button button-primary">Let's Get Started</button></p>
 
-<input name="_next" type="hidden" value="http://www.emilsw.com/thanks/">
+<input name="_next" type="hidden" value="http://www.emilsw.com/thanks">
 <input name="_subject" type="hidden" value="EW Application">
 </form>
 
