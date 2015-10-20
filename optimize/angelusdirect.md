@@ -14,7 +14,7 @@ I looked at <http://angelusdirect.com/cart> and here are some simple things you 
 
  **1. Make your main button (CTA- call to action) stand out** 
 
-<img src="https://lh6.googleusercontent.com/Xe9MsXnx9Pk0FLHlhjcKw_xvXM_L_f0hUEa1x1gC4BJca4IYYhFcPpV3v9Q1AcdnwMXremESgdKWFLbSOWsKCboVOk461p-KFXu6n1Dc80t-jdb8ZemsC24JO4eDwDhrAI23QwVR">
+<img src="https://lh6.googleusercontent.com/Xe9MsXnx9Pk0FLHlhjcKw_xvXM_L_f0hUEa1x1gC4BJca4IYYhFcPpV3v9Q1AcdnwMXremESgdKWFLbSOWsKCboVOk461p-KFXu6n1Dc80t-jdb8ZemsC24JO4eDwDhrAI23QwVR" width="700">
 
 It should always be obvious how things work. Right now, you need to look for the “proceed to checkout” button, which is the most important button on this page. You don’t want people to leave your site just because they didn’t know how to complete the checkout. Your main buttons should be bold and visible and guide the visitors.
 
