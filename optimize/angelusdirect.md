@@ -5,7 +5,7 @@ title: Angelus Direct
 
 Hi Tyler,
 
-You may have heard that shopping cart abandonment is the main reason [why online retailers are loosing 68.53% of sales](http://baymard.com/lists/cart-abandonment-rate) (that's a lot of money). The good news is that with a few fixes you can get some of that money back.
+You may have heard that shopping cart abandonment is the main reason [why online retailers are losing 68.53% of sales](http://baymard.com/lists/cart-abandonment-rate) (that's a lot of money). The good news is that with a few fixes you can get some of that money back.
 
 I looked at <http://angelusdirect.com/cart> and here are some simple things you can change to improve it and boost your revenue:
 
