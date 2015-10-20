@@ -12,13 +12,13 @@ I looked at http://angelusdirect.com/cart and here are some simple things you ca
 (Normally I would start with the one that’s leaking the most money by checking your analytics but since I don’t see that, I’m starting with the first step.)
 
 
-1. **Make your main button (CTA- call to action) stand out** 
+ 1. **Make your main button (CTA- call to action) stand out** 
 
 
 
 It should always be obvious how things work. Right now, you need to look for the “proceed to checkout” button, which is the most important button on this page. You don’t want people to leave your site just because they didn’t know how to complete the checkout. Your main buttons should be bold and visible and guide the visitors.
 
-2. **Be clear about the pricing (and shipping)**
+ 2. **Be clear about the pricing (and shipping)**
 
 
 This is the most important part of the page. When people check their carts they want to know how much it’s going to cost them. Right now it’s a little confusing, there’s is no summary… and it’s hard to find it out what are the shipping costs. 
