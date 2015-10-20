@@ -7,7 +7,7 @@ Hi Tyler,
 
 You may have heard that shopping cart abandonment is the main reason [why online retailers are loosing 68.53% of sales](http://baymard.com/lists/cart-abandonment-rate) (that's a lot of money). The good news is that with a few fixes you can get some of that money back.
 
-I looked at (http://angelusdirect.com/cart) and here are some simple things you can change to improve it and boost your revenue:
+I looked at <http://angelusdirect.com/cart> and here are some simple things you can change to improve it and boost your revenue:
 
 (Normally I would start with the one that’s leaking the most money by checking your analytics but since I don’t see that, I’m starting with the first step.)
 
@@ -91,13 +91,14 @@ With my service, I will do everything you need to do:
  * Rinse and repeat (optimization is an ongoing process, with each test and each change you get new data that will be help you further improve your site).
 
 What you get:
+
  * A free ($29/month) account on Convert.com. I’m a certified specialist.
  * A free ($33/month) pro account on Hotjar.com. A powerful research tool.
  * Access to all the research material. Heatmaps, scrollmaps, survey results, user sessions replays...valuable information on how your site is actually used and who your customers really are.
  * Optimization plan for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
  * A/B test for the following month. I set up, run and monitor the test.
 
-To put it simply, I’ll focus on improving http://angelusdirect.com/ every month so you can focus on running your business.
+To put it simply, I’ll focus on improving <http://angelusdirect.com> every month so you can focus on running your business.
 
 **How much is this?**
 
