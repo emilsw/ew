@@ -9,9 +9,6 @@ You may have heard that shopping cart abandonment is the main reason [why online
 
 I looked at <http://angelusdirect.com/cart> and here are some simple things you can change to improve it and boost your revenue:
 
-(Normally I would start with the one that’s leaking the most money by checking your analytics but since I don’t see that, I’m starting with the first step.)
-
-
  **1. Make your main button (CTA- call to action) stand out** 
 
 <img src="https://lh6.googleusercontent.com/Xe9MsXnx9Pk0FLHlhjcKw_xvXM_L_f0hUEa1x1gC4BJca4IYYhFcPpV3v9Q1AcdnwMXremESgdKWFLbSOWsKCboVOk461p-KFXu6n1Dc80t-jdb8ZemsC24JO4eDwDhrAI23QwVR" width="700">
