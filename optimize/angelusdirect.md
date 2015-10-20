@@ -65,11 +65,11 @@ What I changed exactly:
 
 Honestly, it's hard to tell …. you need to A/B test that (and I only did a partial research, there are a few more ways to improve it). But here's a recent case study featuring similar changes for marinedepot.com:
 
-<img src="https://lh4.googleusercontent.com/9Kiy7bbuMZHyOLxZIrAE_rFMG30fmkgn1Li2aYE8GV3xvIWpBuyQ-NiMH-Zz8YiYC3AE_5wdmU6_jhk1MgMojCeoAXjgFteQBBPdArhD7-2wl83q08Kxt8kY04uNZ4Q4Rxvukra9" width="659">
+<img src="https://lh4.googleusercontent.com/9Kiy7bbuMZHyOLxZIrAE_rFMG30fmkgn1Li2aYE8GV3xvIWpBuyQ-NiMH-Zz8YiYC3AE_5wdmU6_jhk1MgMojCeoAXjgFteQBBPdArhD7-2wl83q08Kxt8kY04uNZ4Q4Rxvukra9" width="700">
 
 This is from an actual A/B test. A is the original version, B is the improved version. Here are the final results (after 4 weeks of testing):
 
-<img src="https://lh3.googleusercontent.com/_o7aXxTB845_f6Q-Wz6a14_BU9ZxvIGSzTyEm9IlkNLODOiqjxfssyZvCCQqrTnq2f-TI9Lbha3pCQMZGPcgqR26Gy_LcGIQiXSWhsPaj-HfrL__KISdCnb3e-N-y94bk2X_Pt5D" width="659">
+<img src="https://lh3.googleusercontent.com/_o7aXxTB845_f6Q-Wz6a14_BU9ZxvIGSzTyEm9IlkNLODOiqjxfssyZvCCQqrTnq2f-TI9Lbha3pCQMZGPcgqR26Gy_LcGIQiXSWhsPaj-HfrL__KISdCnb3e-N-y94bk2X_Pt5D" width="700">
 
 **+12.33%** increase in revenue might not seem much, but the changes were small and this increase means approximately 3 million dollars in additional annual revenue for them.
 
@@ -93,8 +93,8 @@ With my service, I will do everything you need to do:
 
 What you get:
 
- * A free ($29/month) account on Convert.com. I’m a certified specialist.
- * A free ($33/month) pro account on Hotjar.com. A powerful research tool.
+ * A free ($29/month) account on [**Convert.com**](http://www.convert.com/). I’m a certified specialist.
+ * A free ($33/month) pro account on [**Hotjar.com**](https://www.hotjar.com/). A powerful research tool.
  * Access to all the research material. Heatmaps, scrollmaps, survey results, user sessions replays...valuable information on how your site is actually used and who your customers really are.
  * Optimization plan for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
  * A/B test for the following month. I set up, run and monitor the test.
@@ -118,12 +118,12 @@ The goal is to make your money back by a minimum of 3x your investment (I did wa
 
 If any of this sounds appealing to you, just reply to my email and we can figure out a time to chat a little more! And if you have any questions, please let me know.
 
-Thanks for reading.
+<p> Thanks for reading. </p>
+<p>Cheers, <br/>
+ Emils Veveris</p> 
+ <p>(In my native <a href="https://en.wikipedia.org/wiki/Latvian_language">language</a>, all male words end with ‘s’.... I know it’s weird. You can call me Emil.)</p>
+ <img src="https://lh3.googleusercontent.com/0lTRdXQYdaiTMvdAZ9bfFwS7xlMASk-cJpXzP7n3EzH72TS6UOAZlWy9GLBtX7ur5KavXcDQkZUkM2xMCLU6reuMVYA02xtp3IakIlSJtnDh7wdKkFnVAvjbfwxml6dtwtdpEHMJ" width="109">
+ 
+ 
 
-Cheers, 
-
-Emils Veveris
-<img src="https://lh3.googleusercontent.com/0lTRdXQYdaiTMvdAZ9bfFwS7xlMASk-cJpXzP7n3EzH72TS6UOAZlWy9GLBtX7ur5KavXcDQkZUkM2xMCLU6reuMVYA02xtp3IakIlSJtnDh7wdKkFnVAvjbfwxml6dtwtdpEHMJ" width="109">
-
-(In my [native language](https://en.wikipedia.org/wiki/Latvian_language), all male words end with ‘s’.... I know it’s weird. You can call me Emil.)
  
