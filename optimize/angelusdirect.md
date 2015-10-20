@@ -108,7 +108,7 @@ And if you’re unsatisfied with me for any reason after three months, **I’ll 
 
 **ROI focused**
 
-The goal is to make your money back by a minimum of 3x your investment (I did way more for my previous clients).  For every test, I closely follow and report how much more money am I helping you make.
+The goal is to make your money back by a minimum of 3x your investment (my clients are getting way more than that). For every test, I closely follow and report how much more money am I helping you make.
 . . . . 
 
 If any of this sounds appealing to you, just reply to my email and we can figure out a time to chat a little more! And if you have any questions, please let me know.
