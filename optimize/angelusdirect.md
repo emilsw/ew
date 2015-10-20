@@ -12,24 +12,24 @@ I looked at (http://angelusdirect.com/cart) and here are some simple things you 
 (Normally I would start with the one that’s leaking the most money by checking your analytics but since I don’t see that, I’m starting with the first step.)
 
 
- 1.**Make your main button (CTA- call to action) stand out** 
+ **1. Make your main button (CTA- call to action) stand out** 
 
 
 
 It should always be obvious how things work. Right now, you need to look for the “proceed to checkout” button, which is the most important button on this page. You don’t want people to leave your site just because they didn’t know how to complete the checkout. Your main buttons should be bold and visible and guide the visitors.
 
- 2.**Be clear about the pricing (and shipping)**
+ **2. Be clear about the pricing (and shipping)**
 
 
 This is the most important part of the page. When people check their carts they want to know how much it’s going to cost them. Right now it’s a little confusing, there’s is no summary… and it’s hard to find it out what are the shipping costs. 
 
- 3.**Remove distractions (make it enclosed)**
+ **3. Remove distractions (make it enclosed)**
 
 
 You are wasting clicks. When people start the checkout process you want them to finish it, so you want to eliminate the links and clicks that lead to somewhere else (in your case that’s your header and footer).
 
 
- 4.**Remind about security**
+ **4. Remind about security**
 
 Security is a serious concern for many people, your job is to remind them that all the information they give you is safe and secure.
 
