@@ -20,14 +20,15 @@ It should always be obvious how things work. Right now, you need to look for the
 
  **2. Be clear about the pricing (and shipping)**
 
+<img src="https://lh6.googleusercontent.com/AYN-YtyaD9dZEhypc5LE1eoczwNSntIgLQlfNVwJDX-hdtI4jHlf3QvE2dUOH6J_PWd4I3Jqmukf2lZ5J3h9S2aTlAKSPBJa5qRnx0FIR1nvRrFpDlt21bo_qeTl0fZl9AyZ9Ufw" width="700">
 
 This is the most important part of the page. When people check their carts they want to know how much it’s going to cost them. Right now it’s a little confusing, there’s is no summary… and it’s hard to find it out what are the shipping costs. 
 
  **3. Remove distractions (make it enclosed)**
 
+<img src="https://lh3.googleusercontent.com/-j9cz_77Xj3X6i8cXZ-EuXspskD6my5c5KACwF2RRg3XaE5HC-rAGJGwbPMxL-FiL0LkqnHae6Qty9MK2Z3OQmQGwuBVQ-IAPQ1f9k1hyG3cnWNswzb5sGoqYVhUBvBqOXIIqvGZ" width="700">
 
 You are wasting clicks. When people start the checkout process you want them to finish it, so you want to eliminate the links and clicks that lead to somewhere else (in your case that’s your header and footer).
-
 
  **4. Remind about security**
 
@@ -37,29 +38,23 @@ Security is a serious concern for many people, your job is to remind them that a
 
 Show related products in the cart. Especially if you are notifying how much they need to spend to qualify for free shipping, make it easy to add more products. Good Examples:
 
-
+<img src="https://lh5.googleusercontent.com/0cFW3dK1b-8me1A1jjsfB60brIQFlUGSClMc8cqANNHFfGvhCNoTtxpton7xQ5RBZcbyE_lM6vL1HIPmuNHx5wfBzBkH6cToKuZVhi9ZjdICjFIwxk9npUKJn-3n8RtqceMyIqG8" width="700">
 
 P.S.
 
 Good job on following up (awesome email :)):
 
-
-
+<img src="https://lh5.googleusercontent.com/-EoTnepsDnuwChIoHbc6Tj-CkQ4ev5HlHxy3q4SMIT2Tn9iB2XrCjQk7y_0PeySI2p4r3e5wrZZh6P6BeOMWIvphUfAf_MsatTWRFQEZktG7Lua9T-Jln-gwnLw9NyvUd_8jJNsH" width="700">
 
 **So what’s next?**
 
 Here’s your new optimized page (based on my suggestions):
 
-
+<img src="https://lh5.googleusercontent.com/LJbXu8zFbFN0rTRnZO71vVCFcOTDAbZu55NRpoN2xY1pOc4SWcju6gS2-AsU6c1KyrDTjlTYjvxlFOv6yuDiz3mJJRHVlwZmiQn4D5UWqqHoiFSd4hc51msPFvm3xToYmONA2Grv" width="700">
 
 What I changed exactly:
 
-
-
-
-
-
-
+<img src="https://lh5.googleusercontent.com/a0Kz3gZJSNnnKnPL7t_8mjXrApCI6Vu4R9gsjYhCqEyfs3FBJA_PJBRRBdBwK_Ra8upRTueaYa5KVufg0Et4AQNKm759Ma_yxDy1_A8ajRjACSMFXAhwhlk9B5I_xOSfIcx-JscL" width="700">
 
 **What kind of results to expect from these changes?**
 
