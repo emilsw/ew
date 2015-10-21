@@ -57,6 +57,8 @@ Just think about what just a 2% or 10% improvement for each checkout page would 
 
 If you keep testing and optimizing, you may possible be looking at 20 - 30% increase in sales over the next 6 months.
 
+It also reduces the cost of your traffic efforts (PPC, SEO, social media) as you get more money back from your website.
+
 . . .
 
 But this may not be your highest priority for your business right now. You’ve got ton of other things on your plate. Optimization does take a lot of time and there are many ways it can go wrong (e.g. not all tests produce meaningful results).
@@ -65,9 +67,9 @@ Let me help you.
 
 With my service, I will do everything you need to do:
 
- * Research your website and analytics to learn where are the biggest source of gains(missed opportunities).
+ * Research your website and analytics to find out where exactly are you loosing customers and which pages should you optimize.
  * Understand your visitors/customers (what motivates them, why they buy and why they don't buy).
- * Create improved versions of your pages based on the insights from the research.
+ * Make improvements to your pages based on the insights from the research.
  * Run A/B tests to make sure that new changes will actually result in more money for you.
  * Rinse and repeat (optimization is an ongoing process, with each test and each change you get new data that will be help you further improve your site).
 
@@ -75,7 +77,7 @@ What you get:
 
  * A free ($29/month) account on [**Convert.com**](http://www.convert.com/). I’m a certified specialist.
  * A free ($33/month) pro account on [**Hotjar.com**](https://www.hotjar.com/). A powerful research tool.
- * Access to all the research material. Heatmaps, scrollmaps, survey results, user sessions replays...valuable information on how your site is actually used and who your customers really are.
+ * Access to all the research material. Heatmaps, scrollmaps, survey results, user sessions replays...valuable information on how your site is actually used and who your customers really are (knowing this will help you become better at marketing your products).
  * Optimization plan for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
  * A/B test for the following month. I set up, run and monitor the test.
 
