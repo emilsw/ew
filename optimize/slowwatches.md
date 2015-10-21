@@ -55,7 +55,7 @@ This is from an actual A/B test. A is the original version, B is the improved ve
 
 Just think about what just a 2% or 10% improvement for each checkout page would do for your business...
 
-If you keep testing and optimizing, you may possible be looking at 20 - 30% increase in sales over the next 6 months.
+If you keep testing and optimizing, you may possible be looking at 20 - 30% (or even more) increase in sales over the next 6 months.
 
 It also reduces the cost of your traffic efforts (PPC, SEO, social media) as you get more money back from your website.
 
