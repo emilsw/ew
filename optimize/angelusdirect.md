@@ -63,11 +63,11 @@ This is from an actual A/B test. A is the original version, B is the improved ve
 
 <img src="https://lh3.googleusercontent.com/_o7aXxTB845_f6Q-Wz6a14_BU9ZxvIGSzTyEm9IlkNLODOiqjxfssyZvCCQqrTnq2f-TI9Lbha3pCQMZGPcgqR26Gy_LcGIQiXSWhsPaj-HfrL__KISdCnb3e-N-y94bk2X_Pt5D" width="700">
 
-**+12.33%** increase in revenue might not seem much, but the changes were small and this increase means approximately 3 million dollars in additional annual revenue for them.
+**+12.33%** increase in revenue might not seem much, but for them it means approximately extra 3 million dollars in additional annual revenue.
 
 Just think about what just a 2% or 10% improvement for each checkout page would do for your business...
 
-If you keep testing and optimizing, you may possible be looking at 20 - 30% increase in sales over the next 6 months.
+If you keep testing and optimizing, you may possible be looking at 20 - 30% (or even more) increase in sales over the next 6 months.
 
 . . .
 
@@ -77,9 +77,9 @@ Let me help you.
 
 With my service, I will do everything you need to do:
 
- * Research your website and analytics to learn where are the biggest source of gains(missed opportunities).
+ * Research your website and analytics to find out where exactly are you loosing customers and which pages should you optimize.
  * Understand your visitors/customers (what motivates them, why they buy and why they don't buy).
- * Create improved versions of your pages based on the insights from the research.
+ * Make improvements to your pages based on the insights from the research.
  * Run A/B tests to make sure that new changes will actually result in more money for you.
  * Rinse and repeat (optimization is an ongoing process, with each test and each change you get new data that will be help you further improve your site).
 
@@ -87,7 +87,7 @@ What you get:
 
  * A free ($29/month) account on [**Convert.com**](http://www.convert.com/). I’m a certified specialist.
  * A free ($33/month) pro account on [**Hotjar.com**](https://www.hotjar.com/). A powerful research tool.
- * Access to all the research material. Heatmaps, scrollmaps, survey results, user sessions replays...valuable information on how your site is actually used and who your customers really are.
+ * Access to all the research material. Heatmaps, scrollmaps, survey results, user sessions replays...valuable information on how your site is actually used and who your customers really are (knowing this will help you become better at marketing your products).
  * Optimization plan for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
  * A/B test for the following month. I set up, run and monitor the test.
 
