@@ -5,7 +5,7 @@ title: Slow Watches
 
 Hi Corvin,
 
-You may have heard that shopping cart abandonment is the main reason [why online retailers are losing 68.53% of sales](http://baymard.com/lists/cart-abandonment-rate) (that's a lot of money). The good news is that with a few fixes you can get some of that money back.
+I'm sure you have heard that shopping cart abandonment is the main reason [why online retailers are losing 68.53% of sales](http://baymard.com/lists/cart-abandonment-rate) (I know you have some background in ecommerce). 
 
 I looked at <https://www.slow-watches.com/checkout/cart/> and here are some simple things you can change to improve it and boost your revenue:
 
