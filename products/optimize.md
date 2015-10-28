@@ -111,6 +111,7 @@ Here’s an actual screenshot from one of my clients Google Analytics account:
 Here’s what one of them said about me:
 
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
+>
 > --Tom Ewer, leavingworkbehind.com.
 
 And here are actual results from one recent test:
