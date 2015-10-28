@@ -5,6 +5,8 @@ title: Make your website better at making money
 
 #Make your website better at making money#
 
+###Monthly optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.###
+
 What online marketing method provides you with the greatest ROI? 
 
 If you are looking to grow your business, you really have just two choices (broadly speaking): 
@@ -16,7 +18,6 @@ Sure, you need visitors foremost, but money spent on acquiring more of them disa
 
 But money spent on optimization keeps coming back with each new visitor and customer… 
 
-Introducing a monthly optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.
 
 -----------
 
