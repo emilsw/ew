@@ -123,7 +123,7 @@ Here’s what one of them said about me:
 >
 > --Tom Ewer, leavingworkbehind.com.
 
-And here are actual results from one recent test:
+And here are actual results from one a recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
@@ -160,7 +160,7 @@ Got questions? Shoot me an email and I’ll get back to you as soon as I can: em
 
 Thanks for reading!
 
-Cheers, 
+Cheers,\s\s 
 Emils Veveris
 
 (In my [native language](https://en.wikipedia.org/wiki/Latvian_language), all male words end with ‘s’.... I know it’s weird. You can call me Emil.)
