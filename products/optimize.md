@@ -18,7 +18,7 @@ Introducing a monthly optimization service that keeps improving your website eve
 
 -----------
 
-**Every day that passes you by is a day of lost potential revenue.**
+###Every day that passes you by is a day of lost potential revenue.###
 
 The chances are high that last month, a healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
 
@@ -30,7 +30,7 @@ Think about how many sales you lose this way on a yearly basis.
 
 -------------
 
-**Optimization makes your business grow faster and outperform your competition**
+###Optimization makes your business grow faster and outperform your competition###
 
 If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
 
@@ -44,7 +44,7 @@ And it’s relatively new, your competitors are probably not doing it. You can u
 
 -------------
 
-**Optimization is not simple (it requires multiple skill sets and experience.)**
+###Optimization is not simple (it requires multiple skill sets and experience.)###
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
