@@ -24,7 +24,7 @@ Introducing **Optimize**, a monthly website optimization service that keeps impr
 
 The chances are high that last month, a healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
 
-And the next month, approximately the same amount of people won’t buy either.... possibly because of the same reasons (which can be fixed). 
+And the next month, approximately the same amount of people (or even more) won’t buy either.... possibly because of the same reasons (which can be fixed). 
 
 Think about how many sales you lose this way on a yearly basis.
 
