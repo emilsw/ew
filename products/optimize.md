@@ -14,7 +14,7 @@ Sure, you need visitors foremost, but money spent on acquiring more of them disa
 
 But money spent on optimization keeps coming back with each new visitor and customer… 
 
-Introducing a monthly optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.
+####Introducing a monthly optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.####
 
 -----------
 
