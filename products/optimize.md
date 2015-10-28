@@ -98,6 +98,8 @@ I’m Emils. I help internet business owners increase their conversion rate and 
 
 ![EA4tbFQy-gsHngyZRKHlSqt9qNC65L1luGD4pQC9PJ9rdTpZgs3TQCenP04dSHXd2W0ChY9vL_SKnsQo2f_OoHEwdIs=s2048.png](https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4) 
 
+<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
+
 ###Are you any good at what you do?###
 
 Here are some of the awesome businesses I've had the pleasure of working with:
@@ -111,7 +113,8 @@ Here’s an actual screenshot from one of my clients Google Analytics account:
 Here’s what one of them said about me:
 
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
->--Tom Ewer, leavingworkbehind.com.
+
+> --Tom Ewer, leavingworkbehind.com.
 
 
 And here are results from one recent test (after 4 weeks of testing):
