@@ -117,3 +117,11 @@ background-color: #E04216;
 border-color: #E04216;
 box-shadow: inset 0 2px 0 rgba(0, 0, 0, .15);
 }
+
+blockquote {
+    border-left: 3px solid #eee;
+    color: #666;
+    font-style: italic;
+    margin-left: 0;
+    padding-left: 1em;
+}
