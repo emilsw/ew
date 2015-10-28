@@ -10,7 +10,7 @@ Fill this out and I'll be back to you with more information in a day. I keep all
 > -Tom Ewer, leavingworkbehind.com.
 
 
-<form action="http://formspree.io/emils.veveris@gmail.com" method="POST" id="my-form" class="pure-form">
+<form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 <p>Name:
 <br><input name="first_name" type="text" required></p>
 
