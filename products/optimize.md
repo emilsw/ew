@@ -18,6 +18,8 @@ But money spent on optimization keeps coming back with each new visitor and cust
 
 Introducing **Optimize**, a monthly website optimization service that keeps improving your website every month using solid user research, analytics, and testing to boost your revenue.
 
+
+
 ###Every day that passes you by is a day of lost potential revenue.###
 
 The chances are high that last month, a healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
