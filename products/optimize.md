@@ -106,7 +106,7 @@ Here are some of the awesome businesses I've had the pleasure of working with:
 
 Here’s an actual screenshot from one of my clients Google Analytics account:
 
-<img src="https://draftin.com:443/images/33356?token=Kd2Spi8V1yCcA-mQolWAv3dbUDI6Llrp2kzu5CH8ga66FKpezoWR1Pp1PRy6bK3b8LqnzIXmGpFbz4ujOFeshok" width="700" />
+<img src="https://draftin.com:443/images/33356?token=Kd2Spi8V1yCcA-mQolWAv3dbUDI6Llrp2kzu5CH8ga66FKpezoWR1Pp1PRy6bK3b8LqnzIXmGpFbz4ujOFeshok" width="790" />
 
 Here’s what one of them said about me:
 
@@ -116,7 +116,7 @@ Here’s what one of them said about me:
 
 And here are results from one recent test (after 4 weeks of testing):
 
-<img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="700" />
+<img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
 ###How much is this?###
 
