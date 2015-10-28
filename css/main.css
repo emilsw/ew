@@ -125,3 +125,16 @@ blockquote {
     margin-left: 0;
     padding-left: 1em;
 }
+
+.cta {
+    margin: 0 10em;
+    background-color: #2E4951;
+    border-bottom: 3px solid black;
+    color: #ffffff !important;
+    display: block;
+    font-family: 'Oswald', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 0.5em 0 0.4em 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
