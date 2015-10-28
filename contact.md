@@ -36,7 +36,7 @@ Fill this out and I'll be back to you with more information in a day. I keep all
 <p>What's your history of marketing and A/B testing?:
 <br><textarea name="goal" required></textarea></p>
 
-<p><button type="submit" class="cta">Let's Get Started</button></p>
+<p><button type="submit" class="pure-button pure-button-primary">Let's Get Started</button></p>
 
 <input name="_next" type="hidden" value="http://www.emilsw.com/thanks">
 <input name="_subject" type="hidden" value="EW Application">
