@@ -145,6 +145,8 @@ The best time to start growing your business was last year. The second best time
 
 <a href="http://www.emilsw.com/contact" class="button-primary">Click here to apply now</a>
 
+<a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a>
+
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
 
 Thanks for reading!
