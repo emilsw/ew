@@ -16,7 +16,7 @@ Sure, you need visitors foremost, but money spent on acquiring more of them disa
 
 But money spent on optimization keeps coming back with each new visitor and customer.
 
-Introducing **Optimize**, a monthly website optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.
+Introducing **Optimize**, a monthly website optimization service that keeps improving your website every month using solid user research, analytics, and testing to boost your revenue.
 
 ###Every day that passes you by is a day of lost potential revenue.###
 
