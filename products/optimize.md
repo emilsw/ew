@@ -30,7 +30,7 @@ Think about how many sales you lose this way on a yearly basis.
 
 [People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) by neglecting to optimize. You are missing a lot of opportunities and if you keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
 
-</br>
+&nbsp;
 
 ###Optimization makes your business grow faster and outperform your competition###
 
@@ -44,7 +44,7 @@ You will also maximize returns from all your other marketing efforts (CPA) as yo
 
 And it’s relatively new, your competitors are probably not doing it. You can use it to gain competitive advantage.
 
-</br>
+&nbsp;
 
 ###Optimization is not simple (it requires multiple skill sets and experience.)###
 
@@ -74,7 +74,7 @@ With my service, I will do everything you need to do:
 
 If your investment in my services isn’t able to generate a return for you, I’ll fire myself. I don’t want you to waste your money if I can’t give you a good ROI.
 
-</br>
+&nbsp;
 
 ###Who is this for?###
 
@@ -85,7 +85,7 @@ I’m looking for people who have great businesses and are interested in long-te
  - You’re serious about investing in strategies that will help you maximize your returns from your website.
 You’re ready to set long-term goals, not just short-term goals.
 
-</br>
+&nbsp;
 
 ###What you get:###
 
@@ -97,7 +97,7 @@ You’re ready to set long-term goals, not just short-term goals.
 
 To put it simply, I’ll focus on improving your website every month so you can focus on running your business.
 
-</br>
+&nbsp;
 
 ###Who am I?###
 
@@ -105,7 +105,7 @@ I’m Emils. I help internet business owners increase their conversion rate and 
 
 <img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
-</br>
+&nbsp;
 
 ###Are you any good at what you do?###
 
@@ -127,7 +127,7 @@ And here are actual results from one recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
-</br>
+&nbsp;
 
 ###Pricing###
 
@@ -146,7 +146,7 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 3x your investment (my clients are getting way more than that). For every test, I closely follow and report how much more money am I helping you make. . 
 
-</br>
+&nbsp;
 
 ###Apply today###
 
@@ -161,7 +161,6 @@ Got questions? Shoot me an email and I’ll get back to you as soon as I can: em
 Thanks for reading!
 
 Cheers,
-
 Emils Veveris
 
 (In my [native language](https://en.wikipedia.org/wiki/Latvian_language), all male words end with ‘s’.... I know it’s weird. You can call me Emil.)
