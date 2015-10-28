@@ -118,6 +118,8 @@ And here are actual results from one recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
+------------
+
 ###Pricing###
 
 I have several plans and it ranges from $1200 - $3000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
@@ -142,8 +144,6 @@ All I care about is how much revenue and profit I can drive to your business. Th
 If any of this sounds appealing to you, start by filling out [this form](http://www.emilsw.com/contact).
 
 The best time to start growing your business was last year. The second best time to start is right now.
-
-<a href="http://www.emilsw.com/contact" class="button-primary">Click here to apply now</a>
 
 <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a>
 
