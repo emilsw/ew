@@ -3,7 +3,7 @@ layout: default
 title: Make your website better at making money
 ---
 
-* Make your website better at making money *
+#Make your website better at making money#
 
 What online marketing method provides you with the greatest ROI? If you are looking to grow your business, you really have just two choices (broadly speaking): 
 
