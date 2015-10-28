@@ -15,7 +15,7 @@ Fill this out and I'll be back to you with more information in a day. I keep all
 <br><input name="first_name" type="text" required></p>
 
 <p>Email address:
-<br><input name="email" type="email" required></p>
+<br><input name="email" type="email" placeholder="Email" required></p>
 
 <p>Website URL:
 <br><input name="url" type="text" required></p>
