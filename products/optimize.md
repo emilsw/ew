@@ -64,15 +64,15 @@ I spent years figuring this stuff out on my own, made every possible mistake wit
 
 With my service, I will do everything you need to do:
 
- - Research your website and analytics to find out where exactly are you losing customers and which pages should you optimize.
- - Understand your visitors/customers (what motivates them, why they buy and why they don’t buy).
- - Make improvements and suggestions based on the insights from the research.
- - Run A/B tests to make sure that new changes will actually result in more money for you.
- - Rinse and repeat (optimization is an iterative process, with each test and each change you get new data that will help you further improve your site).
+ - **Research your website and analytics** to find out where exactly are you losing customers and which pages should you optimize.
+ - **Understand your visitors/customers** (what motivates them, why they buy and why they don’t buy).
+ - **Make improvements and suggestions** based on the insights from the research.
+ - **Run A/B tests** to make sure that new changes will actually result in more money for you.
+ - **Rinse and repeat** (optimization is an iterative process, with each test and each change you get new data that will help you further improve your site).
 
 If your investment in my services isn’t able to generate a return for you, I’ll fire myself. I don’t want you to waste your money if I can’t give you a good ROI.
 
-**Who is this for?**
+###Who is this for?###
 
 I’m looking for people who have great businesses and are interested in long-term success on the web. But this isn’t for everyone, you should apply if:
 
@@ -82,13 +82,13 @@ I’m looking for people who have great businesses and are interested in long-te
 You’re ready to set long-term goals, not just short-term goals.
 
 
-**What you get:**
+###What you get:###
 
- - A free ($29/month) account on **Convert.com**. I’m a certified specialist.
- - A free ($33/month) pro account on **Hotjar.com**. A powerful research tool.
- - Access to all the research material. Heatmaps, scroll maps, survey results, user sessions replays…valuable information on how your site is actually used and who your customers really are (knowing this will help you become better at marketing your products).
- - Optimization game plan for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
- - A/B testing. I set up, run and monitor the tests.
+ - **A free ($29/month) account on Convert.com.** I’m a certified specialist.
+ - **A free ($33/month) pro account on Hotjar.com.** A powerful research tool.
+ - **Access to all the research material. Heatmaps**, scroll maps, survey results, user sessions replays…valuable information on how your site is actually used and who your customers really are (knowing this will help you become better at marketing your products).
+ - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
+ - **A/B testing.** I set up, run and monitor the tests.
 
 To put it simply, I’ll focus on improving your website every month so you can focus on running your business.
 
@@ -98,7 +98,7 @@ I’m Emils. I help internet business owners increase their conversion rate and 
 
 ![EA4tbFQy-gsHngyZRKHlSqt9qNC65L1luGD4pQC9PJ9rdTpZgs3TQCenP04dSHXd2W0ChY9vL_SKnsQo2f_OoHEwdIs=s2048.png](https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4) 
 
-**Are you any good at what you do?**
+###Are you any good at what you do?###
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
@@ -110,16 +110,15 @@ Here’s an actual screenshot from one of my clients Google Analytics account:
 
 Here’s what one of them said about me:
 
-*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
-
---Tom Ewer, leavingworkbehind.com.
+>*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
+>--Tom Ewer, leavingworkbehind.com.
 
 
 And here are results from one recent test (after 4 weeks of testing):
 
 ![pasted image 0.png](https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4) 
 
-**How much is this?**
+###How much is this?###
 
 I have several plans and it ranges from $1200 - $3000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
 
