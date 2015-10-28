@@ -143,7 +143,7 @@ If any of this sounds appealing to you, start by filling out [this form](http://
 
 The best time to start growing your business was last year. The second best time to start is right now.
 
-<a href="http://www.emilsw.com/contact" class="button button-primary">Click here to apply now</a>
+<a href="http://www.emilsw.com/contact" button type="submit" class="button button-primary">Click here to apply now</a>
 
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
 
