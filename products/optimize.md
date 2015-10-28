@@ -42,6 +42,8 @@ You will also maximize returns from all your other marketing efforts (CPA) as yo
 
 And it’s relatively new, your competitors are probably not doing it. You can use it to gain competitive advantage.
 
+-------------
+
 **Optimization is not simple (it requires multiple skill sets and experience.)**
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
@@ -58,7 +60,7 @@ Plus this may not be your highest priority for your business right now. You’ve
 
 I spent years figuring this stuff out on my own, made every possible mistake with my own projects, sifted through lots of websites, books, courses, closely followed and learned from top experts, saw and personally experienced what works and what doesn’t work. 
 
-Let me help save you hours of unnecessary trouble and frustration. Let me work alongside you to make your business run smarter and more profitable.
+**Let me help save you hours of unnecessary trouble and frustration.** Let me work alongside you to make your business run smarter and more profitable.
 
 With my service, I will do everything you need to do:
 
@@ -81,6 +83,7 @@ You’re ready to set long-term goals, not just short-term goals.
 
 
 **What you get:**
+
  - A free ($29/month) account on **Convert.com**. I’m a certified specialist.
  - A free ($33/month) pro account on **Hotjar.com**. A powerful research tool.
  - Access to all the research material. Heatmaps, scroll maps, survey results, user sessions replays…valuable information on how your site is actually used and who your customers really are (knowing this will help you become better at marketing your products).
