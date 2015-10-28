@@ -96,19 +96,17 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 I’m Emils. I help internet business owners increase their conversion rate and sales. I optimize your website so you can turn more of your existing visitors into happy customers and grow your business faster.
 
-![EA4tbFQy-gsHngyZRKHlSqt9qNC65L1luGD4pQC9PJ9rdTpZgs3TQCenP04dSHXd2W0ChY9vL_SKnsQo2f_OoHEwdIs=s2048.png](https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4) 
-
 <img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
 ###Are you any good at what you do?###
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
-![pasted image 0.png](https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY) 
+<img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
 
 Here’s an actual screenshot from one of my clients Google Analytics account:
 
-![pasted image 0.png](https://draftin.com:443/images/33356?token=Kd2Spi8V1yCcA-mQolWAv3dbUDI6Llrp2kzu5CH8ga66FKpezoWR1Pp1PRy6bK3b8LqnzIXmGpFbz4ujOFeshok) 
+<img src="https://draftin.com:443/images/33356?token=Kd2Spi8V1yCcA-mQolWAv3dbUDI6Llrp2kzu5CH8ga66FKpezoWR1Pp1PRy6bK3b8LqnzIXmGpFbz4ujOFeshok" width="500" />
 
 Here’s what one of them said about me:
 
@@ -116,10 +114,9 @@ Here’s what one of them said about me:
 
 > --Tom Ewer, leavingworkbehind.com.
 
-
 And here are results from one recent test (after 4 weeks of testing):
 
-![pasted image 0.png](https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4) 
+<img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="500" />
 
 ###How much is this?###
 
