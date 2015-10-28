@@ -135,7 +135,7 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 3x your investment (my clients are getting way more than that). For every test, I closely follow and report how much more money am I helping you make. . 
 
-. . .
+------------
 
 ###Apply today###
 
@@ -143,7 +143,7 @@ If any of this sounds appealing to you, start by filling out [this form](http://
 
 The best time to start growing your business was last year. The second best time to start is right now.
 
-<a href="http://www.emilsw.com/contact" class="cta">Click here to apply now</a>
+<a href="http://www.emilsw.com/contact" button type="submit" class="cta">Click here to apply now</a>
 
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
 
