@@ -5,8 +5,6 @@ title: Make your website better at making money
 
 #Make your website better at making money#
 
-####A Monthly optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.####
-
 What online marketing method provides you with the greatest ROI? 
 
 If you are looking to grow your business, you really have just two choices (broadly speaking): 
@@ -16,10 +14,9 @@ If you are looking to grow your business, you really have just two choices (broa
 
 Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything (not to mention paid advertising is only getting more costly and competitive and SEO is only getting harder....)
 
-But money spent on optimization keeps coming back with each new visitor and customer… 
+But money spent on optimization keeps coming back with each new visitor and customer.
 
-
------------
+Introducing **Optimize**, a monthly website optimization service that keeps improving your website every month using solid user research, analytics, and testing to increase your performance and boost your revenue.
 
 ###Every day that passes you by is a day of lost potential revenue.###
 
@@ -30,8 +27,6 @@ And the next month, approximately the same amount of people won’t buy either..
 Think about how many sales you lose this way on a yearly basis.
 
 [People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) by neglecting to optimize. You are missing a lot of opportunities and if you keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
-
--------------
 
 ###Optimization makes your business grow faster and outperform your competition###
 
@@ -44,8 +39,6 @@ Just a 5% improvement in sales each month is almost 80% improvement over 12 mont
 You will also maximize returns from all your other marketing efforts (CPA) as your website will be more effective in converting visitors into customers. To put it simply - if you double conversion rates, then you cut your costs per acquisition in half.
 
 And it’s relatively new, your competitors are probably not doing it. You can use it to gain competitive advantage.
-
--------------
 
 ###Optimization is not simple (it requires multiple skill sets and experience.)###
 
@@ -95,7 +88,7 @@ You’re ready to set long-term goals, not just short-term goals.
 
 To put it simply, I’ll focus on improving your website every month so you can focus on running your business.
 
-**Who am I?**
+###Who am I?###
 
 I’m Emils. I help internet business owners increase their conversion rate and sales. I optimize your website so you can turn more of your existing visitors into happy customers and grow your business faster.
 
@@ -121,7 +114,6 @@ And here are actual results from one recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
-------------
 
 ###Pricing###
 
@@ -140,7 +132,6 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 3x your investment (my clients are getting way more than that). For every test, I closely follow and report how much more money am I helping you make. . 
 
-------------
 
 ###Apply today###
 
