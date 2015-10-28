@@ -160,7 +160,7 @@ Got questions? Shoot me an email and I’ll get back to you as soon as I can: em
 
 Thanks for reading!
 
-Cheers,
+Cheers, 
 Emils Veveris
 
 (In my [native language](https://en.wikipedia.org/wiki/Latvian_language), all male words end with ‘s’.... I know it’s weird. You can call me Emil.)
