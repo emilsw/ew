@@ -114,7 +114,7 @@ Here’s what one of them said about me:
 
 > --Tom Ewer, leavingworkbehind.com.
 
-And here are results from one recent test (after 4 weeks of testing):
+And here are actual results from one recent test (after 4 weeks of testing):
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
