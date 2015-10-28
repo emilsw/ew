@@ -137,17 +137,20 @@ All I care about is how much revenue and profit I can drive to your business. Th
 
 . . .
 
-**Apply today**
+###Apply today###
+
+If any of this sounds appealing to you, start by filling out [this form](http://www.emilsw.com/contact).
 
 The best time to start growing your business was last year. The second best time to start is right now.
 
-If any of this sounds appealing to you, reserve your spot today
+<a href="http://www.emilsw.com/contact" class="button button-primary">Click here to apply now</a>
 
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
 
 Thanks for reading!
 
 Cheers,
+
 Emils Veveris
 
 (In my [native language](https://en.wikipedia.org/wiki/Latvian_language), all male words end with ‘s’.... I know it’s weird. You can call me Emil.)
