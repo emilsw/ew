@@ -118,7 +118,7 @@ And here are actual results from one recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
-###How much is this?###
+###Pricing###
 
 I have several plans and it ranges from $1200 - $3000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
 
