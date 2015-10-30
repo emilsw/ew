@@ -50,9 +50,9 @@ And it’s relatively new, your competitors are probably not doing it. You can u
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
-And the technical and analytical nature of testing can be too much of a headache.
+The technical and analytical nature of testing can be too much of a headache.
 
-There are lots of myths and faulty case studies out there. What works for others will not necessarily work for you, because you have a different business model and a different target audience, different traffic sources —copying ‘best practices’ is simply unreliable.
+And there are lots of myths and faulty case studies out there. What works for others will not necessarily work for you, because you have a different business model and a different target audience, different traffic sources —copying ‘best practices’ is simply unreliable.
 
 The simple truth is that you don’t know what works best, no one does. Except your visitors and customers because they vote with their wallets - that’s why you need to do some solid research and test all your assumptions…
 
