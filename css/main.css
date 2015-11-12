@@ -60,6 +60,10 @@ li {
     padding-bottom: 5px;
 }
 
+li.right { 
+    float:right; 
+}
+
 blockquote {
     border-left: 3px solid #eee;
     color: #666;
