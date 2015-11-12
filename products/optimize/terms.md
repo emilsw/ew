@@ -24,6 +24,7 @@ This is an Optimization Retainer Agreement between EW Limited (“we,” “us,�
 **Refund:** Whether you’ve chosen a month-to-month billing plan or an quarterly plan, you’re welcome to a full refund of your most recent month’s payment after three months if you’re unsatisfied with our service – though it often takes that long to see any results. To take advantage of this refund, you need to terminate our services and ask us in writing (an email to emils.veveris@gmail.com will do fine) for a refund within thirty days of the three-month anniversary of this agreement. No refund is available before or after that time period.
 
 **Services:** Under all plans, we’ll provide the following services:
+
  * Analytics & Website research - find out where exactly are you losing customers and which pages should you optimize (Includes heat tracking maps, which show where people are generally clicking most often on your website; click maps, which allow you to hover over different elements of a web page and receive data about how many people are clicking on that portion of the page
  * User research - surveys and polls to better understand your visitors and customers (what motivates them, why they buy and why they don’t buy, etc.)
  * Optimization plan - list of proposed A/B tests and changes to your website based on the insights from our research.
