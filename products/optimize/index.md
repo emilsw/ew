@@ -150,13 +150,13 @@ All I care about is how much revenue and profit I can drive to your business. Th
 
 ###Apply today###
 
-If any of this sounds appealing to you, start by filling out [this form](http://www.emilsw.com/contact).
-
 The best time to start growing your business was last year. The second best time to start is right now.
 
 <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a>
 
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
+
+If you’re curious, you can take a look at [terms and conditions](http://www.emilsw.com/products/optimize/terms)
 
 Thanks for reading!
 
