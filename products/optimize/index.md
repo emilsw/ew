@@ -139,7 +139,7 @@ I’d like to work with you for an initial three-month engagement, in order to g
 
 And if you’re unsatisfied with me for any reason after three months, **I’ll provide you with a full refund of your most recent month’s payment**. I stand behind all the work that I do.
 
-But please note as a solo consultant, there is a physical limit to how many clients I can service in a month. Therefore, at the moment I’ve got the capacity to take on **only 3 new clients**.
+But please note as a solo consultant, there is a physical limit to how many clients I can service in a month. Therefore, at the moment I’ve got the capacity to take on **only  <strike>4</strike> 3 new clients**.
 
 
 **ROI focused**
