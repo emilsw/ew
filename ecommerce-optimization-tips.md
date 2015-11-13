@@ -4,7 +4,8 @@ title: Make your ecommerce store better at making money
 ---
 
 #Make your ecommerce store better at making money#
-##Last month, there were plenty of people that almost bought from you but they didn’t## 
+
+##Last month, there were plenty of people that almost bought from you but they didn’t##
 
 They were distracted, confused or just plain frustrated with the whole buying experience.
 
@@ -18,7 +19,24 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 ##Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.##
  
-[Your URL - Get Free Optimization Ideas]
+
+<form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
+
+<fieldset>
+ 
+ <input name="Your Email Address" type="email" required>
+
+ <input name="Your Website URL" type="text" required>
+
+ <button type="submit" class="pure-button pure-button-primary"> Get Free Optimization Ideas </button>
+
+<input name="_next" type="hidden" value="http://www.emilsw.com/thanks">
+<input name="_subject" type="hidden" value="EW Free Application">
+
+</fieldset>
+
+</form>
+
 
 I guarantee 100% privacy. Your information will not be shared.
 
@@ -40,7 +58,22 @@ And here are actual results after improving my clients shopping cart:
 
 Apply now
 
-[Your URL - Get Free Optimization Ideas]
+<form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
+
+<fieldset>
+ 
+ <input name="Your Email Address" type="email" required>
+
+ <input name="Your Website URL" type="text" required>
+
+ <button type="submit" class="pure-button pure-button-primary"> Get Free Optimization Ideas </button>
+
+<input name="_next" type="hidden" value="http://www.emilsw.com/thanks">
+<input name="_subject" type="hidden" value="EW Free Application">
+
+</fieldset>
+
+</form>
 
 Got questions? 
 
