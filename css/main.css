@@ -81,6 +81,7 @@ textarea {
 
 fieldset {
   background-color:#CCC;
-  padding:16px;	
+  padding:20px;	
+  border-radius:8px;
   
 }
