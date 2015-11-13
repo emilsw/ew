@@ -19,7 +19,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 ##Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free##
 
 
-
+<div class="optin">
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
 <fieldset>
@@ -38,6 +38,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 <span style="font-size:12px;">I guarantee 100% privacy. Your information will not be shared</span>
 
 </form>
+</div>
 ---
 
 
