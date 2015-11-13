@@ -78,3 +78,9 @@ textarea {
     height:170px;
     
 }
+
+fieldset {
+  background-color:#CCC;
+  padding:16px;	
+  
+}
