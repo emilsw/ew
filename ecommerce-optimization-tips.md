@@ -5,7 +5,7 @@ title: Make your ecommerce store better at making money
 
 #Make your ecommerce store better at making money#
 
-####Last month, there were plenty of people that almost bought from you but they didn’t####
+####Last month, there were plenty of people that almost bought from you but they didn’t...####
 
 They were distracted, confused or just plain frustrated with the whole buying experience.
 
@@ -16,7 +16,7 @@ And because of that, every day that passes you by is a day of lost potential rev
 But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
 
 
-###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free.###
+###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free###
 
 ----
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
@@ -34,7 +34,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 </fieldset>
 
-<span style="color:#efefef; text-align:center;">I guarantee 100% privacy. Your information will not be shared</span>
+<span style="color:#efefef; align:center; font-size:12px;">I guarantee 100% privacy. Your information will not be shared</span>
 
 </form>
 ----
