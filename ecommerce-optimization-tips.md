@@ -17,7 +17,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 <div class="optin">
 
-<h2>Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free</h2>
+<h2>Enter your website URL below and get specific 3-5 optimization recommendations for your ecommerce store for free</h2>
 
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
