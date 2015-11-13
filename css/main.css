@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 54%;
+    width: 55%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
     font-size: 1.3em;
@@ -83,5 +83,5 @@ textarea {
   background-color:#efefef;
   padding: 15px;
   border-radius: 3px;
-  
+  text-align: center;
 }
