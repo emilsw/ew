@@ -20,7 +20,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 <fieldset>
 
-<legend>###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.###</legend>
+###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.###
 
  <input name="email" type="email" placeholder="Your Email Address" required>
 
@@ -41,28 +41,34 @@ I guarantee 100% privacy. Your information will not be shared.
 
 Please note as a solo consultant, there is a physical limit to how many people I can service for free.
 
-I’ve got room for only 5 free site reviews at the moment.
+I’ve got room for only Five free site reviews at the moment.
 
 
-Who’s behind this?
+###Who’s behind this?###
 
 I’m Emils, I’m an optimization consultation. I help ecommerce stores grow more revenue by turning more of their website visitors into happy customers.
 
+<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
-Are you any good at what you do?
+###Are you any good at what you do?###
+
 Here are some of the awesome businesses I’ve had the pleasure of working with:
+
+<img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
 
 And here are actual results after improving my clients shopping cart:
 
-Apply now
+<img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
+
+###Apply now###
 
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
 <fieldset>
  
- <input name="Your Email Address" type="email" required>
+ <input name="email" type="email" placeholder="Your Email Address" required>
 
- <input name="Your Website URL" type="text" required>
+ <input name="url" type="text" placeholder="Your Website URL" required>
 
  <button type="submit" class="pure-button pure-button-primary"> Get Free Optimization Ideas </button>
 
