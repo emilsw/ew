@@ -18,6 +18,7 @@ And because of that, every day that passes you by is a day of lost potential rev
 But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
 
 ----
+
 ###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free.###
 
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
@@ -56,25 +57,6 @@ Here are some of the awesome businesses I’ve had the pleasure of working with:
 And here are actual results after improving my clients shopping cart:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
-
-###Apply now###
-
-<form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
-
-<fieldset>
- 
- <input name="email" type="email" placeholder="Your Email Address" required>
-
- <input name="url" type="text" placeholder="Your Website URL" required>
-
- <button type="submit" class="pure-button pure-button-primary"> Get Free Optimization Ideas </button>
-
-<input name="_next" type="hidden" value="http://www.emilsw.com/thanks">
-<input name="_subject" type="hidden" value="EW Free Application">
-
-</fieldset>
-
-</form>
 
 
 ###Got questions?###
