@@ -15,11 +15,10 @@ And because of that, every day that passes you by is a day of lost potential rev
 
 But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
 
+<div class="optin">
 
 ##Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free##
 
-
-<div class="optin">
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
 <fieldset>
@@ -39,7 +38,6 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 </form>
 </div>
----
 
 
 Please note as a solo consultant, there is a physical limit to how many people I can service for free. I’ve got room for **<span style="color:red">only five site reviews at the moment </span>**.
