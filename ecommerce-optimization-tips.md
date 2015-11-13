@@ -9,7 +9,7 @@ title: Make your ecommerce store better at making money
 
 They were distracted, confused or just plain frustrated with the whole buying experience.
 
-Your site is probably doing less than average job when it comes to converting visitors into happy and paying a little more customers.
+Your site is probably doing less than average job when it comes to converting visitors into happy customers.
 
 And because of that, every day that passes you by is a day of lost potential revenue (think about how much money that is on a yearly basis….).
 
