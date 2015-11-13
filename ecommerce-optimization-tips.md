@@ -5,7 +5,7 @@ title: Make your ecommerce store better at making money
 
 #Make your ecommerce store better at making money#
 
-####Last month, there were plenty of people that almost bought from you but they didn’t...####
+####Last month, there were plenty of people that almost bought from you but....####
 
 They were distracted, confused or just plain frustrated with the whole buying experience.
 
@@ -34,7 +34,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 </fieldset>
 
-<span style="color:#efefef; align:center; font-size:12px;">I guarantee 100% privacy. Your information will not be shared</span>
+<span style="font-size:12px;">I guarantee 100% privacy. Your information will not be shared</span>
 
 </form>
 ----
