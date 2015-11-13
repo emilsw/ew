@@ -5,19 +5,7 @@ title: Make your ecommerce store better at making money
 
 #Make your ecommerce store better at making money#
 
-##Last month, there were plenty of people that almost bought from you but they didn’t##
-
-They were distracted, confused or just plain frustrated with the whole buying experience.
-
-There were also a lot people who could have (and were willing to) spend more money with you if you just offered them a chance to do so.
-
-Your site is probably doing less than average job when it comes to converting visitors into happy and paying a little more customers.
-
-And because of that, every day that passes you by is a day of lost potential revenue (think about how much money that is on a yearly basis….).
-
-But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
-
-####Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.####
+####Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free.####
 
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
@@ -32,17 +20,23 @@ But it doesn’t have to be that way, even small changes and improvements to you
 <input name="_next" type="hidden" value="http://www.emilsw.com/thanks">
 <input name="_subject" type="hidden" value="EW Free Application">
 
+<legend>I guarantee 100% privacy. Your information will not be shared</legend>
 </fieldset>
 
 </form>
 
 
-I guarantee 100% privacy. Your information will not be shared.
+##Last month, there were plenty of people that almost bought from you but they didn’t##
 
+They were distracted, confused or just plain frustrated with the whole buying experience.
 
-Please note as a solo consultant, there is a physical limit to how many people I can service for free.
+There were also a lot people who could have (and were willing to) spend more money with you if you just offered them a chance to do so.
 
-I’ve got room for only Five free site reviews at the moment.
+Your site is probably doing less than average job when it comes to converting visitors into happy and paying a little more customers.
+
+And because of that, every day that passes you by is a day of lost potential revenue (think about how much money that is on a yearly basis….).
+
+But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
 
 
 ###Who’s behind this?###
@@ -80,6 +74,10 @@ And here are actual results after improving my clients shopping cart:
 
 </form>
 
-Got questions? 
+Please note as a solo consultant, there is a physical limit to how many people I can service for free.
+
+I’ve got room for only Five free site reviews at the moment.
+
+##Got questions?##
 
 Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
