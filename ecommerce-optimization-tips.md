@@ -9,8 +9,6 @@ title: Make your ecommerce store better at making money
 
 They were distracted, confused or just plain frustrated with the whole buying experience.
 
-There were also a lot people who could have (and were willing to) spend more money with you if you just offered them a chance to do so.
-
 Your site is probably doing less than average job when it comes to converting visitors into happy and paying a little more customers.
 
 And because of that, every day that passes you by is a day of lost potential revenue (think about how much money that is on a yearly basis….).
@@ -42,6 +40,9 @@ But it doesn’t have to be that way, even small changes and improvements to you
 ----
 
 Please note as a solo consultant, there is a physical limit to how many people I can service for free. I’ve got room for **<span style="color:red">only five site reviews at the moment </span>**.
+
+
+<br></br>
 
 ###Who’s behind this?###
 
