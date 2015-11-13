@@ -55,7 +55,7 @@ Here are some of the awesome businesses I’ve had the pleasure of working with:
 
 <img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
 
-And here are actual results after improving my clients shopping cart:
+And here are actual results after improving one of my clients shopping cart:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
