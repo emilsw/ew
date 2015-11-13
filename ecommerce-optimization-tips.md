@@ -18,6 +18,8 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 ##Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store for free##
 
+<optin>
+
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
 <fieldset>
@@ -37,6 +39,7 @@ But it doesn’t have to be that way, even small changes and improvements to you
 
 </form>
 
+</optin>
 
 Please note as a solo consultant, there is a physical limit to how many people I can service for free. I’ve got room for **<span style="color:red">only five site reviews at the moment </span>**.
 
