@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 54%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
     font-size: 1.3em;
@@ -80,7 +80,7 @@ textarea {
 }
 
 .optin {
-  background-color:#CCC;
+  background-color:#efefef;
   padding: 15px;
   border-radius: 3px;
   
