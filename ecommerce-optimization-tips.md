@@ -16,17 +16,15 @@ And because of that, every day that passes you by is a day of lost potential rev
 
 But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
 
-
-##Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.##
- 
-
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
 <fieldset>
- 
- <input name="Your Email Address" type="email" required>
 
- <input name="Your Website URL" type="text" required>
+<legend>###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.###</legend>
+
+ <input name="email" type="email" placeholder="Your Email Address" required>
+
+ <input name="url" type="text" placeholder="Your Website URL" required>
 
  <button type="submit" class="pure-button pure-button-primary"> Get Free Optimization Ideas </button>
 
