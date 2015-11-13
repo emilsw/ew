@@ -12,15 +12,16 @@ They were distracted, confused or just plain frustrated with the whole buying ex
 There were also a lot people who could have (and were willing to) spend more money with you if you just offered them a chance to do so.
 
 Your site is probably doing less than average job when it comes to converting visitors into happy and paying a little more customers.
+
 And because of that, every day that passes you by is a day of lost potential revenue (think about how much money that is on a yearly basis….).
 
 But it doesn’t have to be that way, even small changes and improvements to your store can turn this around and bring you far more revenue in the future.
 
+####Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.####
+
 <form action="http://formspree.io/emils.veveris@gmail.com" method="POST" class="pure-form">
 
 <fieldset>
-
-###Enter your website URL below and get specific 3-5 specific optimization recommendations for your ecommerce store.###
 
  <input name="email" type="email" placeholder="Your Email Address" required>
 
