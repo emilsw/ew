@@ -4,7 +4,7 @@ title: Make your ecommerce store better at making money
 ---
 
 #Make your ecommerce store better at making money#
-##Last month, there were plenty of people that almost bought from you but they didn’t.## 
+##Last month, there were plenty of people that almost bought from you but they didn’t## 
 
 They were distracted, confused or just plain frustrated with the whole buying experience.
 
