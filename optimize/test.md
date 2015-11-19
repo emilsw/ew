@@ -12,6 +12,4 @@ Hell yes.
 * 3
 * 
 
-<iframe src="https://docs.google.com/presentation/embed?id=14HT_hUr-Pvfvz84Mr0WquVDdM5iA2fTfRQmxH909fSc&amp;start=false&amp;loop=false&amp; frameborder="0" width="520" height="405"></iframe>
-
-
+<iframe src="https://docs.google.com/presentation/d/14HT_hUr-Pvfvz84Mr0WquVDdM5iA2fTfRQmxH909fSc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
