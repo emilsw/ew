@@ -7,7 +7,7 @@ title: Process
 
 Thanks again for your interest. I’d love you to read all the information on this page as it will build consensus right away, allowing us to have a solid working relationship going forward.
 
-Email [me]<mailto:emils.veveris@gmail.com> anytime if you have any questions.
+Email at <mailto:emils.veveris@gmail.com> anytime if you have any questions.
 
 ----
 
@@ -21,7 +21,7 @@ But If you are happy and you wish to proceed you can choose to continue to pay p
 
 Or on a monthly basis. 
 
-I prefer using [transferwise.com](https://transferwise.com/business) to process payments. Unfortunately it will not be automatic and it will require for you to create an account. But it’s very simple, just follow the steps here: (https://transferwise.com/business)[https://transferwise.com/business]
+I prefer using [transferwise.com](https://transferwise.com/business) to process payments. Unfortunately it will not be automatic and it will require for you to create an account. But it’s very simple, just follow the steps here: [https://transferwise.com/business](https://transferwise.com/business)
 
 After every payment, I’ll send you an invoice.
  
@@ -42,7 +42,7 @@ Once you’ve paid, I’ll:
  * You give me access to all the analytics tools, surveys, data you already have.
  * I’ll ask you to complete a form with more detailed questions about your business (to figure out the right objectives and goals for this project)
  * Set up an account on hotjar.com (I use it for surveys, polls, heatmaps, user video sessions).
-Set up an account for us on Convert.com or Optimizely.com (or any other tool you choose to work with).
+ * Set up an account for us on Convert.com or Optimizely.com (or any other tool you choose to work with).
  * I start the research.
 
 The goal is to develop a 6 month optimization plan during the first month and start testing during the second month.
@@ -64,7 +64,7 @@ Once I know what is happening, I’ll be able to come up with more effective sol
 Turning those insights into action. It will be a simple google docs spreadsheet that will feature:
 
  * Objectives (what we will be hoping to accomplish: lift in conversion rate and revenue..).
- * Round of a/b tests for the next 6 months (action to accomplish those goals).
+ * Round of a/b tests for the next 6 months.
  
 A simple game plan that I will be executing in order to grow your conversion rate and revenue.
 
@@ -75,19 +75,22 @@ A simple game plan that I will be executing in order to grow your conversion rat
 I’ll be using a few tools to roll out tests, make changes, and coordinate our work together.
 
 **Trello**
+
 I’ll use Trello to post  research findings, coordinate on future tests, notify each other of our availability, and critique our work together. Trello is a great email substitute, because it ensures a long-lasting, group-visible record of all our work together.
 
 I’m happy to invite as many people as appropriate to Trello; just let me know their email addresses. (You can also invite them yourself.)
 
 **Convert.com and Optimizely.com**
+
 Unless you have your own A/B testing account, I’ll use one of my accounts at Convert.com 
 
 You’ll be required to add a snippet of JavaScript to your code.
 
 **Analytics tools**
+
 I’d like to be granted access to your analytics tools.
-You can give Google Analytics access to <mailto:emils.veveris@gmail.com> 
-Access to other analytics suites (KISSmetrics, Mixpanel, Mint, etc.) also use <mailto:emils.veveris@gmail.com>
+You can give Google Analytics access to <emils.veveris@gmail.com> 
+Access to other analytics suites (KISSmetrics, Mixpanel, Mint, etc.) also use <emils.veveris@gmail.com>
 
 This is so I can determine how your conversion funnels are working, and what pages are getting enough traffic to perform statistically significant tests.
 
