@@ -1,12 +1,12 @@
 body {
     margin: 60px auto;
     width: 50%;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', sans-serif;
     color: #333;
     font-size: 1.3em;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,12 +24,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 62.5%/1.65 "Open Sans",sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', sans-serif;
     color: #333;
 }
 
