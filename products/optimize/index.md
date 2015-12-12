@@ -83,7 +83,7 @@ I’m looking for people who have great businesses and are interested in long-te
  - You’re a small-to-mid-sized business with a revenue generating website.
  - You have enough traffic to support A/B testing. At least 10,000 unique visitors per month—and the more the better.
  - You’re serious about investing in strategies that will help you maximize your returns from your website.
-You’re ready to set long-term goals, not just short-term goals.
+ - You’re ready to set long-term goals, not just short-term goals.
 
 &nbsp;
 
@@ -123,7 +123,7 @@ Here’s what one of them said about me:
 >
 > --Tom Ewer, leavingworkbehind.com.
 
-And here are actual results from one a recent test:
+And here are actual results from a recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
