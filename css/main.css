@@ -14,20 +14,7 @@ nav {
 	background: rgba(255,255,255,.90);
 	margin: 0 auto;
 	text-align: right;
-	position: fixed;
 	z-index: 100;
-}
-
-nav a {
-	top: 8px;
-	right: 6px;
-	padding: 8px 12px;
-	color: #5badf0;
-	font-size: 13px;
-	font-weight: bold;
-	line-height: 1.35;
-	border-radius: 3px;
-
 }
 
 
