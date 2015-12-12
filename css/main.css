@@ -1,11 +1,9 @@
 body {
     margin: 60px auto;
     width: 50%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
     font-size: 1.1em;
-    -webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
 }
 nav ul, footer ul {
     padding: 0px;
