@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 45%;
-    font-family: 'Open Sans', sans-serif;
     color: #333;
     font-size: 1.1em;
 }
@@ -41,11 +40,6 @@ h4 {
 }
 p {
     line-height: 2;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-   
 }
 footer {
     font-size: .7em;
