@@ -133,7 +133,7 @@ And here are actual results from a recent test:
 
 ###Pricing###
 
-I have several plans and it ranges from $1200 - $3000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
+I have several plans and it ranges from $1200 - $6000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
 
 So let’s talk about the potential outcome first (how much more revenue can I help you grow) and then I’ll give you a price that’s fair compensation for that growth for your business.
 
