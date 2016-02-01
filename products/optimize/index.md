@@ -146,7 +146,7 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 **ROI focused**
 
-All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 3x your investment (my clients are getting way more than that). For every test, I closely follow and report how much more money am I helping you make. . 
+All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. For every test, I closely follow and report how much more money am I helping you make. 
 
 &nbsp;
 
