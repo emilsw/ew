@@ -103,6 +103,8 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 ### Who am I? ###
 
+<img src="/images/ew.png">
+
 I’m Emils. I help internet business owners increase their conversion rate and sales. I optimize your website so you can turn more of your existing visitors into happy customers and grow your business faster.
 
 <img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
@@ -123,11 +125,13 @@ Here's what people are saying about me:
 
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
-> --Tom Ewer, leavingworkbehind.com.
+> --Tom Ewer, leavingworkbehind.com
+> <img src="/images/te.png">
 
 >*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
 >
-> --David Crowther, davidcrowther.com.
+> --David Crowther, davidcrowther.com
+> <img src="/images/dc.png">
 
 And here are actual results from a recent test:
 
