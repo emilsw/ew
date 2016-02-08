@@ -22,7 +22,7 @@ Introducing **Optimize**, a monthly website optimization service that keeps impr
 
 &nbsp;
 
-###Every day that passes you by is a day of lost potential revenue.###
+### Every day that passes you by is a day of lost potential revenue. ###
 
 The chances are high that last month, a healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
 
@@ -34,7 +34,7 @@ Think about how many sales you lose this way on a yearly basis.
 
 &nbsp;
 
-###Optimization makes your business grow faster and outperform your competition###
+### Optimization makes your business grow faster and outperform your competition ###
 
 If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
 
@@ -48,7 +48,7 @@ And it’s relatively new, your competitors are probably not doing it. You can u
 
 &nbsp;
 
-###Optimization is not simple (it requires multiple skill sets and experience.)###
+### Optimization is not simple (it requires multiple skill sets and experience.) ###
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
@@ -78,7 +78,7 @@ If your investment in my services isn’t able to generate a return for you, I�
 
 &nbsp;
 
-###Who is this for?###
+### Who is this for? ###
 
 I’m looking for people who have great businesses and are interested in long-term success on the web. But this isn’t for everyone, you should apply if:
 
@@ -89,7 +89,7 @@ I’m looking for people who have great businesses and are interested in long-te
 
 &nbsp;
 
-###What you get:###
+### What you get: ###
 
  - **A free ($29/month) account on Convert.com.** I’m a certified specialist.
  - **A free ($33/month) pro account on Hotjar.com.** A powerful research tool.
@@ -101,7 +101,7 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 &nbsp;
 
-###Who am I?###
+### Who am I? ###
 
 I’m Emils. I help internet business owners increase their conversion rate and sales. I optimize your website so you can turn more of your existing visitors into happy customers and grow your business faster.
 
@@ -109,7 +109,7 @@ I’m Emils. I help internet business owners increase their conversion rate and 
 
 &nbsp;
 
-###Are you any good at what you do?###
+### Are you any good at what you do? ###
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
@@ -135,7 +135,7 @@ And here are actual results from a recent test:
 
 &nbsp;
 
-###Pricing###
+### Pricing ###
 
 I have several plans and it ranges from $1200 - $6000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
 
@@ -154,7 +154,7 @@ All I care about is how much revenue and profit I can drive to your business. Th
 
 &nbsp;
 
-###Apply today###
+### Apply today ###
 
 The best time to start growing your business was last year. The second best time to start is right now.
 
