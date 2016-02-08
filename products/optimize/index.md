@@ -125,9 +125,7 @@ Here’s what a couple of them are saying about me:
 >
 > --Tom Ewer, leavingworkbehind.com.
 
->*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
->
-> --David Crowther, davidcrowther.com.
+
 
 And here are actual results from a recent test:
 
