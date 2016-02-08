@@ -119,11 +119,15 @@ Here’s an actual screenshot from one of my clients Google Analytics account:
 
 <img src="https://draftin.com:443/images/33356?token=Kd2Spi8V1yCcA-mQolWAv3dbUDI6Llrp2kzu5CH8ga66FKpezoWR1Pp1PRy6bK3b8LqnzIXmGpFbz4ujOFeshok" width="790" />
 
-Here’s what one of them said about me:
+Here’s what a couple of them are saying about me:
 
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
 > --Tom Ewer, leavingworkbehind.com.
+
+>*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
+>
+> --David Crowther, davidcrowther.com.
 
 And here are actual results from a recent test:
 
