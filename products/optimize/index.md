@@ -129,7 +129,7 @@ Here's what people are saying about me:
 >
 > <img src="/images/te.png">
 
----
+&nbsp;
 
 >*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
 >
