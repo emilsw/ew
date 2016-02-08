@@ -129,6 +129,8 @@ Here's what people are saying about me:
 >
 > <img src="/images/te.png">
 
+---
+
 >*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
 >
 > --David Crowther, davidcrowther.com
