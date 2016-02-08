@@ -126,11 +126,13 @@ Here's what people are saying about me:
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
 > --Tom Ewer, leavingworkbehind.com
+>
 > <img src="/images/te.png">
 
 >*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
 >
 > --David Crowther, davidcrowther.com
+>
 > <img src="/images/dc.png">
 
 And here are actual results from a recent test:
