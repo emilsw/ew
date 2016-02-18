@@ -9,13 +9,24 @@ title: Make your website better at making money
 
 ## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ## 
 
-
-If you are looking to grow your online business, you really have just two choices (broadly speaking): 
+Here's the bottom line: you really have just two choices when it comes to growing your online business: 
 
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
 Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything (not to mention paid advertising is only getting more costly and competitive and SEO is only getting harder....)
+
+&nbsp;
+
+### Money spent on optimization keeps coming back ###
+
+If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
+
+Even small changes to your copy or design can have a significant impact on the bottom line. 
+
+Just a 5% improvement in sales each month is almost 80% improvement over 12 months (If you are wondering how that’s possible, it’s because of the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) effect).
+
+You will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers. 
 
 &nbsp;
 
@@ -30,19 +41,7 @@ Think about how many sales you lose this way on a yearly basis.
 
 &nbsp;
 
-### Money spent on optimization keeps coming back ###
-
-If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
-
-Even small changes to your copy or design can have a significant impact on the bottom line. 
-
-Just a 5% improvement in sales each month is almost 80% improvement over 12 months (If you are wondering how that’s possible, it’s because of the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) effect).
-
-You will also maximize returns from all your other marketing efforts (CPA) as your website will be more effective in converting visitors into customers. To put it simply - if you double conversion rates, then you cut your costs per acquisition in half.
-
-&nbsp;
-
-### But optimization is complicated ###
+### I can help ###
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
@@ -91,17 +90,14 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 &nbsp;
 
-### Who am I? ###
+### What's your experience? ###
 
-<img src="/images/ew.png">
 
-I’m Emils. I help internet business owners increase their conversion rate and sales. I optimize your website so you can turn more of your existing visitors into happy customers and grow your business faster.
 
 <img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
 &nbsp;
 
-### Are you any good at what you do? ###
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
@@ -155,8 +151,6 @@ All I care about is how much revenue and profit I can drive to your business. Th
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
 
 If you’re curious, you can take a look at [terms and conditions](http://www.emilsw.com/products/optimize/terms)
-
-Thanks for reading!
 
 Cheers, <br/> Emils Veveris
 
