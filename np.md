@@ -5,7 +5,7 @@ title: Make your website better at making money
 <br>
 <br>
 
-<div style="text-align:center"> <img src="/images/ew.png"> </div>
+<p style="text-align:center"> <img src="/images/ew.png"> </p>
 
 ## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ##
 
@@ -30,7 +30,7 @@ Think about how many sales you lose this way on a yearly basis.
 
 &nbsp;
 
-### Money spent on optimization keeps coming back with each new visitor and customer. ###
+### Money spent on optimization keeps coming back ###
 
 If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
 
