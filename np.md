@@ -5,7 +5,7 @@ title: Make your website better at making money
 <br>
 <br>
 
-<img src="/images/ew.png">
+<img align="center" img src="/images/ew.png">
 
 ## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ##
 
