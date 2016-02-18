@@ -84,7 +84,7 @@ I’m looking for people who have great online businesses and are interested in 
  - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
  - **A/B testing.** I set up, run and monitor the tests.
 
-<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
+<img src="/images/convert_c.png">
 
 To put it simply, I’ll focus on improving your website every month so you can focus on running your business.
 
@@ -96,15 +96,15 @@ I spent years figuring this stuff out on my own, made every possible mistake wit
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
-<img src="/images/ew_clients.jpg">
+<img src="/images/ew_clients.jpg" width="600">
 
 One of my clients conversion rate in Google Analytics:
 
-<img src="/images/GA.png" width="700">
+<img src="/images/GA.png" width="600">
 
 And here are actual results from a recent test:
 
-<img src="/images/test_results.jpg" width="700">
+<img src="/images/test_results.jpg" width="600">
 
 What people are saying about me:
 
