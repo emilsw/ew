@@ -100,7 +100,9 @@ Here are some of the awesome businesses I've had the pleasure of working with:
 
 Here’s an actual screenshot from one of my clients Google Analytics account:
 
-<img src="https://draftin.com:443/images/33356?token=Kd2Spi8V1yCcA-mQolWAv3dbUDI6Llrp2kzu5CH8ga66FKpezoWR1Pp1PRy6bK3b8LqnzIXmGpFbz4ujOFeshok" width="790" />
+<p style="text-align:center"> <img src="/images/GA.png"> </p>
+
+<img src="/images/cr.png"> 
 
 Here's what people are saying about me:
 
