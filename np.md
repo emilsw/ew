@@ -143,7 +143,7 @@ All I care about is how much profit I can drive to your business. The goal is to
 
 <p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
 
-Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
+Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
 
 If you’re curious, you can take a look at [terms and conditions](http://www.emilsw.com/products/optimize/terms)
 
