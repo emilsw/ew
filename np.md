@@ -5,7 +5,9 @@ title: Make your website better at making money
 <br>
 <br>
 
-# Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. #
+<img src="/images/ew.png">
+
+## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ##
 
 If you are looking to grow your online business, you really have just two choices (broadly speaking): 
 
