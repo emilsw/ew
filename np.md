@@ -96,9 +96,6 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 <img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
-&nbsp;
-
-
 Here are some of the awesome businesses I've had the pleasure of working with:
 
 <img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
@@ -144,7 +141,7 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 **ROI focused**
 
-All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. For every test, I closely follow and report how much more money am I helping you make. 
+All I care about is how much profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. For every test, I closely follow and report how much more money am I helping you make. 
 
 <p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
 
