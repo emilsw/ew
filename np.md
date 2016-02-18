@@ -22,8 +22,7 @@ Sure, you need visitors foremost, but money spent on acquiring more of them disa
 
 The chances are high that last month, a healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
 
-And the next month, approximately the same amount of people (or even more) won’t buy either.... possibly because of the same reasons (which can be fixed). 
-
+And the next month, approximately the same amount of people (or even more) won’t buy either.... possibly because of the same reasons. 
 Think about how many sales you lose this way on a yearly basis.
 
 [People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) by neglecting to optimize. You are missing a lot of opportunities and if you keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
@@ -40,35 +39,29 @@ Just a 5% improvement in sales each month is almost 80% improvement over 12 mont
 
 You will also maximize returns from all your other marketing efforts (CPA) as your website will be more effective in converting visitors into customers. To put it simply - if you double conversion rates, then you cut your costs per acquisition in half.
 
-And it’s relatively new, your competitors are probably not doing it. You can use it to gain competitive advantage.
-
 &nbsp;
 
-### Optimization is not simple (it requires multiple skill sets and experience.) ###
+###But optimization is complicated ###
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
-The technical and analytical nature of testing can be too much of a headache.
-
-And there are lots of myths and faulty case studies out there. What works for others will not necessarily work for you, because you have a different business model and a different target audience, different traffic sources —copying ‘best practices’ is simply unreliable.
-
-The simple truth is that you don’t know what works best, no one does. Except your visitors and customers because they vote with their wallets - that’s why you need to do some solid research and test all your assumptions…
+There are lots of myths and faulty case studies out there. What works for others will not necessarily work for you, because your business is different.
 
 There aren’t a lot of people who know how to make this really work and those who can are fully booked months in advance and rarely take on new clients. Top tier optimization agencies only work with businesses that generate more than $5 million/year and charge $15,000 to $20,000 per month for ongoing optimization.
 
-Plus this may not be your highest priority for your business right now. You’ve got a ton of other things on your plate. Optimization does take a lot of time and there are many ways it can go wrong (e.g. not all changes produce meaningful results).
+Plus this may not be your highest priority for your business right now. You’ve got a ton of other things on your plate. Optimization does take a lot of time and there are many ways it can go wrong.
 
-I spent years figuring this stuff out on my own, made every possible mistake with my own projects, sifted through lots of websites, books, courses, closely followed and learned from top experts, saw and personally experienced what works and what doesn’t work. 
+I spent years figuring this stuff out on my own, made every possible mistake with my own projects, sifted through lots of websites, books, courses, closely followed and learned from top experts and personally experienced what works and what doesn’t work. 
 
 **Let me help save you hours of unnecessary trouble and frustration.** Let me work alongside you to make your business run smarter and more profitable.
 
 With my service, I will do everything you need to do:
 
- - **Research your website and analytics** to find out where exactly are you losing customers and which pages should you optimize.
- - **Understand your visitors/customers** (what motivates them, why they buy and why they don’t buy).
+ - **Research your website and analytics** to find out where exactly are you losing customers.
+ - **Understand your visitors/customers** to learn what motivates them, why they buy and why they don’t buy.
  - **Make improvements and suggestions** based on the insights from the research.
  - **Run A/B tests** to make sure that new changes will actually result in more money for you.
- - **Rinse and repeat** (optimization is an iterative process, with each test and each change you get new data that will help you further improve your site).
+ - **Rinse and repeat** it's an iterative process, with each test and each change you get new data that will help you further improve your site.
 
 If your investment in my services isn’t able to generate a return for you, I’ll fire myself. I don’t want you to waste your money if I can’t give you a good ROI.
 
@@ -76,7 +69,7 @@ If your investment in my services isn’t able to generate a return for you, I�
 
 ### Who is this for? ###
 
-I’m looking for people who have great businesses and are interested in long-term success on the web. But this isn’t for everyone, you should apply if:
+I’m looking for people who have great online businesses and are interested in long-term success on the web. But this isn’t for everyone, you should apply if:
 
  - You’re a small-to-mid-sized business with a revenue generating website.
  - You have enough traffic to support A/B testing. At least 10,000 unique visitors per month—and the more the better.
@@ -159,8 +152,6 @@ All I care about is how much revenue and profit I can drive to your business. Th
 &nbsp;
 
 ### Apply today ###
-
-The best time to start growing your business was last year. The second best time to start is right now.
 
 <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a>
 
