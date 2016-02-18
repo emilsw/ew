@@ -7,7 +7,7 @@ title: Make your website better at making money
 
 <p style="text-align:center"> <img src="/images/ew.png"> </p>
 
-## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ## 
+<h2 style="text-align:center">  Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. </h2>
 
 Here's the bottom line: you really have just two choices when it comes to growing your online business: 
 
