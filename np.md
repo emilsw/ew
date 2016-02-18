@@ -98,13 +98,15 @@ Here are some of the awesome businesses I've had the pleasure of working with:
 
 <img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
 
-Here’s an actual screenshot from one of my clients Google Analytics account:
+One of my clients conversion rate in Google Analytics:
 
 <img src="/images/GA.png" width="700">
 
-<img src="/images/cr.png"> 
+And here are actual results from a recent test:
 
-Here's what people are saying about me:
+<img src="/images/test_results.jpg" width="700">
+
+What people are saying about me:
 
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
@@ -119,10 +121,6 @@ Here's what people are saying about me:
 > --David Crowther, davidcrowther.com
 >
 > <img src="/images/dc.png">
-
-And here are actual results from a recent test:
-
-<img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
 
 &nbsp;
 
