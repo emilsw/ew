@@ -14,7 +14,9 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
-Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything (not to mention paid advertising is only getting more costly and competitive and SEO is only getting harder....)
+Sure, you need visitors foremost, but <b> money spent on acquiring more of them disappears as soon as they leave without buying anything </b> 
+
+And paid advertising is only getting more costly and SEO is only getting harder....
 
 &nbsp;
 
@@ -32,7 +34,7 @@ You will improve returns from all your other marketing efforts as your website w
 
 ### Every day that passes you by is a day of lost potential revenue. ###
 
-The chances are high that last month, a healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
+A healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
 
 And the next month, approximately the same amount of people (or even more) won’t buy either.... possibly because of the same reasons. 
 Think about how many sales you lose this way on a yearly basis.
