@@ -41,7 +41,7 @@ You will also maximize returns from all your other marketing efforts (CPA) as yo
 
 &nbsp;
 
-###But optimization is complicated ###
+### But optimization is complicated ###
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
@@ -150,8 +150,6 @@ But please note as a solo consultant, there is a physical limit to how many clie
 All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. For every test, I closely follow and report how much more money am I helping you make. 
 
 &nbsp;
-
-### Apply today ###
 
 <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a>
 
