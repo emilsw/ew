@@ -7,7 +7,9 @@ title: Make your website better at making money
 
 <p style="text-align:center"> <img src="/images/ew.png"> </p>
 
+<p style="text-align:center">
 ## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ##
+</p>
 
 If you are looking to grow your online business, you really have just two choices (broadly speaking): 
 
@@ -151,7 +153,7 @@ All I care about is how much revenue and profit I can drive to your business. Th
 
 &nbsp;
 
-<a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a>
+<p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
 
 Got questions? Shoot me an email and I’ll get back to you as soon as I can: emils.veveris@gmail.com
 
