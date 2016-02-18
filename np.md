@@ -100,7 +100,7 @@ Here are some of the awesome businesses I've had the pleasure of working with:
 
 Here’s an actual screenshot from one of my clients Google Analytics account:
 
-<p style="text-align:center"> <img src="/images/GA.png"> </p>
+<p style="text-align:center"> <img src="/images/GA.png" width="200"> </p>
 
 <img src="/images/cr.png"> 
 
