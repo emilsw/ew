@@ -7,9 +7,9 @@ title: Make your website better at making money
 
 <p style="text-align:center"> <img src="/images/ew.png"> </p>
 
-<p style="text-align:center">
-## Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ##
-</p>
+<h2 style="text-align:center">
+ Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. 
+</h2>
 
 If you are looking to grow your online business, you really have just two choices (broadly speaking): 
 
@@ -150,8 +150,6 @@ But please note as a solo consultant, there is a physical limit to how many clie
 **ROI focused**
 
 All I care about is how much revenue and profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. For every test, I closely follow and report how much more money am I helping you make. 
-
-&nbsp;
 
 <p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
 
