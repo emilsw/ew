@@ -14,9 +14,7 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
-Sure, you need visitors foremost, but <b> money spent on acquiring more of them disappears as soon as they leave without buying anything </b> 
-
-And paid advertising is only getting more costly and SEO is only getting harder....
+Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. And paid advertising is only getting more expensive and SEO is only getting harder....
 
 &nbsp;
 
@@ -52,8 +50,6 @@ There are lots of myths and faulty case studies out there. What works for others
 There aren’t a lot of people who know how to make this really work and those who can are fully booked months in advance and rarely take on new clients. Top tier optimization agencies only work with businesses that generate more than $5 million/year and charge $15,000 to $20,000 per month for ongoing optimization.
 
 Plus this may not be your highest priority for your business right now. You’ve got a ton of other things on your plate. Optimization does take a lot of time and there are many ways it can go wrong.
-
-I spent years figuring this stuff out on my own, made every possible mistake with my own projects, sifted through lots of websites, books, courses, closely followed and learned from top experts and personally experienced what works and what doesn’t work. 
 
 **Let me help save you hours of unnecessary trouble and frustration.** Let me work alongside you to make your business run smarter and more profitable.
 
@@ -92,11 +88,9 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 &nbsp;
 
-### What's your experience? ###
+### Are you any good at what you do? ###
 
-
-
-<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
+I spent years figuring this stuff out on my own, made every possible mistake with my own projects, sifted through lots of websites, books, courses, closely followed and learned from top experts and personally experienced what works and what doesn’t work.
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
@@ -125,6 +119,8 @@ Here's what people are saying about me:
 And here are actual results from a recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
+
+<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
 &nbsp;
 
