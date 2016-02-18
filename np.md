@@ -145,8 +145,6 @@ All I care about is how much profit I can drive to your business. The goal is to
 
 Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
 
-If you’re curious, you can take a look at [terms and conditions](http://www.emilsw.com/products/optimize/terms)
-
 Cheers, <br/> Emils Veveris
 
 (In my [native language](https://en.wikipedia.org/wiki/Latvian_language), all male words end with ‘s’.... I know it’s weird. You can call me Emil.)
