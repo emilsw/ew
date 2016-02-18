@@ -18,7 +18,9 @@ Sure, you need visitors foremost, but money spent on acquiring more of them disa
 
 But money spent on optimization keeps coming back with each new visitor and customer.
 
+<div style="border: 5px solid rgb(232, 232, 230); padding: 10px; text-align: center; background-color: rgb(232, 232, 230);">
 Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and boost your revenue with solid research and testing.
+</div>
 
 &nbsp;
 
