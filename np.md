@@ -147,4 +147,3 @@ Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
 
 Cheers, <br/> Emils Veveris
 
-----------------------------
