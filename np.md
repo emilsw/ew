@@ -92,6 +92,8 @@ To put it simply, I’ll focus on improving your website every month so you can 
 
 I spent years figuring this stuff out on my own, made every possible mistake with my own projects, sifted through lots of websites, books, courses, closely followed and learned from top experts and personally experienced what works and what doesn’t work.
 
+<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
+
 Here are some of the awesome businesses I've had the pleasure of working with:
 
 <img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
@@ -119,8 +121,6 @@ Here's what people are saying about me:
 And here are actual results from a recent test:
 
 <img src="https://draftin.com:443/images/33357?token=8CD7QsNr-XSHYd1_xyUYKA6xEcnXB4OO11zwSQaKkRmvMsLRTTYLZ-20FVVdUYNntc7APDJUaPMwEMm_rwCpu_4" width="790" />
-
-<img src="https://draftin.com:443/images/33354?token=C0BLjsOFJViKEg-NdPqgxb2sjMrwsurU_K5b44eeLdH_SX0kKzBj-HvmzJZJgTqohI-hhAM-l76hT9uG1gt5-_4" width="200"/>
 
 &nbsp;
 
