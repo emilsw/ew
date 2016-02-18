@@ -96,7 +96,7 @@ I spent years figuring this stuff out on my own, made every possible mistake wit
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
-<img src="https://draftin.com:443/images/33355?token=WLdITiLYwcLKF2D6L5zJXyJx8dT78rviNfJszp_togDvqM9EP9gn3dtUF2mU_Y_js6P7_fJRwxFfimyiMxmjEPY"/>
+<img src="/images/ew_clients.jpg">
 
 One of my clients conversion rate in Google Analytics:
 
