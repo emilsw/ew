@@ -5,22 +5,14 @@ title: Make your website better at making money
 <br>
 <br>
 
-# Make your website better at making money #
+# Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing. #
 
-What online marketing method provides you with the greatest ROI? 
-
-If you are looking to grow your business, you really have just two choices (broadly speaking): 
+If you are looking to grow your online business, you really have just two choices (broadly speaking): 
 
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
 Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything (not to mention paid advertising is only getting more costly and competitive and SEO is only getting harder....)
-
-But money spent on optimization keeps coming back with each new visitor and customer.
-
-<div style="border: 5px solid rgb(232, 232, 230); padding: 10px; text-align: center; background-color: rgb(232, 232, 230);">
-Hi! My name is Emils Veveris and I can help you optimize your website's conversion rate and grow your profits with solid research and testing.
-</div>
 
 &nbsp;
 
@@ -36,7 +28,7 @@ Think about how many sales you lose this way on a yearly basis.
 
 &nbsp;
 
-### Optimization makes your business grow faster and outperform your competition ###
+### Money spent on optimization keeps coming back with each new visitor and customer. ###
 
 If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
 
@@ -60,7 +52,7 @@ And there are lots of myths and faulty case studies out there. What works for ot
 
 The simple truth is that you don’t know what works best, no one does. Except your visitors and customers because they vote with their wallets - that’s why you need to do some solid research and test all your assumptions…
 
-There aren’t a lot of people who know how to make this really work and those who can are fully booked months in advance and rarely take on new clients. Top tier optimization agencies only work with businesses that generate more than $5 million/year and charge five figures per month.
+There aren’t a lot of people who know how to make this really work and those who can are fully booked months in advance and rarely take on new clients. Top tier optimization agencies only work with businesses that generate more than $5 million/year and charge $15,000 to $20,000 per month for ongoing optimization.
 
 Plus this may not be your highest priority for your business right now. You’ve got a ton of other things on your plate. Optimization does take a lot of time and there are many ways it can go wrong (e.g. not all changes produce meaningful results).
 
