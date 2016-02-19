@@ -7,7 +7,7 @@ title: Make your website better at making money
 
 <p style="text-align:center"> <img src="/images/ew.png"> </p>
 
-##  Hi! I'm Emils, I can help you optimize your website's conversion rate and grow your profits with solid research and testing. ##
+##  Hi! I'm Emils, I can help you optimize your website's conversion rate and grow your profits with solid research and testing ##
 
 Here's the bottom line: you really have just two choices when it comes to growing your online business: 
 
