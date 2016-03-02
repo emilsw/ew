@@ -4,8 +4,6 @@ title: "How one survey question led to 106.59% increase in revenue"
 date: 2016-03-03
 ---
 
-##How one survey question led to 106.59% increase in revenue##
-
 There’s no secret that more than 90% of people who visit your site won’t convert into customers.
 
 Most business owners, and startup founders have plenty of ideas on what to do about it. I mean you only need to Google ‘convert more visitors’ or ‘growth hacks’ and you’ll get plenty of ideas.
