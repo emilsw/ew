@@ -108,7 +108,7 @@ And here are actual results from a recent test:
 
 What people are saying about me:
 
->*Working with Emils has been an awesome experience. He helped us more than double our conversion rate and revenue. I look forward to continuing to work with him.*
+>*Working with Emils has been an awesome experience. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
 > --Matt Sellers, Founder/CEO at Quimbee.com
 >
