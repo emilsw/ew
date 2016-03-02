@@ -108,6 +108,14 @@ And here are actual results from a recent test:
 
 What people are saying about me:
 
+>*Working with Emils has been an awesome experience. He helped us more than double our conversion rate and revenue. I look forward to continuing to work with him.*
+>
+> --Matt Sellers, Founder/CEO at Quimbee.com
+>
+> <img src="/images/Matt_Sellers.png">
+
+&nbsp;
+
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
 > --Tom Ewer, leavingworkbehind.com
