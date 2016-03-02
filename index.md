@@ -21,9 +21,11 @@ Plus paid advertising is only getting more expensive and SEO is only getting har
 
 ### Every day that passes you by is a day of lost potential revenue. ###
 
-Last month, a healthy number of your visitors were perfectly ready to buy from you but for some reason they didn’t.
+A healthy number of your visitors are perfectly ready to buy from you but for some reason they won't do it.
 
-And this month, approximately the same amount of visitors (or even more) won’t buy either. 
+Tommorow, approximately the same amount of visitors (or even more) won’t buy either. 
+
+This happens every day....
 
 Think about how many sales you lose this way on a yearly basis. [People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) 
 
