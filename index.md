@@ -14,7 +14,20 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
-Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. Paid advertising is only getting more expensive and SEO is only getting harder....
+Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. 
+Plus paid advertising is only getting more expensive and SEO is only getting harder....
+
+&nbsp;
+
+### Every day that passes you by is a day of lost potential revenue. ###
+
+Last month, a healthy number of your visitors were perfectly ready to buy from you but for some reason they didn’t.
+
+And this month, approximately the same amount of visitors (or even more) won’t buy either. 
+
+Think about how many sales you lose this way on a yearly basis.[People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) 
+
+You are missing a lot of opportunities and if you only keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
 
 &nbsp;
 
@@ -26,20 +39,10 @@ Even small changes to your copy or design can have a significant impact on the b
 
 Just a 5% improvement in sales each month is almost 80% improvement over 12 months (If you are wondering how that’s possible, it’s because of the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) effect).
 
-You will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers. 
+And you will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers. 
 
 &nbsp;
 
-### Every day that passes you by is a day of lost potential revenue. ###
-
-A healthy number of people were perfectly ready to buy from you but for some reason they didn’t.
-
-And the next month, approximately the same amount of people (or even more) won’t buy either.... possibly because of the same reasons. 
-Think about how many sales you lose this way on a yearly basis.
-
-[People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) by neglecting to optimize. You are missing a lot of opportunities and if you keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
-
-&nbsp;
 
 ### I can help ###
 
@@ -107,6 +110,14 @@ And here are actual results from a recent test:
 <img src="/images/test_results.jpg" width="600">
 
 What people are saying about me:
+
+>*Working with Emils has been an awesome experience. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
+>
+> --Matt Sellers, Founder/CEO at Quimbee.com
+>
+> <img src="/images/Matt_Sellers.png">
+
+&nbsp;
 
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
