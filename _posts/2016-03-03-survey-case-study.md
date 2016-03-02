@@ -38,7 +38,7 @@ Once you know this information, it will dramatically increase your chances of co
 
 You’ll have a better sense of what potential solutions and ideas will work best in your case, based on data and real insights, not just guesswork. 
 
-###How do you find that out? A very simple trick...###
+### How do you find that out? A very simple trick... ###
 
 Ask this question: 
 
@@ -52,7 +52,7 @@ Or, if you sell physical products or run an ecommerce store, ask the first time 
 
 Because those who are repeat purchasers can be immune to any issues your store may have, as they are now in familiar territory (after all, they’ve bought from you before and know what to do).
 
-###Case study:### 
+### Case study: ### 
 
 [Quimbee.com](https://www.quimbee.com/) helps law students gain a better understanding of the law by explaining legalese in plain English.
  
@@ -83,7 +83,7 @@ Sure, this isn’t anything revolutionary. I mean offering a free trial is a ‘
 
 This simple survey revealed what to focus on. 
  
-###How can you apply it?###
+### How can you apply it? ###
 
 The most effective way to do this is to set up a pop-up on your ‘thank you’ page with an invitation to participate in a quick survey.
 
@@ -97,9 +97,7 @@ You can ask more questions (and you should), but make sure you also offer them a
 
 Other useful questions you can use:
 
-**_What can you tell us about yourself?**_ Let them tell you how they describe themselves in their own words, very useful for writing good copy for your website.
-
-**_What’s your biggest frustration with [problem your service/product is solving]?**_ Let them describe the pain in their owns very useful for creating a compelling value proposition. 
+**_What’s your biggest frustration with [problem your service/product is solving]?_** Let them describe the pain in their owns very useful for creating a compelling value proposition. 
 
 **_What ultimately convinced you to sign up?_** You want to know what’s already working for you and double down on it. 
 
