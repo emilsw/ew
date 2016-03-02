@@ -14,7 +14,7 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
-Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. And paid advertising is only getting more expensive and SEO is only getting harder....
+Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. Paid advertising is only getting more expensive and SEO is only getting harder....
 
 &nbsp;
 
@@ -126,9 +126,9 @@ What people are saying about me:
 
 ### Pricing ###
 
-I have several plans and it ranges from $1200 - $6000/month, tailored to each of my clients to better serve the volume of the traffic and monthly transactions.
+I have several plans and it ranges from $1200 - $6000/month, tailored to each of my clients based on the volume of the traffic, number of monthly transactions and the potential outcome (how much more revenue can I help you grow).
 
-So let’s talk about the potential outcome first (how much more revenue can I help you grow) and then I’ll give you a price that’s fair compensation for that growth for your business.
+So you’ll have to apply first and then I’ll give you a price that’s fair compensation for that growth for your business.
 
 I’d like to work with you for an initial three-month engagement, in order to gauge whether we’d be a good fit.
 
@@ -139,7 +139,7 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 **ROI focused**
 
-All I care about is how much profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. For every test, I closely follow and report how much more money am I helping you make. 
+All I care about is how much profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. 
 
 <p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
 
