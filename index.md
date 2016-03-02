@@ -27,7 +27,7 @@ Tommorow, approximately the same amount of visitors (or even more) won’t buy e
 
 This happens every day....
 
-Think about how many sales you lose this way on a yearly basis. [People are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e) 
+Think about how many sales you lose this way on a yearly basis, [people are losing millions](https://medium.com/@jasonfried/how-we-lost-and-found-millions-by-not-a-b-testing-e70f27dd783e). 
 
 You are missing a lot of opportunities and if you only keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
 
