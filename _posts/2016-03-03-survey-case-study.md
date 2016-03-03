@@ -28,7 +28,7 @@ But most businesses fail here by asking the wrong questions at the wrong time (o
 
 And that leads to answers you don’t really know what to do with (or no answers).
 
-You want to know why the majority of your visitors are not buying from you - what are the main obstacles.
+You want to know **why** the majority of your visitors are not buying from you - what are the main obstacles.
 
 You want to understand what’s happening in their minds, while they are browsing your site and are in the process of making the decision about whether it’s worth becoming your customer.
 
@@ -68,12 +68,11 @@ Although there was a money back guarantee it still caused a lot of resistance. I
  
 So I suggested offering the visitors a free trial instead.
 
-
-
+<img src="quimbee_free_trial_test.jpg" width="200">
 
 And here’s what happened in 5 weeks after we implemented it:
 
-
+<img src="GA_free_trial.jpg" width="200">
 
 That’s a 168.02% increase in conversion rate. 
 
@@ -87,7 +86,7 @@ This simple survey revealed what to focus on.
 
 The most effective way to do this is to set up a pop-up on your ‘thank you’ page with an invitation to participate in a quick survey.
 
-Two tools that make it very easy to do it - Hotjar [Hotjar](https://www.hotjar.com/) and Qualaroo [Qualaroo](https://qualaroo.com/) (I used Hotjar in this particular case).
+Two tools that make it very easy to do it - [Hotjar](https://www.hotjar.com/) and [Qualaroo](https://qualaroo.com/) (I used Hotjar in this particular case).
 
 Aren’t pop-ups annoying? They are, but the information is worthwhile and it’s not like people spend that much time on the thank you pages, so you’re not really inconveniencing them.
 
@@ -105,5 +104,4 @@ After you have collected enough answers (100-300 depending on your business) sta
 
 This will give a better sense of who your customers are and how can you convince more of them to convert.
 
-Cheers,
-Emils
+Cheers, </br> Emils Veveris
