@@ -103,7 +103,7 @@ Here are some of the awesome businesses I've had the pleasure of working with:
 
 <img src="/images/ew_clients.jpg" width="600">
 
-One of my clients conversion rate in Google Analytics:
+One of my clients conversion rate in Google Analytics after working with me:
 
 <img src="/images/GA.png" width="600">
 
