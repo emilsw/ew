@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How one survey question led to 106.59% increase in revenue"
+post_author: Emils Veveris
 date: 2016-03-02
 ---
 
