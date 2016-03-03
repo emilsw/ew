@@ -91,3 +91,9 @@ textarea {
   border-radius: 3px;
   text-align: center;
 }
+
+.author {
+  font-size: .8em;
+  color: #efefef;
+	
+}
