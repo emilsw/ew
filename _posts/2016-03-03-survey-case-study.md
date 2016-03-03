@@ -68,11 +68,11 @@ Although there was a money back guarantee it still caused a lot of resistance. I
  
 So I suggested offering the visitors a free trial instead.
 
-<img src="/images/quimbee_free_trial_test.jpg" width="500">
+<img src="/images/quimbee_free_trial_test.jpg" width="800">
 
 And here’s what happened in 5 weeks after we implemented it:
 
-<img src="/images/GA_free_trial.jpg" width="500">
+<img src="/images/GA_free_trial.jpg" width="800">
 
 That’s a 168.02% increase in conversion rate. 
 
