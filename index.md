@@ -101,7 +101,7 @@ I spent years figuring this stuff out on my own, made every possible mistake wit
 
 Here are some of the awesome businesses I've had the pleasure of working with:
 
-<img src="/images/ew_clients.jpg" width="600">
+<img src="/images/ew_clients.jpg">
 
 One of my clients conversion rate after working with me:
 
