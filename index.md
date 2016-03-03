@@ -154,7 +154,11 @@ But please note as a solo consultant, there is a physical limit to how many clie
 
 All I care about is how much profit I can drive to your business. The goal is to make your money back by a minimum of 10x your investment. 
 
+<br>
+
 <p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
+
+<br>
 
 Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
 
