@@ -110,7 +110,7 @@ Cheers, <br/> Emils Veveris
 -------
 **P.S.** Let me know if this case study is helpful in the comments. Questions? I’ll do my best to answer every single one.
 
-**P.P.S.** If you liked this articles and want more stuff like this, [sign up for my newsletter](#).
+**P.P.S.** If you liked this article and want more stuff like this, [sign up for my newsletter](#).
 
 **P.P.P.S.** If you’re interested in improving conversions for your site, [you should get in touch](http://www.emilsw.com/). 
 
