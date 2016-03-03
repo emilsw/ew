@@ -105,3 +105,11 @@ After you have collected enough answers (100-300 depending on your business) sta
 This will give a better sense of who your customers are and how can you convince more of them to convert.
 
 Cheers, <br/> Emils Veveris
+
+-------
+
+P.S. If you liked this articles and want more tips like this, sign up for my [newsletter](#).
+
+P.S.S. If you’re interested in improving conversions for your site, [you should get in touch](http://www.emilsw.com/). 
+
+P.S.S.S. Let me know if this case study is helpful in the comments. Or if have done this before, share your results.
