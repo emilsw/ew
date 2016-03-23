@@ -53,6 +53,8 @@ Or, if you sell physical products or run an ecommerce store, ask the first time 
 
 Because those who are repeat purchasers can be immune to any issues your store may have, as they are now in familiar territory (after all, they’ve bought from you before and know what to do).
 
+_I learned this trick from [Peep Laja and his ResearchXL framework](http://conversionxl.com/how-to-come-up-with-more-winning-tests-using-data/). Check it out if you want to learn more in- depth ways to find actionable insights about your users, website and business._ 
+
 ### Case study: ### 
 
 [Quimbee.com](https://www.quimbee.com/) helps law students gain a better understanding of the law by explaining legalese in plain English.
