@@ -3,7 +3,7 @@ layout: default
 title: Process
 ---
 
-#How it works#
+# How it works #
 
 Thanks again for your interest. I’d love you to read all the information on this page as it will build consensus right away, allowing us to have a solid working relationship going forward.
 
@@ -11,7 +11,7 @@ Email at <mailto:emils.veveris@gmail.com> anytime if you have any questions.
 
 ----
 
-##Payment##
+## Payment ##
 
 You should expect to pay your first three months upfront but with a 10% discount. 
 
@@ -34,7 +34,7 @@ Unfortunately Stripe is not yet available in my country.
 
 ------
 
-##￼Onboarding You (Our first week together)##
+## Onboarding You (Our first week together) ##
 
 Once you’ve paid, I’ll:
 
