@@ -47,7 +47,7 @@ Once you’ve paid, I’ll:
 
 The goal is to develop a 6 month optimization plan during the first month and start testing during the second month.
 
-##The Research##
+## The Research ##
 
 This is the vital part, this is where all the good testing ideas will come from. In short, here are some of things I’ll be doing:
 
@@ -59,7 +59,7 @@ This is the vital part, this is where all the good testing ideas will come from.
 
 Once I know what is happening, I’ll be able to come up with more effective solutions and test them. I will keep you posted about all my findings and you’ll get access to all of the data and insights.
 
-##Optimization game plan##
+## Optimization game plan ##
 
 Turning those insights into action. It will be a simple google docs spreadsheet that will feature:
 
@@ -70,7 +70,7 @@ A simple game plan that I will be executing in order to grow your conversion rat
 
 -----
 
-##Tools##
+## Tools ##
 
 I’ll be using a few tools to roll out tests, make changes, and coordinate our work together.
 
@@ -106,7 +106,7 @@ I may be using some other tools for deeper research or experiment with some that
 
 -------
 
-###My Availability###
+### My Availability ###
 
 I work Monday through Friday, between 12pm and 10pm EET (Eastern Europe Time) (compare your timezone to ours).
  
@@ -118,7 +118,7 @@ Expect intermittent availability around most holidays like Christmas and New Yea
 
 -------
 
-###A Few Questions You Might Have###
+### A Few Questions You Might Have ###
 
 **How long will each A/B test run for?**
 
