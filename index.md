@@ -15,7 +15,7 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more money from your existing visitors and customers (optimization).
 
 Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. 
-Plus paid advertising is only getting more expensive and SEO is only getting harder....
+And paid advertising is only getting more expensive and SEO is only getting harder.
 
 &nbsp;
 
