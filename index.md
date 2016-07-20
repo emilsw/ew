@@ -83,8 +83,8 @@ I’m looking for people who have great online businesses and are interested in 
 
 ### What you get: ###
 
- - **Access to all the research material. Heatmaps**, scroll maps, survey results, user sessions replays. Valuable information on how your site is actually used and who your customers really are.
- - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
+ - **Conversion research report** heatmaps, scroll maps, survey results, analytics audit and more. Valuable information on where you are loosing money and why.
+ - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes that will grow your conversion rate and revenue).
  - **A/B testing.** I set up, run and monitor the tests.
 
 <img src="/images/convert_c.png" width="200">
