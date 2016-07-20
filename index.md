@@ -5,7 +5,7 @@ title: Make your website better at making money
 <br>
 <br>
 
-<h2 style="text-decoration:underline"> Hi, I'm Emils. </h2> 
+<h2> Hi, I'm Emils. </h2> 
 
 ## I can help you optimize your website's conversion rate and grow your profits ##
 
