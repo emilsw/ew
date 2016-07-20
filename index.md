@@ -7,9 +7,9 @@ title: Make your website better at making money
 
 ## Hi, I'm Emils. ## 
 
-----
+---
 
-## I can help you optimize your website's conversion rate and grow your profits. ##
+## I can help you optimize your website's conversion rate and grow your profits ##
 
 Here's the bottom line: you really have just two choices when it comes to growing your online business: 
 
@@ -21,7 +21,7 @@ Plus paid advertising is only getting more expensive and SEO is only getting har
 
 &nbsp;
 
-### Every day that passes you by is a day of lost potential revenue. ###
+### Every day that passes you by is a day of lost potential revenue ###
 
 A healthy number of your visitors are perfectly ready to buy from you but for some reason they won't do it.
 
@@ -109,10 +109,6 @@ One of my clients conversion rate after working with me:
 
 <img src="/images/GA.png" width="600">
 
-And here are actual results from a recent test:
-
-<img src="/images/test_results.jpg" width="600">
-
 What people are saying about me:
 
 >*Working with Emils has been an awesome experience. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
@@ -147,9 +143,7 @@ So you’ll have to apply first and then I’ll give you a price that’s fair c
 
 I’d like to work with you for an initial three-month engagement, in order to gauge whether we’d be a good fit.
 
-And if you’re unsatisfied with me for any reason after three months, **I’ll provide you with a full refund of your most recent month’s payment**. I stand behind all the work that I do.
-
-But please note as a solo consultant, there is a physical limit to how many clients I can service in a month. Therefore, at the moment I’ve got the capacity to take on **<span style="color:red">only <strike>three</strike> <strike> two </strike> one new client </span>**.
+As a solo consultant, there is a physical limit to how many clients I can service in a month. Therefore, at the moment I’ve got the capacity to take on **<span style="color:red">only one new client </span>**.
 
 
 **ROI focused**
