@@ -85,9 +85,7 @@ I’m looking for people who have great online businesses and are interested in 
 
 ### What you get: ###
 
- - **A free account on Convert.com.** I’m a certified specialist.
- - **A free pro account on Hotjar.com.** A powerful research tool.
- - **Access to all the research material. Heatmaps**, scroll maps, survey results, user sessions replays…valuable information on how your site is actually used and who your customers really are (knowing this will help you become better at marketing your products).
+ - **Access to all the research material. Heatmaps**, scroll maps, survey results, user sessions replays. Valuable information on how your site is actually used and who your customers really are.
  - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes based on the insights I found that will help you grow your business).
  - **A/B testing.** I set up, run and monitor the tests.
 
