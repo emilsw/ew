@@ -117,7 +117,7 @@ What people are saying about me:
 
 >*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
 >
-> --David Crowther, davidcrowther.com
+> --David Crowther, nervecentral.com
 >
 > <img src="/images/dc.png">
 
