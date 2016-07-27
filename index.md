@@ -20,13 +20,11 @@ Sure, you need visitors foremost, but money spent on acquiring more of them disa
 
 ### Money spent on optimization keeps coming back ###
 
-If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
-
-Even small changes to your copy or design can have a significant impact on the bottom line. 
+If you start optimization today you will have far more revenue after 10 months than if you wait for another 10 months to start.
 
 Just a 5% improvement in sales each month is almost 80% improvement over 12 months (If you are wondering how that’s possible, it’s because of the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) effect).
 
-And you will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers.
+You will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers.
 
 &nbsp;
 
