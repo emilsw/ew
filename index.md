@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emils Veveris | ROI focused Conversion Rate Optimization Services 
+title: Emils Veveris | Conversion Rate Optimization Services 
 ---
 <br>
 <br>
