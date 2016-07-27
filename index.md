@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Make your website better at making money
+title: I can help you optimize your website's conversion rate and grow your profits
 ---
 <br>
 <br>
