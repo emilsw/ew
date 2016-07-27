@@ -34,7 +34,7 @@ Yesterday, a healthy number of your visitors were perfectly ready to buy from yo
 
 Tommorow, approximately the same amount of visitors won’t buy either. 
 
-You are missing a lot of opportunities and if you only keep investing the money just in acquiring more traffic, this gap of missed opportunities just increases.
+You are missing a lot of opportunities and if you only keep investing money just in acquiring more traffic, this gap of missed opportunities just increases.
 
 &nbsp;
 
