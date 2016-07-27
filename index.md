@@ -101,7 +101,7 @@ Here are some of the awesome businesses I've had the pleasure of working with:
 
 <img src="/images/ew_clients.jpg">
 
-One of my clients conversion rate after working with me:
+One of my client's conversion rate after working with me:
 
 <img src="/images/GA.png" width="600">
 
