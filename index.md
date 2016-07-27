@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I can help you optimize your website's conversion rate and grow your profits
+title: Emils Veveris | ROI focused Conversion Rate Optimization Services 
 ---
 <br>
 <br>
