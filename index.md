@@ -15,7 +15,18 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more money from your existing visitors and customers (optimization).
 
 Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. 
-And paid advertising is only getting more expensive and SEO is only getting harder.
+
+&nbsp;
+
+### But money spent on optimization keeps coming back ###
+
+If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
+
+Even small changes to your copy or design can have a significant impact on the bottom line. 
+
+Just a 5% improvement in sales each month is almost 80% improvement over 12 months (If you are wondering how that’s possible, it’s because of the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) effect).
+
+And you will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers.
 
 &nbsp;
 
@@ -33,26 +44,11 @@ You are missing a lot of opportunities and if you only keep investing the money 
 
 &nbsp;
 
-### Money spent on optimization keeps coming back ###
-
-If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
-
-Even small changes to your copy or design can have a significant impact on the bottom line. 
-
-Just a 5% improvement in sales each month is almost 80% improvement over 12 months (If you are wondering how that’s possible, it’s because of the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) effect).
-
-And you will improve returns from all your other marketing efforts as your website will be more effective in converting visitors into customers. 
-
-&nbsp;
-
-
 ### I can help ###
 
 But where do you start? What exactly do you need to change? How do you make sure that you’re doing it right? And how do you make sure there’s a real improvement from your efforts?
 
 There are lots of myths and faulty case studies out there. What works for others will not necessarily work for you, because your business is different.
-
-There aren’t a lot of people who know how to make this really work and those who can are fully booked months in advance and rarely take on new clients. Top tier optimization agencies only work with businesses that generate more than $5 million/year and charge $15,000 to $20,000 per month for ongoing optimization.
 
 Plus this may not be your highest priority for your business right now. You’ve got a ton of other things on your plate. Optimization does take a lot of time and there are many ways it can go wrong.
 
@@ -72,7 +68,7 @@ If your investment in my services isn’t able to generate a return for you, I�
 
 ### Who is this for? ###
 
-I’m looking for people who have great online businesses and are interested in long-term success on the web. But this isn’t for everyone, you should apply if:
+This isn’t for everyone, you should apply if:
 
  - You’re a small-to-mid-sized business with a revenue generating website.
  - You have enough traffic to support A/B testing. At least 10,000 unique visitors per month—and the more the better.
@@ -87,7 +83,7 @@ I’m looking for people who have great online businesses and are interested in 
  - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes that will grow your conversion rate and revenue).
  - **A/B testing.** I set up, run and monitor the tests.
 
-To put it simply, I’ll focus on improving your website every month so you can focus on running your business.
+To put it simply, I’ll focus on improving your conversion rate every month so you can focus on running your business.
 
 &nbsp;
 
@@ -137,7 +133,7 @@ Monthly retainers start from $2000.
 
 I’d like to work with you for an initial three-month engagement, in order to gauge whether we’d be a good fit.
 
-As a solo consultant, there is a physical limit to how many clients I can service in a month. Therefore, at the moment I’ve got the capacity to take on **<span style="color:red">only one new client </span>**.
+At the moment I’ve got the capacity to take on **<span style="color:red">only one new client </span>**.
 
 
 **ROI focused**
