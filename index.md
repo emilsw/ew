@@ -14,11 +14,11 @@ Here's the bottom line: you really have just two choices when it comes to growin
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
 
-Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. 
+Sure, you need visitors foremost, but money spent on acquiring more of them disappears as soon as they leave without buying anything. Not to mention that paid advertising is only getting more expensive and SEO is only getting harder. 
 
 &nbsp;
 
-### But money spent on optimization keeps coming back ###
+### Money spent on optimization keeps coming back ###
 
 If you start optimization today you will have far more revenue after 10 months ([and much more after 30 months](http://www.quicksprout.com/2012/10/08/what-spending-252000-on-conversion-rate-optimization-taught-me/)) than if you wait for another 10 months to start.
 
