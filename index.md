@@ -131,11 +131,9 @@ What people are saying about me:
 
 &nbsp;
 
-### Pricing ###
+### How much do your services cost? ###
 
-I have several plans and it ranges from $1200 - $6000/month, tailored to each of my clients based on the volume of the traffic, number of monthly transactions and the potential outcome (how much more revenue can I help you grow).
-
-So you’ll have to apply first and then I’ll give you a price that’s fair compensation for that growth for your business.
+Monthly retainers start from $2000.
 
 I’d like to work with you for an initial three-month engagement, in order to gauge whether we’d be a good fit.
 
