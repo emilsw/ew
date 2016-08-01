@@ -7,7 +7,7 @@ title: Emils Veveris | Conversion Rate Optimization Services
 
 <h2> Hi, I'm Emils. </h2> 
 
-## I can help you optimize your website's conversion rate and grow your profits ##
+## I can optimize your website's conversion rate and help you grow your business ##
 
 Here's the bottom line: you really have just two choices when it comes to growing your online business: 
 
