@@ -8,7 +8,7 @@ title: Emils Veveris | Conversion Rate Optimization Services
 
 ## Optimize your website's conversion rate and grow your revenue ##
 
-Here's the bottom line: you really have just two choices when it comes to growing your online business: 
+Here's the bottom line: there are really just two ways to increase your online sales: 
 
  - Get more visitors (SEO, PPC, social media, content marketing, ads and etc.);
  - Get more money from your existing visitors and customers (optimization).
