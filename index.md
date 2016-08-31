@@ -126,7 +126,7 @@ Monthly retainers start from $2000.
 
 I’d like to work with you for an initial three-month engagement, in order to gauge whether we’d be a good fit.
 
-At the moment I’ve got the capacity to take on **<span style="color:red">only one new client </span>**.
+At the moment I’ve got the capacity to take on **<span style="color:red">only two new clients </span>**.
 
 
 **ROI focused**
