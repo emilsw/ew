@@ -135,13 +135,13 @@ All I care about is how much profit I can drive to your business. The goal is to
 
 <br>
 
-<p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply Now</a> </p>
+<p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply</a> </p>
 
 <br>
 
 Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
 
-<p> <img src="/images/ew2.png" width="200"> </p>
+<p> <img src="/images/ew2.png" width="100"> </p>
 
 Cheers, <br/> Emils Veveris
 
