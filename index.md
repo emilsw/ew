@@ -141,7 +141,7 @@ All I care about is how much profit I can drive to your business. The goal is to
 
 Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
 
-<p> <img src="/images/ew2.png" width="100"> </p>
+<p> <img src="/images/ew2.png" width="130"> </p>
 
 Cheers, <br/> Emils Veveris
 
