@@ -72,7 +72,7 @@ This isn’t for everyone, you should apply if:
 
 ### What you get: ###
 
- - **Conversion research report** heatmaps, scroll maps, survey results, analytics audit and more. Valuable information on where you are loosing money and why.
+ - **Conversion research report** heatmaps, scroll maps, survey results, analytics audit and more. Valuable information on where you are losing money and why.
  - **Optimization game plan** for the next 6 months (list of proposed A/B tests and changes that will grow your conversion rate and revenue).
  - **A/B testing.** I set up, run and monitor the tests.
 
