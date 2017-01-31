@@ -86,6 +86,8 @@ I spent years figuring this stuff out on my own, made every possible mistake wit
 
 <img src="/images/convert_c.png" width="200">
 
+<img src="https://course.conversionxl.com/wp-content/uploads/2015/08/medium-color.png" width="200">
+
 Some of the awesome businesses I've had the pleasure of working with:
 
 <img src="/images/ew_clients2.jpg">
