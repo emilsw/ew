@@ -96,7 +96,7 @@ One of my client's conversion rate after working with me:
 
 What people are saying about me:
 
->*Working with Emils has been an awesome experience. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
+>*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
 > --Matt Sellers, Founder/CEO at Quimbee.com
 >
