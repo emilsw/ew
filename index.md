@@ -120,14 +120,6 @@ What people are saying about me:
 
 &nbsp;
 
-### How much do your services cost? ###
-
-Monthly retainers start from $2000.
-
-I’d like to work with you for an initial three-month engagement, in order to gauge whether we’d be a good fit.
-
-At the moment I’ve got the capacity to take on  **<span style="color:red"> 2 </span>** clients.
-
 
 **ROI focused**
 
@@ -135,13 +127,8 @@ All I care about is how much profit I can drive to your business. The goal is to
 
 <br>
 
-<p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Click Here To Apply</a> </p>
+<p style="text-align:center"> <a class="pure-button pure-button-primary" href="http://www.emilsw.com/contact">Get In Touch</a> </p>
 
 <br>
 
-Got questions? Shoot me an <a href="mailto:emils.veveris@gmail.com">email</a>.
-
-<p> <img src="/images/ew2.png" width="130"> </p>
-
-Cheers, <br/> Emils Veveris
 
