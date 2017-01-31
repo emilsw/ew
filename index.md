@@ -90,7 +90,7 @@ I spent years figuring this stuff out on my own, made every possible mistake wit
 
 Some of the awesome businesses I've had the pleasure of working with:
 
-<img src="/images/ew_clients2.jpg">
+<img src="/images/ew_logos_bw.png">
 
 One of my client's conversion rate after working with me:
 
