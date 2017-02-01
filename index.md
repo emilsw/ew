@@ -7,7 +7,7 @@ title: Emils Veveris | Conversion Rate Optimization, UX & Digital Analytics
 <br>
 
 ## Emils Veveris ##
-Conversion rate optimization consulting for small to mid-size web businesses: e-commerce, saas, subscription services, 
+Conversion rate optimization (CRO) consulting for small to mid-size web businesses: e-commerce, saas, subscription services, 
 digital products.
 
 [Get in touch](mailto:emils.veveris@gmail.com)
