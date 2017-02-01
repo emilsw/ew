@@ -12,10 +12,6 @@ digital products.
 
 [Get in touch](mailto:emils.veveris@gmail.com)
 
-Clients(present & past): <b>Quimbee</b>, <b>Athletic Greens</b>, 
-<b>Baseballism</b>, <b>Whole</b>, <b>Marine Depot</b>,
-<b>Liberis</b>, <b>Leaving Work Behind</b>, <b>Haute Hijab</b> and more.
-
 <img src="/images/cr.jpg" width="300">
 
 
@@ -31,7 +27,9 @@ Clients(present & past): <b>Quimbee</b>, <b>Athletic Greens</b>,
 >
 > --David Crowther, nervecentral.com
 
-&nbsp;
+Trusted by:
+
+<img src="/images/ewc.jpg">
 
 Articles & Case Studies:
 
