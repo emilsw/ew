@@ -31,7 +31,7 @@ Trusted by:
 
 <img src="/images/ewc.jpg">
 
-Articles & Case Studies:
+Case Studies & Articles:
 
  - [How one survey question led to 106.59% increase in revenue](http://www.emilsw.com/articles/survey-case-study)
  - [+16.01% increase in revenue with more focused shopping cart](http://www.goodui.org/evidence/test029)
