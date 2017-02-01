@@ -36,6 +36,6 @@ Clients(present & past): <b>Quimbee</b>, <b>Athletic Greens</b>,
 Articles & Case Studies:
 
  - [How one survey question led to 106.59% increase in revenue](http://www.emilsw.com/articles/survey-case-study)
- - [+16.01% increase in revenue with more focused shopping car](http://www.goodui.org/evidence/test029)
+ - [+16.01% increase in revenue with more focused shopping cart](http://www.goodui.org/evidence/test029)
  - [How to find your ideal customer](https://lesschurn.io/saas-churn-university/finding-the-ideal-customer)
  - [Talking to your customers: what questions to ask, and when to ask them](https://lesschurn.io/saas-churn-university/getting-more-information)
