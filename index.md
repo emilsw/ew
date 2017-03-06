@@ -14,6 +14,9 @@ digital products.
 
 <img src="/images/cr.jpg" width="300">
 
+Trusted by:
+
+<img src="/images/ewc.jpg">
 
 >*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
@@ -27,9 +30,6 @@ digital products.
 >
 > --David Crowther, nervecentral.com
 
-Trusted by:
-
-<img src="/images/ewc.jpg">
 
 Case Studies & Articles:
 
