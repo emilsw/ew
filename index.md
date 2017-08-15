@@ -33,6 +33,7 @@ Trusted by:
 
 Case Studies & Articles:
 
+ - [How to make Google Analytics work for your Shopify store](http://acquireconvert.com/shopify-analytics/)
  - [How one survey question led to 106.59% increase in revenue](http://www.emilsw.com/articles/survey-case-study)
  - [+16.01% increase in revenue with more focused shopping cart](http://www.goodui.org/evidence/test029)
  - [How to find your ideal customer](https://lesschurn.io/saas-churn-university/finding-the-ideal-customer)
