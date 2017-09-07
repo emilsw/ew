@@ -22,7 +22,7 @@ Trusted by:
 >
 > --Matt Sellers, Founder/CEO at Quimbee.com
 
->*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my members goal.*
+>*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
 > --Tom Ewer, leavingworkbehind.com
 
@@ -38,3 +38,4 @@ Case Studies & Articles:
  - [+16.01% increase in revenue with more focused shopping cart](http://www.goodui.org/evidence/test029)
  - [How to find your ideal customer](https://lesschurn.io/saas-churn-university/finding-the-ideal-customer)
  - [Talking to your customers: what questions to ask, and when to ask them](https://lesschurn.io/saas-churn-university/getting-more-information)
+ 
