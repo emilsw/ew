@@ -16,7 +16,7 @@ Conversion rate optimization (CRO) strategist and consultant. I help companies g
 
 Trusted by:
 
-<img src="/images/ewc.jpg">
+<img src="/images/ew_logos_bw2.png">
 
 >*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
