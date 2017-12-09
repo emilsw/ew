@@ -5,6 +5,7 @@ body {
     padding: 1em 1em 10em 1em;
     text-align: left;
     color: #333;
+    font-family: "Karla", sans-serif;
     font-size: 16px;
    
 }
@@ -60,8 +61,7 @@ h4 {
     font-size: 1.5em;
 }
 
-p {
-    font-family: "Karla", sans-serif;
+p {   
     font-weight: 400;
     line-height: 1.60;
     opacity: 0.70;
