@@ -4,7 +4,7 @@ body {
     max-width: 45em;
     padding: 1em 1em 10em 1em;
     text-align: left;
-    font-family: "Karla", sans-serif;
+    font-family: 'Karla', sans-serif;
     font-size: 16px;
    
 }
@@ -32,7 +32,7 @@ h1 {
 
 h2 {
     font-size: 2em;
-    font-family: "Lato", sans-serif;
+    font-family: 'Lato', sans-serif;
     font-weight: 900;
     line-height: 1.20;
     opacity: 1.00;
