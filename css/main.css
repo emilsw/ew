@@ -42,10 +42,6 @@ h2 {
     text-transform: none;
 }
 
-h1, h2 {
-    line-height: 1.5;
-}
-
 
 h4 {
     font-size: 1.5em;
@@ -54,7 +50,7 @@ h4 {
 p {   
     font-weight: 400;
     line-height: 1.70;
-    opacity: 0.70;
+    opacity: 1.00;
     margin-bottom: 25px;
     letter-spacing: -0.30px;
     word-spacing: -0.10px;
