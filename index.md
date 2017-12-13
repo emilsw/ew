@@ -22,6 +22,10 @@ Trusted by:
 >
 > --Matt Sellers, Founder/CEO at Quimbee.com
 
+>*Emils is our go to CRO guy, <b> he has run multiple successful A/B testing and conversion optimization projects that resulted in 6 figures lifts for our client’s businesses </b> *
+>
+> --Giles Thomas, Founder/CEO at wholedesignstudios.com
+
 >*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
 >
 > --Tom Ewer, leavingworkbehind.com
