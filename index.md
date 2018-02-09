@@ -14,7 +14,7 @@ Conversion rate optimization (CRO) strategist and consultant. I help companies g
 
 <img src="/images/cr.jpg" width="300">
 
-Companies I've had the pleasure of working with:
+Some of the companies I've had the pleasure of working with: 
 
 <img src="/images/ew_logos_bw2.png">
 
