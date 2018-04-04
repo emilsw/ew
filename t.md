@@ -12,8 +12,8 @@ Conversion rate optimization (CRO) strategist and consultant. I help companies g
 
 [Get in touch](mailto:emils.veveris@gmail.com)
 
-<img src="/images/cr.jpg" width="150">
-<img src="/images/cr.jpg" width="150">
+<img src="/images/colored_cxl_certificate.png" width="150">
+<img src="/images/convert-certified-expert.png" width="150">
 
 Some of the companies I've had the pleasure of working with: 
 
