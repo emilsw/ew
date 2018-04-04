@@ -16,7 +16,7 @@ Conversion rate optimization (CRO) strategist and consultant. I help companies g
 
 Some of the companies I've had the pleasure of working with: 
 
-<img src="/images/ew_logos_bw2.png">
+<img src="/images/ew_logos_bw2.png"> [Quimbee](quimbee.com), [Athletic Greens](https://athleticgreens.com/), [Isolta](https://www.isolta.com/), [Baseballism](https://www.baseballism.com/) [Whole Design](https://wholedesignstudios.com/) and more.
 
 >*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
