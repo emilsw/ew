@@ -15,12 +15,6 @@ Conversion rate optimization (CRO) strategist and consultant. I help companies g
 <img src="/images/colored_cxl_certificate.png" width="120">  <img src="/images/convert-certified-expert.png" width="150">
 
 Some of the companies I’ve had the privilage of working with:
-
-  - Quimbee          - Baseballism           
-  - Athletic Greens  - Whole Design Studios    
-  - Isolta           - Marine Depot             
-
-
 <div class="grid-container">
   <div class="grid-item"> - Quimbee </div>
   <div class="grid-item"> - Athletic Greens</div>
@@ -30,6 +24,7 @@ Some of the companies I’ve had the privilage of working with:
   <div class="grid-item"> - Marine Depot</div>
 </div>
 
+---
 
 >*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
