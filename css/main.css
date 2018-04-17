@@ -107,13 +107,13 @@ textarea {
 	
 }
 
-.grid-container {
+grid-container {
   display: grid;
   grid-column-gap: 50px;
   grid-template-columns: auto auto auto;
   padding: 10px;
 }
 
-.grid-item {
+grid-item {
   padding: 20px; 
 }
