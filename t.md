@@ -27,6 +27,7 @@ Some of the companies I’ve had the privilage of working with:
   <div class="grid-item"> - Marine Depot</div>
 </div>
 
+
 >*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
 >
 > --Matt Sellers, Founder/CEO at Quimbee.com
