@@ -106,3 +106,14 @@ textarea {
   color: #B1B1B1;
 	
 }
+
+.grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px; 
+}
