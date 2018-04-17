@@ -15,6 +15,7 @@ Conversion rate optimization (CRO) strategist and consultant. I help companies g
 <img src="/images/colored_cxl_certificate.png" width="120">  <img src="/images/convert-certified-expert.png" width="150">
 
 Some of the companies I’ve had the privilage of working with:
+
 <div class="grid-container">
   <div class="grid-item"> - Quimbee </div>
   <div class="grid-item"> - Athletic Greens</div>
