@@ -55,3 +55,4 @@ Writing & Case Studies:
  - [How to find your ideal customer](https://lesschurn.io/saas-churn-university/finding-the-ideal-customer)
  - [Talking to your customers: what questions to ask, and when to ask them](https://lesschurn.io/saas-churn-university/getting-more-information)
  
+ <div data-type="countdown" data-id="663353" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/663353/izmanto" title="Izmanto">Izmanto</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
