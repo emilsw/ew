@@ -10,7 +10,7 @@ Hi, I'm Emils. I'm a growth, product and marketing strategist. I help SaaS, E-co
 
 *Independent contractor - April 2014 to Present*
 
-I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting monthly revenues for 7-8 figure online businesses. Here are some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/) and more.
+I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting monthly revenues for 7-8 figure online businesses. Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
 
 * Helped double MRR (Monthly Recurring Revenue) for [quimbee.com](https://www.quimbee.com/) an online education company (recently named the #9 fastest growing education company in the United States by Inc magazine)
 
