@@ -14,7 +14,7 @@ My background is unorthodox, I have a degree in finance and spent my first profe
 
 *Independent contractor - April 2014 to Present*
 
-I've worked with companies and products of various sizes and stages (mostly SaaS and E-commerce) across different industries (law, education, supplements, sport's apparel, invocing and more). I've helped acquire first customers and boost conversions and profits for 7-8 figure online businesses. 
+I've worked with companies and products of various sizes and stages (mostly SaaS and E-commerce) across different industries (law, education, supplements, sport's apparel, invoicing and more). I've helped acquire first customers and boost conversions and profits for 7-8 figure online businesses. 
 
 Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
 
@@ -30,11 +30,11 @@ Here are some highlights of my work:
   
   * Product page improvements for another e-commerce store: made products more compelling by emphasising that they are made of limited supply materials and offer lifetime warranty. Ecommerce conversion rate increased by 28%
   
-  * Funnel improvements (user flow) for a web subscription service: was getting majority of their traffic from specific landing pages - visitors who landed on those pages had to go to another page to sign up (which lead to a lot of drop-offs in between) - we tested a signup form on the initial landing pages (so the visitors can sign up without going to another page) - the new signup conversion rate increased by 23.03%    
+  * Funnel improvements (user flow) for a web subscription service: it was getting majority of their traffic from specific landing pages - visitors who landed on those pages had to go to another page to sign up (which lead to a lot of drop-offs in between) - we tested a signup form on the initial landing pages (so the visitors can sign up without going to another page) - the new signup conversion rate increased by 23.03%    
   
 * [Helped successfully launch a membership site](https://leavingworkbehind.com/membership-site-case-study/) 
 
-* Created and promoted cotent: wrote expert articles on [A/B testing pitfalls](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first), [A/B testing strategy](), [Google Analytics](http://acquireconvert.com/shopify-analytics/) and [User research](https://lesschurn.io/saas-churn-university/getting-more-information). Did an A/B testing on Shopify [webinar](https://www.convert.com/academy/choose-b-testing-strategy-shopify-store/) 
+* Created and promoted cotent: wrote expert articles on [A/B testing pitfalls](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first), [A/B testing strategy](), [Google Analytics](http://acquireconvert.com/shopify-analytics/) and [user research](https://lesschurn.io/saas-churn-university/getting-more-information). Did an A/B testing on Shopify[webinar](https://www.convert.com/academy/choose-b-testing-strategy-shopify-store/) 
 
 * I've also done plenty of outbound marketing for my own services: prospecting, outreach, sales 
  
