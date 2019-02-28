@@ -2,7 +2,7 @@
 
 [https://emilsw.com](https://www.emilsw.com/) | emils.veveris@gmail.com 
 
-Hi, I'm Emils. I'm a growth, product and marketing strategist. I help SaaS, E-commerce and other web based business grow profits through CRO (conversion rate optimisation), UX research, digital analytics and A/B testing.    
+Hi, I'm Emils. I'm a growth, product and marketing strategist. I help SaaS, E-commerce and other web based business grow through CRO (conversion rate optimisation), UX research, digital analytics and A/B testing.    
 
 <img src="/images/cr.jpg" width="200">
 
