@@ -4,7 +4,7 @@
 
 Hi, I'm Emils. I'm a growth, product and marketing strategist. 
 
-I specialise in CRO (conversion rate optimisation) - UX research, digital analytics and A/B testing. However I have experience in almost all aspects of digital growth from user aquisition to conversion and retention - PPC (Adwords, Bing ads, FB ads), email marketing, drip campaigns, product launches, onboarding and lifecyle, outreach, content creation, SEO and more. Including digital product development - wireframing, cocepts and mockups, exentensive user research, market analysis, web development. 
+I specialise in CRO (conversion rate optimisation) - UX research, digital analytics and A/B testing. However I have experience in almost all aspects of digital growth from user aquisition to conversion and retention - PPC (Adwords, Bing ads, FB ads), email marketing, drip campaigns, product launches, onboarding and lifecyle, outreach, content creation, SEO and more. Including digital product development - wireframing, cocepts and mockups, exentensive user research, market analysis and web development. 
 
 My background is unorthodox, I have a degree in finance and spent my first professional years working in the corporate world. After boredom and lack of challenge, I started a startup on the side with no experience whatsover. However along the way I picked up new skills which eventually led me to freelance. Below are the highlights of my career so far.
 
