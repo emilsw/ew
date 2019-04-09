@@ -1,2 +1,2 @@
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4tzHNUumihx1Pf-QtkPPEzRQR6r53PFMxwHKHdbrDyQ2ETeqolS8CmQdIMZMNkikjTEBova4Cf67A/pubhtml?gid=1214376961&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4tzHNUumihx1Pf-QtkPPEzRQR6r53PFMxwHKHdbrDyQ2ETeqolS8CmQdIMZMNkikjTEBova4Cf67A/pubhtml?gid=1214376961&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
