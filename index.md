@@ -18,7 +18,7 @@ Some of the companies I've had the privilege of working with:
 
 <img src="/images/ew_logos_bw2.png">
 
->*Emils is a pleasure to work with. <b> He helped us more than double our conversion rate and revenue. </b> I look forward to continuing to work with him.*
+>*Emils is a pleasure to work with. He did a good job on identifying opportunities, made excellent suggestions and <b> helped us more than double our conversion rate and revenue</b>.*
 >
 > --Matt Sellers, Founder/CEO at Quimbee.com
 
