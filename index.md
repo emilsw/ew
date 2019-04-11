@@ -34,6 +34,11 @@ Some of the companies I've had the privilege of working with:
 >
 > --David Crowther, nervecentral.com
 
+>*Emils has a breadth of testing experience. I'd recommend him to anyone who is looking to get started with a solid foundation."
+>
+> --Ben Coltrin, CEO at custodyxchange.com
+
+
 
 Writing & Case Studies:
 
