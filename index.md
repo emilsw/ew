@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emils Veveris | Conversion Rate Optimization, UX & Digital Analytics
+title: Emils Veveris | Growth, Conversion Rate Optimization, UX & Digital Analytics
 ---
 <br>
 <br>
