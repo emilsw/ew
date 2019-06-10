@@ -1,71 +1,92 @@
 # Emils Veveris 
 
-[https://emilsw.com](https://www.emilsw.com/) | emils.veveris@gmail.com 
+[https://emilsw.com](https://www.emilsw.com/) | [Linkedin](https://www.linkedin.com/in/emilsveveris/) | [Twitter](https://twitter.com/emils_w) | [quora](https://www.quora.com/profile/Emils-Veveris) | emils.veveris@gmail.com 
 
-Hi, I'm Emils. I'm a growth, product and marketing strategist. 
+Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate optimisation) strategist, currently working as an independent consultant.
 
-I specialize in CRO UX research, digital analytics and A/B testing. However I have experience in almost all aspects of digital growth from user acquisition to conversion and retention - CRO, PPC (Adwords, Bing ads, FB ads), email marketing, drip campaigns, product launches, onboarding and lifecycle, outreach, content creation, SEO and more. Including digital product development - wireframing, concepts and mockups, extensive user research, market analysis and web development.
+### EW inc. Digital growth and optimization consultancy (CRO, UX, Experimentation & Digital Analytics)
 
-My background is unorthodox, I have a degree in finance and spent my first professional years working in the corporate world. After boredom and lack of challenge, I started a startup on the side with no experience whatsover. However along the way I picked up new skills which eventually led me to freelance. Below are the highlights of my career so far.
+*Owner/Independent consultant - April 2014 to Present*
 
-<img src="/images/cr.jpg" width="200">
+* Helped double revenue (from $50k/month to $100k+/month) for [Quimbee.com](https://www.quimbee.com/) (an online education company, recently named the #9 fastest growing education company in the United States by Inc magazine) through CRO and UX research
 
-### EW inc. Growth, CRO, UX & Digital Analytics 
+* Revamped and led international go-to-market strategy for [Isolta.fi](https://www.isolta.fi/) (a leading invoicing software in Northern Europe), achieving 300%+ growth in the market
 
-*Independent contractor - April 2014 to Present*
+* Designed and executed number of successful A/B tests for e-commerce and SaaS, adding over 3 million USD + in revenue 
 
-I've worked with companies and products of various sizes and stages (mostly SaaS and E-commerce) across different industries (law, education, supplements, sport's apparel, invoicing and more). I've helped acquire first customers and boost conversions and profits for 7-8 figure online businesses. 
+* Written expert articles on A/B testing, Google Analytics and user research for blogs like [Shopify's partner blog](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients). Did 
 
-Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
-
-Here are some highlights of my work:
-
-* [Helped double MRR (Monthly Recurring Revenue)](https://www.emilsw.com/articles/survey-case-study) for [quimbee.com](https://www.quimbee.com/) an online education company (recently named the #9 fastest growing education company in the United States by Inc magazine)
-
-* Developed and lead a multilingual CRO and growth startegy for a SaaS company that was struggling in international markets which lead to a 3x increase in paid users in the market where the strategy was implemented
-
-* Developed and led number of optimisation and A/B testing programs, some A/B test examples: 
-
-  * Usability improvements for an 8 figure e-commerce store: the cart had too many distractions (visitors were confused by various elements and calls-to-action) - I tested a more focused cart, it increased average revenue per visitor by 16.01% (you can see the before/after [here](https://www.goodui.org/evidence/test029))
-  
-  * Product page improvements for another e-commerce store: made products more compelling by emphasising that they are made of limited supply materials and offer lifetime warranty. Ecommerce conversion rate increased by 28%
-  
-  * Funnel improvements (user flow) for a web subscription service: it was getting majority of their traffic from specific landing pages - visitors who landed on those pages had to go to another page to sign up (which lead to a lot of drop-offs in between) - we tested a signup form on the initial landing pages (so the visitors can sign up without going to another page) - the new signup conversion rate increased by 23.03%    
-  
-* [Helped successfully launch a membership site](https://leavingworkbehind.com/membership-site-case-study/) 
-
-* Created and promoted cotent: wrote expert articles on [A/B testing pitfalls](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first), [A/B testing strategy](), [Google Analytics](http://acquireconvert.com/shopify-analytics/) and [user research](https://lesschurn.io/saas-churn-university/getting-more-information). Did an A/B testing on Shopify[webinar](https://www.convert.com/academy/choose-b-testing-strategy-shopify-store/) 
-
-* I've also done plenty of outbound marketing for my own services: prospecting, outreach, sales 
+* Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
  
 
 ### Thrill Engine
 
 *Founder - 2012 to 2013*
 
-I created a [travel site](https://web.archive.org/web/20140125223539/http://www.thrillengine.com/trips/surf-tours-nicaragua) where you could book adventure trips for better prices. This is how I began my journey into the digital world and entrepreneurship.
+Online platform for booking adventure trips (snowboarding, skiing, surfing, kiteboarding, and more)
 
-I was a complete newbie so I made almost every possible mistake you can make and learned a lot of lessons the hard way. During this time I also picked up quite a few new skills from web development (HTML, CSS, Ruby on Rails) to desing to marketing and sales. I learned everything from scratch and did everything by myself. Even though my own startup failed, I've successfully managed to use the lessons and newfound skills to pave the way for a freelance career.
+* Solo founder (my fast track entry to entrepreneurship), made almost every possible mistake you can make but used the lessons learned to pave the way for a successful consulting career
 
+* Learned: web development & design (HTML, CSS, JS, Ruby on Rails), digital marketing and sales (user acquisition, conversion), entrepreneurial skills, product development (ideation, validation, iteration)
 
 
 ### Aldaris, Part of Carlsberg Group 
 *Procurement specialists - November 2008 to February 2014* 
 
-Excel reports and a lot of emails and phone calls dealing with suppliers (worldwide) and collaboration with the marketing department (regarding the design of packaging and bottle labels). 
+Carlsberg Group is a global brewer, employing over 41,000 people and producing over 500 beers. Aldaris is the leading and most developed brewery in Latvia.
 
-One of the key tasks was assisting with the implementation of SAP. I had to complete the training courses, and then teach my colleagues how to use SAP for their daily tasks (the procurement and production department).
+* Main responsibilities: ensure a steady supply of production materials, collaborate with vendors and in-house stakeholders (logistics, production, marketing, sales), manage inventory, track orders, resolve supply issues, manage supply risk
 
-Using the excel skills I acquired from my earlier position, I managed to optimize and automate a large part of the whole procurement process (80% of my work consisted of making orders for production materials from excel and SAP reports). It made it boring but there was one upside - it gave me free time to start working on my startup (see above).
+* Key role in SAP procurement implementation, worked closely with SAP consultants to develop accurate solutions, coached and trained in-house procurement and production teams
+
+* Optimized procurement processes, made day-to-day tasks 90% automated
 
 ### Aldaris, Part of Carlsberg Group
 *Business Analysis Assistant - July 2007 to November 2008*
 
-My first real job as a business analyst's assistant at a local brewery called Aldaris (which is also fully owned by The Carlsberg Group, a global brewer employing around 41,000 people).
+Joined the Sales team to assist with the performance reporting process and sales analytics
 
-My duties consisted mostly of doing sales reports in excel. Learned a few excel tricks and managed to optimize the whole reporting process - faster reports, less manual work which soon led to a promotion.
+* Optimized daily/weekly reporting, ensured faster delivery and less manual work (less manual data entry in excel) 
 
 ### Education
 
 #### BA School of Business and Finance, Riga, Latvia
 * Bachelor's degree of finance and accounting - June 2009*
+
+### Certification
+
+#### CXL Certified Optimizer 
+* CXL Institute - [See credential](https://certificates.conversionxl.com/2sfmk9fh)
+
+#### Convert Certified Expert 
+* Convert.com 
+
+### Skills
+
+Conversion rate optimization: Digital Analytics, UX research, usability & user testing, wireframing, landing page design,
+experimentation (A/B/n testing & MWT),data analysis & statistics
+
+Growth marketing: PPC: Google Adwords, Bing Ads, Facebook ads, Instagram ads, Lead generation, Outreach & sales, Onboarding, Email marketing & drip campaigns, Copywriting & content creation
+
+Project management: Planning & execution to achieve ROI, Freelance, agency & client-side work, Leading, managing & recruiting teams, Coaching, mentoring & teaching, Relationship management – vendors, partners, clients and agencies
+
+Proficient and have experience with such stack: Google Analytics, Google Tag Manager, Mixpanel, KISSMetrics, Optimizely, VWO, convert.com, Google Optimize, Intercom, MailChimp, Hotjar, Qualaroo, CrazyEgg, Inspectlet, Github, Shopify, Wordpress, Grav and many more.
+
+I love to dabble across different disciplines and I don't shy away from the challenge. I'm an autodidact which means that I'm comfortable learning and picking up new skills or tools quickly (everything above is pretty much self-taught).
+
+Languages:
+* Latvian - native
+* English - fluent
+* Russian - intermediate
+
+### Personal
+
+Adventurer, love to explore and be outside. But I do a love a great movie (into sci-fi, comedies and overall stuff that makes you think) when the weather is crappy outside. 
+
+I've also taken some extensive personality tests with focus on finding my natural strengths and talents, here are my results (if you are interested):
+
+[Strengthsfinder](https://drive.google.com/file/d/1HhfPPXNlv7SBxzYcYjPxbaL4VTqvQDZk/view?usp=sharing) - Doer/Thinker w/ Influencer 
+[Kolbe](https://drive.google.com/file/d/11_s_WXvNgAVsitDN6W9XDvnZs4NWvATS/view?usp=sharing) - 7/7/4/2
+
+
+
