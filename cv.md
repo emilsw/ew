@@ -86,6 +86,7 @@ Adventurer, love to explore and be outside. But I do a love a great movie (into 
 I've also taken some extensive personality tests with focus on finding my natural strengths and talents, here are my results (if you are interested):
 
 [Strengthsfinder](https://drive.google.com/file/d/1HhfPPXNlv7SBxzYcYjPxbaL4VTqvQDZk/view?usp=sharing) - Doer/Thinker w/ Influencer 
+
 [Kolbe](https://drive.google.com/file/d/11_s_WXvNgAVsitDN6W9XDvnZs4NWvATS/view?usp=sharing) - 7/7/4/2
 
 
