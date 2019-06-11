@@ -18,7 +18,7 @@ Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate o
 
 * Written expert articles on A/B testing, Google Analytics and user research for blogs like [Shopify's partner blog](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients). Did 
  
-* Conducted exentise quantitative and qualitative research to understand my client's customers, funnel, product and areas of opportunity (JTBD interviews, user surveys, user testing, video sessions, user journey mapping, heatmaps, Google Analytics audits and analysis, and more.)
+* Conducted extensive quantitative and qualitative research to understand my client's customers, funnel, product and areas of opportunity (JTBD interviews, user surveys, user testing, video sessions, user journey mapping, heatmaps, Google Analytics audits and analysis, and more.)
 
 * Collaborated closely with in-house teams and contractors (design, development, marketing) to bring experiments, campaigns, and product improvements to life.
 
