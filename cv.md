@@ -8,7 +8,7 @@ Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate o
 
 *Owner/Independent consultant - April 2014 to Present*
 
-* Crafted and managed the execution of growth and optimization programs (growth experiments accross the entire funnel, marketing campaigns, product improvements) for companies like: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
+* Crafted and managed the execution of digital growth and optimization programs (growth experiments accross the entire funnel, marketing campaigns, product improvements) for SaaS companies like [Quimbee](https://www.quimbee.com/), [Custody X change](https://www.custodyxchange.com/), [Isolta](https://www.isolta.fi/) and E-commerce like [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/), [Marine Depot](https://www.marinedepot.com/)
 
 * Helped double revenue (from 50k USD/month to 100k+ USD/month) for [Quimbee.com](https://www.quimbee.com/) (recently named the #9 fastest growing education company in the United States by Inc magazine) through CRO and UX research
 
