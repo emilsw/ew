@@ -8,16 +8,19 @@ Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate o
 
 *Owner/Independent consultant - April 2014 to Present*
 
-* Helped double revenue (from $50k/month to $100k+/month) for [Quimbee.com](https://www.quimbee.com/) (an online education company, recently named the #9 fastest growing education company in the United States by Inc magazine) through CRO and UX research
+* Crafted and managed the execution of growth and optimization programs (growth experiments accross the entire funnel, marketing campaigns, product improvements) for companies like: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
 
-* Revamped and led international go-to-market strategy for [Isolta.fi](https://www.isolta.fi/) (a leading invoicing software in Northern Europe), achieving 300%+ growth in the market
+* Helped double revenue (from 50k USD/month to 100k+ USD/month) for [Quimbee.com](https://www.quimbee.com/) (recently named the #9 fastest growing education company in the United States by Inc magazine) through CRO and UX research
 
-* Designed and executed number of successful A/B tests for e-commerce and SaaS, adding over 3 million USD + in revenue 
+* Revamped and led the execution of an international go-to-market strategy for [Isolta.fi](https://www.isolta.fi/) (a leading invoicing software in Northern Europe), achieving 300%+ growth in the market
+
+* Designed and managed execution of successful A/B tests for e-commerce and SaaS, adding over 4 million USD + in revenue 
 
 * Written expert articles on A/B testing, Google Analytics and user research for blogs like [Shopify's partner blog](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients). Did 
-
-* Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/) | [Custody X change](https://www.custodyxchange.com/) | [Isolta](https://www.isolta.fi/) | [Athletic Greens](https://athleticgreens.com) | [Baseballism](https://www.baseballism.com/) | [Marine Depot](https://www.marinedepot.com/)
  
+* Conducted exentise quantitative and qualitative research to understand my client's customers, funnel, product and areas of opportunity (JTBD interviews, user surveys, user testing, video sessions, user journey mapping, heatmaps, Google Analytics audits and analysis, and more.)
+
+* Collaborated closely with in-house teams and contractors (design, development, marketing) to bring experiments, campaigns, and product improvements to life.
 
 ### Thrill Engine
 
@@ -54,6 +57,7 @@ Joined the Sales team to assist with the performance reporting process and sales
 * Bachelor's degree of finance and accounting - June 2009*
 
 ### Certification
+<img src="/images/cr.jpg" width="300">
 
 #### CXL Certified Optimizer 
 * CXL Institute - [See credential](https://certificates.conversionxl.com/2sfmk9fh)
@@ -64,7 +68,7 @@ Joined the Sales team to assist with the performance reporting process and sales
 ### Skills
 
 Conversion rate optimization: Digital Analytics, UX research, usability & user testing, wireframing, landing page design,
-experimentation (A/B/n testing & MWT),data analysis & statistics
+experimentation (A/B/n testing & MWT), data analysis & statistics, HTML, CSS, JS
 
 Growth marketing: PPC: Google Adwords, Bing Ads, Facebook ads, Instagram ads, Lead generation, Outreach & sales, Onboarding, Email marketing & drip campaigns, Copywriting & content creation
 
