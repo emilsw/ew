@@ -4,7 +4,7 @@
 
 Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate optimisation) strategist, currently working as an independent consultant.
 
-For the past five years I've been helping SaaS and E-commerce companies (like [Quimbee](https://www.quimbee.com/), [Custody X change](https://www.custodyxchange.com/), [Isolta](https://www.isolta.fi/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/), [Marine Depot](https://www.marinedepot.com/)) grow their user/customer base, improve conversion rates, retention and profitability through data, research and experimentation
+For the past five years I've been helping SaaS and E-commerce companies (like [Quimbee](https://www.quimbee.com/), [Custody X change](https://www.custodyxchange.com/), [Isolta](https://www.isolta.fi/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/), [Marine Depot](https://www.marinedepot.com/)) grow their user/customer base, improve conversion rates, retention and profitability through data, UX research and experimentation
 
 ### EW inc. Digital growth and optimization consultancy (CRO, UX, Experimentation & Digital Analytics)
 
@@ -20,7 +20,7 @@ For the past five years I've been helping SaaS and E-commerce companies (like [Q
  
 * Conducted extensive quantitative and qualitative research to understand my client's customers, funnel, product and areas of opportunity (JTBD interviews, user surveys, user testing, video sessions, user journey mapping, heatmaps, Google Analytics audits and analysis, and more.)
 
-* Collaborated closely with in-house teams and contractors (design, development, marketing) to bring experiments, campaigns, and product improvements to life.
+* Collaborated closely and managed in-house teams and contractors (design, development, marketing) to bring experiments, campaigns, and product improvements to life.
 
 ### Thrill Engine
 
