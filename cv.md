@@ -4,15 +4,19 @@
 
 Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate optimisation) strategist, currently working as an independent consultant.
 
-For the past five years I've been helping SaaS and E-commerce companies (like [Quimbee](https://www.quimbee.com/), [Custody X change](https://www.custodyxchange.com/), [Isolta](https://www.isolta.fi/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/), [Marine Depot](https://www.marinedepot.com/)) grow their user/customer base, improve conversion rates, retention and profitability through data, UX research and experimentation
+For the past five years, I've been helping SaaS and E-commerce companies (like [Quimbee](https://www.quimbee.com/), [Isolta](https://www.isolta.fi/), [Custody X change](https://www.custodyxchange.com/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/)) grow through better conversions, retention and profitability using data, UX research and experimentation.
 
-### EW inc. Digital growth and optimization consultancy (CRO, UX, Experimentation & Digital Analytics)
+---
+
+### Experience
+
+#### EW inc. Digital growth and optimization consultancy (CRO, UX, Experimentation & Digital Analytics)
 
 *Owner/Independent consultant - April 2014 to Present*
 
-* Helped double revenue (from 50k USD/month to 100k+ USD/month) for [Quimbee.com](https://www.quimbee.com/) (recently named the #9 fastest growing education company in the United States by Inc magazine) through CRO and UX research
+* Helped double revenue (from 50k USD/month to 100k+ USD/month) for [Quimbee.com](https://www.quimbee.com/) (recently named the #9 fastest growing education company in the United States by Inc magazine) by optimizing their conversion rates and helping them better understand their users (UX research)
 
-* Revamped and led the execution of an international go-to-market strategy for [Isolta.fi](https://www.isolta.fi/) (a leading invoicing software in Northern Europe), achieving 300%+ growth in the market
+* Revamped and led the execution of an international go-to-market strategy for [Isolta.fi](https://www.isolta.fi/) (a leading invoicing software in Northern Europe), achieving 300%+ growth in the market using the best CRO & UX practices
 
 * Designed and managed execution of successful A/B tests for e-commerce and SaaS, adding over 4 million USD + in revenue 
 
@@ -22,7 +26,7 @@ For the past five years I've been helping SaaS and E-commerce companies (like [Q
 
 * Collaborated closely and managed in-house teams and contractors (design, development, marketing) to bring experiments, campaigns, and product improvements to life.
 
-### Thrill Engine
+#### Thrill Engine
 
 *Founder - 2012 to 2013*
 
@@ -33,7 +37,7 @@ Online platform for booking adventure trips (snowboarding, skiing, surfing, kite
 * Learned: web development & design (HTML, CSS, JS, Ruby on Rails), digital marketing and sales (user acquisition, conversion), entrepreneurial skills, product development (ideation, validation, iteration)
 
 
-### Aldaris, Part of Carlsberg Group 
+#### Aldaris, Part of Carlsberg Group 
 *Procurement specialists - November 2008 to February 2014* 
 
 Carlsberg Group is a global brewer, employing over 41,000 people and producing over 500 beers. Aldaris is the leading and most developed brewery in Latvia.
@@ -44,44 +48,44 @@ Carlsberg Group is a global brewer, employing over 41,000 people and producing o
 
 * Optimized procurement processes, made day-to-day tasks 90% automated
 
-### Aldaris, Part of Carlsberg Group
+#### Aldaris, Part of Carlsberg Group
 *Business Analysis Assistant - July 2007 to November 2008*
 
 Joined the Sales team to assist with the performance reporting process and sales analytics
 
 * Optimized daily/weekly reporting, ensured faster delivery and less manual work (less manual data entry in excel) 
 
+---
+### Certification
+<img src="/images/cr.jpg" width="300">
+
+#### ConversionXL Certified Optimizer 
+* CXL Institute - [See credential](https://certificates.conversionxl.com/2sfmk9fh)
+
+#### Convert Experiments Certified Expert 
+* Convert.com 
+
 ### Education
 
 #### BA School of Business and Finance, Riga, Latvia
 * Bachelor's degree of finance and accounting - June 2009*
 
-### Certification
-<img src="/images/cr.jpg" width="300">
-
-#### CXL Certified Optimizer 
-* CXL Institute - [See credential](https://certificates.conversionxl.com/2sfmk9fh)
-
-#### Convert Certified Expert 
-* Convert.com 
+---
 
 ### Skills
 
-Conversion rate optimization: Digital Analytics, UX research, usability & user testing, wireframing, landing page design,
-experimentation (A/B/n testing & MWT), data analysis & statistics, HTML, CSS, JS
+Conversion rate optimization, digital growth strategy, digital analytics, web design, A/B testing, landing page optimization, CRO, digital marketing, UX, E-commerce, SaaS, Data analysis & statistics, growth marketing, PPC, outreach, onboarding, email marketing, user research, JTBD. 
 
-Growth marketing: PPC: Google Adwords, Bing Ads, Facebook ads, Instagram ads, Lead generation, Outreach & sales, Onboarding, Email marketing & drip campaigns, Copywriting & content creation
+Proficient and have experience with such technology and tools: Google Analytics, Google Tag Manager, Mixpanel, KISSMetrics, Optimizely, VWO, convert.com, Google Optimize, Intercom, MailChimp, Hotjar, Qualaroo, CrazyEgg, Inspectlet, Github, Shopify, Wordpress, Grav, HTML, CSS, and many more.
 
-Project management: Planning & execution to achieve ROI, Freelance, agency & client-side work, Leading, managing & recruiting teams, Coaching, mentoring & teaching, Relationship management – vendors, partners, clients and agencies
-
-Proficient and have experience with such stack: Google Analytics, Google Tag Manager, Mixpanel, KISSMetrics, Optimizely, VWO, convert.com, Google Optimize, Intercom, MailChimp, Hotjar, Qualaroo, CrazyEgg, Inspectlet, Github, Shopify, Wordpress, Grav and many more.
-
-I love to dabble across different disciplines and I don't shy away from the challenge. I'm an autodidact which means that I'm comfortable learning and picking up new skills or tools quickly (everything above is pretty much self-taught).
+I love to dabble across different disciplines, and I don't shy away from the challenge. I'm an autodidact, which means that I'm comfortable learning and picking up new skills or tools quickly and working cross-functionally (everything above is pretty much self-taught)
 
 Languages:
 * Latvian - native
 * English - fluent
 * Russian - intermediate
+
+---
 
 ### Personal
 
