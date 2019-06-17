@@ -13,6 +13,6 @@ Full case study coming soon.
 >*We are very satisfied with the progress we have seen as a result of our cooperation. Without the Emils, who has knowledge about local norms, standards, culture and language as well as growth marketing competence and valuable networks, we hadn’t been able to achieve the growth we’re seeing now.*
 
 >*Working with Emils has been a pleasure - always easily reachable, systematic, competent, results oriented and reliable. Just easy to work with. Would definitely recommend working with him.”*
-
+>
 > <strong> --Mikko Ilomäki (and team Isolta), CEO at isolta.fi (part of Accountor Group)</strong>
 
