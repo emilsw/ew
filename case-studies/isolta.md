@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: case
 title: "Isolta: 300% growth in the market"
 ---
 
