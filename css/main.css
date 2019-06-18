@@ -16,6 +16,16 @@ nav {
 	text-align: right;
 }
 
+nav ul {
+    padding: 0px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
 a {
     text-decoration: none;
     
