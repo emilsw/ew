@@ -11,15 +11,13 @@ body {
 }
 
 nav {
-	padding: 20px 20px 0;
-	width:100%;
-	
+    
+    margin-top: 30px;
 }
 
 nav ul {
     padding: 0px;
     list-style: none;
-    text-align: right;
 }
 
 nav ul li {
