@@ -13,9 +13,19 @@ body {
 nav {
 	padding: 20px 20px 0;
 	width:100%;
-	text-align: right;
+	
 }
 
+nav ul {
+    padding: 0px;
+    list-style: none;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
 
 a {
     text-decoration: none;
