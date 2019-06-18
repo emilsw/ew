@@ -27,5 +27,5 @@ Made products more compelling on product pages by emphasizing that they are made
 
 >*Emils is our go to CRO guy, he has run multiple successful A/B testing and conversion optimization projects that resulted in 6 figure lifts for our client’s businesses*
 >
-> --Giles Thomas, Founder/CEO at wholedesignstudios.com
+> --<strong>Giles Thomas, Founder/CEO at wholedesignstudios.com</strong>
 
