@@ -23,7 +23,6 @@ Made products more compelling on product pages by emphasizing that they are made
 
 <img src="/images/BB_ab_test.png">
 
----
 
 >*Emils is our go to CRO guy, he has run multiple successful A/B testing and conversion optimization projects that resulted in 6 figure lifts for our client’s businesses*
 >
