@@ -1,3 +1,7 @@
+---
+layout: case
+title: "Emils Veveris - Clients & Results"
+---
 
 ## Clients & Results
 
