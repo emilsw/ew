@@ -2,7 +2,7 @@
 
 [https://emilsw.com](https://www.emilsw.com/) | [Linkedin](https://www.linkedin.com/in/emilsveveris/) | [Twitter](https://twitter.com/emils_w) | [Quora](https://www.quora.com/profile/Emils-Veveris) | emils.veveris@gmail.com 
 
-Hi, I'm Emils. I'm a multidisciplinary growth & CRO (conversion rate optimisation) strategist. 
+Hi, I'm Emils. I'm a multidisciplinary digital growth & CRO (conversion rate optimisation) strategist. 
 
 ---
 
