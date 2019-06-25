@@ -34,7 +34,7 @@ For the past five years, I've been helping SaaS and E-commerce companies (like [
 
 Online platform for booking adventure trips (snowboarding, skiing, surfing, kiteboarding, and more)
 
-* Solo founder (my fast track entry to entrepreneurship), made almost every possible mistake you can make but used the lessons learned to pave the way for a successful consulting career
+* Solo founder (my fast track entry to entrepreneurship and internet), made almost every possible mistake you can make but used the lessons learned to pave the way for a successful consulting career
 
 * Learned: web development & design (HTML, CSS, JS, Ruby on Rails), digital marketing and sales (user acquisition, conversion), entrepreneurial skills, product development (ideation, validation, iteration)
 
