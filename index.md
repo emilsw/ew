@@ -7,7 +7,11 @@ title: Emils Veveris | Growth, Conversion Rate Optimization, UX & Digital Analyt
 <br>
 
 
-<div style="text-align:right"> [Clients & Results](https://www.emilsw.com/case-studies/) </div>
+<div style="text-align:right">  
+ 
+[Clients & Results](https://www.emilsw.com/case-studies/) 
+
+</div>
 
 ## Emils Veveris ##
 
