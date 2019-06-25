@@ -1,9 +1,7 @@
 ---
 layout: case
-title: "Emils Veveris - Clients & Results"
+title: "Clients & Results"
 ---
-
-## Clients & Results
 
 I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting conversions and profits for 7-8 figure online businesses.
 
