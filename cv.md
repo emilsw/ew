@@ -4,7 +4,7 @@
 
 Hi, I'm Emils. I'm a multidisciplinary growth marketing & CRO (conversion rate optimisation) strategist, currently working as an independent consultant.
 
-For the past five years, I've been helping SaaS and E-commerce companies (like [Quimbee](https://www.quimbee.com/), [Isolta](https://www.isolta.fi/), [Custody X change](https://www.custodyxchange.com/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/)) grow through better conversions, retention and profitability using data, UX research and experimentation.
+
 
 ---
 
@@ -14,11 +14,13 @@ For the past five years, I've been helping SaaS and E-commerce companies (like [
 
 *Owner/Independent consultant - April 2014 to Present*
 
-* Helped double revenue (from 50k USD/month to 100k+ USD/month) for [Quimbee.com](https://www.quimbee.com/) (recently named the #9 fastest growing education company in the United States by Inc magazine) by optimizing their conversion rates and helping them better understand their users (UX research)
+For the past five years, I've been helping SaaS and E-commerce companies (like [Quimbee](https://www.quimbee.com/), [Isolta](https://www.isolta.fi/), [Custody X change](https://www.custodyxchange.com/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/)) grow through better conversions, retention and profitability using data, UX research and experimentation.
+
+* Helped double revenue (from ~50k USD/month to 100k+ USD/month) for [Quimbee.com](https://www.quimbee.com/) (recently named the #9 fastest growing education company in the United States by Inc magazine) by optimizing their conversion rates and helping them better understand their users (UX research)
 
 * Revamped and led the execution of an international go-to-market strategy for [Isolta.fi](https://www.isolta.fi/) (a leading invoicing software in Northern Europe), achieving 300%+ growth in the market using the best CRO & UX practices
 
-* Designed and managed execution of successful A/B tests for e-commerce and SaaS, adding over 4 million USD + in revenue 
+* Designed and managed execution of successful A/B tests for e-commerce and SaaS funnels, adding over 4 million USD + in revenue 
 
 * Written expert articles on A/B testing, Google Analytics and user research for blogs like [Shopify's partner blog](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients). Did 
  
