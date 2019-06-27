@@ -21,7 +21,7 @@ During our research, we discovered that users expressed a strong desire to make 
 
 <img src="/images/quimbee_free_trial_test.jpg">
 
-<strong> Sign up pop up modal on key landing pages </strong>
+<strong> Sign up form on key landing pages </strong>
 
 The majority of their traffic was coming from specific landing pages, and visitors who landed on those pages had to go to another page to sign up.  This lead to a lot of drop-offs in between). We tested a signup form on the landing pages so the visitors could sign up without going to another page and the signup conversion rate increased by more than 20% (which might not seem much but these landing pages were responsible for 80% of traffic coming in making this a significant improvement overall) 
 
