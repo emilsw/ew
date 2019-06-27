@@ -9,7 +9,7 @@ theyconvert.com was a two-person tiny CRO agency (back in 2014), we worked with 
 
 * Lead generation and agency growth strategy
 * Project & account management
-* Designed and developed CRO and A/B testing processes
+* Designed and developed CRO and A/B testing workflows + processes
 * Conducted conversion research (full data analysis, Google analytics audits, mouse tracking analysis,  UX research, user interviews, polls, etc.)
 * A/B Testing (ideation, planning, prioritization, execution and QA)
 * Reporting
