@@ -45,7 +45,7 @@ Some of the companies I've had the privilege of working with:
 
 
 
-Writing & Case Studies:
+Writing:
 
  - [How to Choose the Right A/B Testing Strategy for Your Clients](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients)
  - [Thinking about A/B testing for your client? Read this first](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first)
