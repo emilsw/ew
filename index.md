@@ -15,13 +15,15 @@ Growth & Conversion rate optimization (CRO) strategist. I help SaaS and E-commer
 
 [Get in touch](mailto:emils.veveris@gmail.com)
  
-[Clients & Results](https://www.emilsw.com/case-studies/) 
-
 <img src="/images/cr.jpg" width="300">
 
 Some of the companies I've had the privilege of working with: 
 
 <img src="/images/ew_logos_bw2.png">
+
+A few case studies: [Clients & Results](https://www.emilsw.com/case-studies/) 
+
+What people say about me:
 
 >*Emils is a pleasure to work with. He did a good job on identifying opportunities and <b> helped us more than double our conversion rate and revenue</b>.*
 >
@@ -44,8 +46,7 @@ Some of the companies I've had the privilege of working with:
 > --Ben Coltrin, CEO at custodyxchange.com
 
 
-
-Writing:
+Writings:
 
  - [How to Choose the Right A/B Testing Strategy for Your Clients](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients)
  - [Thinking about A/B testing for your client? Read this first](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first)
