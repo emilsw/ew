@@ -21,9 +21,7 @@ Some of the companies I've had the privilege of working with:
 
 <img src="/images/ew_logos_bw2.png">
 
-A few case studies: 
-
-- [Clients & Results](https://www.emilsw.com/case-studies/) 
+A few case studies: [Clients & Results](https://www.emilsw.com/case-studies/) 
 
 What people say about me:
 
