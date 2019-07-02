@@ -26,7 +26,7 @@ The first steps were to uncover the root of the problem, so I conducted:
 
 This helped us better understand local invoicing rules, define who is the target user in this market, and more importantly what's preventing them from using Isolta. As well as uncover existing issues with the funnel and product.
 
-Using the insights and data from research I formulated the hypotheses, revamped the go-to-market strategy, led the execution and recruited a content marketing team (the awesome [Truesix](https://truesix.co/) to assist with content and translations. 
+Using the insights and data from research I formulated the hypotheses, revamped the go-to-market strategy, led the execution and recruited a content marketing team (the awesome, smart and highly capable [Truesix](https://truesix.co/)) to assist with content and translations. 
 
 Some of the key tactics we executed:
 *  Optimized Adwords (added a huge list of irrelevant negative keywords in Adwords)
