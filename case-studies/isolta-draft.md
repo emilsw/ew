@@ -10,9 +10,9 @@ across 5 countries since 2001.
 
 ### Challenge
 
-They are leaders in Finland, have a solid user base in Estonia however international expansion was slow, because of local invoicing regulations,  some cultural differences and other common challenges for multilingual products (e.g. translations).
+They are leaders in Finland and have a solid user base in Estonia however international expansion was slow. This was mainly because of local invoicing regulations, some cultural differences and other common challenges for multilingual products (e.g. translations).
 
-By the time they approached me in summer 2017, Isolta was getting a solid amount of signups in Latvia (my native market) but with poor retention. And this was present in other markets they recently entered as well - local small businesses were signing up but did not engage with the product and thus not converting to customers.
+By the time they approached me in summer 2017, Isolta was getting a solid amount of signups in Latvia (my native market) but with poor retention. Furthermore this challenge was also present in other markets they recently entered - local small businesses were signing up but did not engage with the product and thus not converting to customers.
 
 
 ### What I did
@@ -22,21 +22,21 @@ The first steps were to uncover the root of the problem, so I conducted:
 * User interviews with local small businesses and accountants 
 * Conversion research: I audited their marketing site, onboarding, analytics and product
 * In-person user tests with local small businesses and accountants
-* Market research  (competitors, keywords, potential partnerships etc.)
+* Market research (competitors, keywords, potential partnerships etc.)
 
 This helped us better understand local invoicing rules, define who is the target user in this market, and more importantly what's preventing them from using Isolta. As well as uncover existing issues with the funnel and product.
 
-Using the insights and data from research I formulated the hypotheses, revamped the go-to-market strategy and recruited a local team (the awesome (Truesix)[https://truesix.co/]) to assist with execution (content and translations). 
+Using the insights and data from research I formulated the hypotheses, revamped the go-to-market strategy, led the execution and recruited a content marketing team (the awesome [Truesix](https://truesix.co/) to assist with content and translations. 
 
 Some of the key tactics we executed:
-* Optimized Adwords (added a huge list of irrelevant negative keywords in Adwords)
+*  Optimized Adwords (added a huge list of irrelevant negative keywords in Adwords)
 *  Corrected translations (website + product UI) 
 *  Optimized translation process so that context is taken into account and to avoid similar translations errors in the future
 *  Written specs, created wireframes and copy for marketing site and product improvements (using the best CRO and UX practices and data points from research)
 *  Guided new feature development that was crucial for LV users (because of regulations)
-*  Rewrote onboarding 
+*  Re-designed user onboarding 
 *  Created support materials, guides and content for users and local small businesses 
-*  Redesigned landing pages (and designed new ones) 
+*  Re-designed landing pages (and designed new ones) 
 *  Analytics recommendations (tracking and measurement improvements)
 *  Designed and executed a win-back campaign 
 *  And more...
@@ -54,7 +54,6 @@ Higer conversion rate for purchases:
 And more importantly retention (users kept coming back and use the product):
 
 <img src="/images/isolta_retention.png">
-
 
 >*<strong> Emils helped us gain growth in Latvia - significant increases in new free users and paying users </strong>. We gained valuable knowledge and deeper insight about the Latvian market (our end customers, local invoicing norms and standards). We have also been able to apply the learnings we’ve got from his work in our other locations as well.*
 >
