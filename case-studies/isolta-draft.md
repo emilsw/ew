@@ -48,7 +48,7 @@ This new strategy resulted in significant increases in the quality of the traffi
 
 <img src="/images/isolta_traffic.png">
 
-Increases in conversion rate for purchases (from ~0.05 to ~0.26%):
+Increases in conversion rate for purchases (from ~0.05% to ~0.26%):
 
 <img src="/images/isolta_purchase_cr.png">
 
