@@ -61,4 +61,4 @@ And more importantly significant improvements in retention (users kept coming ba
 >
 >*Working with Emils has been a pleasure - always easily reachable, systematic, competent, results oriented and reliable. Just easy to work with. Would definitely recommend working with him.”*
 >
-> <strong> --Mikko Ilomäki (and team Isolta), CEO at isolta.fi (part of Accountor Group)</strong>
+> <strong> --Mikko Ilomäki (and team Isolta), CEO at isolta.fi </strong>
