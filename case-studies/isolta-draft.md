@@ -51,7 +51,7 @@ Higer conversion rate for purchases:
 
 <img src="/images/isolta_purchase_cr.png">
 
-And more importantly significant improvements in retention (users kept coming back and use the product):
+And more importantly significant improvements in retention (users kept coming back and use the product which is the main lever for sustainable growth):
 
 <img src="/images/isolta_retention.png">
 
