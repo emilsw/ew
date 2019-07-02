@@ -51,7 +51,7 @@ Higer conversion rate for purchases:
 
 <img src="/images/isolta_purchase_cr.png">
 
-And more importantly retention (users kept coming back and use the product):
+And more importantly significant improvements in retention (users kept coming back and use the product):
 
 <img src="/images/isolta_retention.png">
 
