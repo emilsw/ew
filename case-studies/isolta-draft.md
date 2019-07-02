@@ -1,6 +1,6 @@
 ---
 layout: case
-title: "Isolta: 300% growth in the market"
+title: "Isolta: 300%+ growth in the market"
 ---
 
 <img src="/images/isolta_growth_mixpanel.png">
@@ -39,6 +39,7 @@ Some of the key tactics we executed:
 *  Re-designed landing pages (and designed new ones) 
 *  Analytics recommendations (tracking and measurement improvements)
 *  Designed and executed a win-back campaign 
+*  User interviews
 *  And more...
 
 ### Results
@@ -47,7 +48,7 @@ This new strategy resulted in significant increases in the quality of the traffi
 
 <img src="/images/isolta_traffic.png">
 
-Higer conversion rate for purchases:
+Increases in conversion rate for purchases (from ~0.05 to ~0.26%):
 
 <img src="/images/isolta_purchase_cr.png">
 
