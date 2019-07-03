@@ -1,6 +1,6 @@
 ---
 layout: case
-title: "Isolta: 300%+ growth in the market"
+title: "Isolta: 400%+ growth in the market"
 ---
 
 <img src="/images/isolta_growth_mixpanel.png">
@@ -48,7 +48,7 @@ This new strategy resulted in significant increases in the quality of the traffi
 
 <img src="/images/isolta_traffic.png">
 
-Increases in conversion rate for purchases (from ~0.05% to ~0.26%):
+Conversion rate for purchases increased by ~420%:
 
 <img src="/images/isolta_purchase_cr.png">
 
