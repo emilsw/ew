@@ -11,7 +11,7 @@ title: Emils Veveris | Growth, Conversion Rate Optimization, UX & Digital Analyt
  
 ## Emils Veveris ##
 
-Growth & Conversion rate optimization (CRO) strategist. I help SaaS and E-commerce companies grow through better UX, conversion rates, retention and profitability. 
+Growth & Conversion rate optimization (CRO) strategist. I help SaaS and E-commerce companies grow through better conversion rates, retention and profitability. 
 
 [Get in touch](mailto:emils.veveris@gmail.com)
  
