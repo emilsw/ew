@@ -14,7 +14,7 @@ Markets: e-learning, invoicing & accounting, health & nutrition, fashion, sports
 Here are some case studies, and biggest wins:
 
 ### SaaS 
-* [Isolta](https://www.emilsw.com/case-studies/isolta): 300% growth in the market 
+* [Isolta](https://www.emilsw.com/case-studies/isolta): 400% growth in the market 
 * [Quimbee](https://www.emilsw.com/case-studies/quimbee): Helped more than double MRR and triple sign up conversion rate 
 
 ### E-commerce 
