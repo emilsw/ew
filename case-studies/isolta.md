@@ -1,6 +1,6 @@
 ---
 layout: case
-title: "Isolta: 300% growth in the market"
+title: "Isolta: 400% growth in the market"
 ---
 
 <img src="/images/isolta_growth_mixpanel.png">
