@@ -1,12 +1,12 @@
 ---
 layout: case
-title: "Isolta: 400%+ growth in the market"
+title: "Isolta: 400%+ growth in paying users"
 ---
 
-<img src="/images/isolta_growth_mixpanel.png">
+![Isolta_growth_mixpanel](/images/isolta_mixpanel_user_growth.png)
+*This chart shows increase in paying users since we started our cooperation*
 
-[Isolta.fi](https://www.isolta.fi/) (part of Accountor Group) is a small business invoicing software serving more than 35000 users 
-across 5 countries since 2001.
+[Isolta.fi](https://www.isolta.fi/) (part of Accountor Group) is a small business invoicing software serving more than 35000 users across 5 countries since 2001.
 
 ### Challenge
 
