@@ -4,7 +4,7 @@ title: "Isolta: 400%+ growth in paying users"
 ---
 
 ![Isolta_growth_mixpanel](/images/isolta_mixpanel_user_growth.png)
-*This chart shows increase in paying users since we started our cooperation*
+*Increase in paying users since we started our cooperation (Jul 2017)*
 
 [Isolta.fi](https://www.isolta.fi/) (part of Accountor Group) is a small business invoicing software serving more than 35000 users across 5 countries since 2001.
 
