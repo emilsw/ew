@@ -29,10 +29,10 @@ This helped us better understand local invoicing rules, define who is the target
 Using the insights and data from research I formulated the hypotheses, revamped the go-to-market strategy, led the execution and recruited a content marketing team (the awesome, smart and highly capable [Truesix](https://truesix.co/)) to assist with content and translations. 
 
 Some of the key tactics we executed:
-*  Optimized Adwords (added a huge list of irrelevant negative keywords in Adwords)
+*  Optimized Adwords (e.g. added a huge list of irrelevant negative keywords)
 *  Corrected translations (website + product UI) 
 *  Optimized translation process so that context is taken into account and to avoid similar translations errors in the future
-*  Written specs, created wireframes and copy for marketing site and product improvements (using the best CRO and UX practices and data points from research)
+*  Written specs, created wireframes and copy for marketing site and product improvements 
 *  Guided new feature development that was crucial for LV users (because of regulations)
 *  Re-designed user onboarding 
 *  Created support materials, guides and content for users and local small businesses 
