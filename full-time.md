@@ -32,9 +32,10 @@ Some case studies, and biggest wins:
    * Identify and work out growth loops
    * Improve User acquisition - test new channels, optimize your best ones
    * Improve User retention - onboarding, assist with product improvements
+   * Refine and optimise your value proposition
 * Analytics & Metrics (what's worth tracking) 
    * Set KPIs, develop tracking plans, analyze performance and data 
-* UX research
+* Run UX research that helps make better product, design, and marketing decisions
    * Figure out who is your ideal customer and what job is your product hired to do?
    * Who are you really competing with? (hint it's not just your direct competitors)
    * What is convincing people to try out your product/service?
@@ -42,7 +43,6 @@ Some case studies, and biggest wins:
    * What makes them quit?
    * What's your revenue potential?
    * Figure what you should build next (which features, new product ideas)
-* Refine and optimise your value proposition
 
 ### Summary
 
