@@ -1,9 +1,9 @@
 ---
 layout: case
-title: Hi, I'm Emils. I'm on the market for a full-time remote growth role
+title: On the market for a full-time remote growth role
 ---
 
-I'm a multidisciplinary conversion rate optimization (CRO) & growth marketing strategist.
+Hi, I'm Emils. I'm a multidisciplinary conversion rate optimization (CRO) & growth marketing strategist.
 
 Great fit for - growth manager, head of growth, growth product manager, CRO manager roles.
 
@@ -14,8 +14,6 @@ Great fit for - growth manager, head of growth, growth product manager, CRO mana
 For the past five years I've been helping SaaS and E-commerce companies grow through better conversion rates and retention, working as an independent consultant. 
 
 My main strengths and focuses are in growth strategies, online experiment design (ideation, planning, prioritization and execution), UX research and data analysis. But I’ve dabbled in most disciplines of digital growth and product development (SEO, PPC, Email marketing, lead generation, contention creation, UX/UI design, web development etc.)
-
-Great fit for growth manager, head of growth, growth product manager, CRO manager roles 
 
 #### Past work samples and results
 
