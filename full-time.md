@@ -3,9 +3,11 @@ layout: case
 title: Hi, I'm Emils. I'm on the market for a full-time remote growth role
 ---
 
-Hi, I'm Emils. I'm on the market for a full-time remote growth role
-
 I'm a multidisciplinary conversion rate optimization (CRO) & growth marketing strategist.
+
+Great fit for - growth manager, head of growth, growth product manager, CRO manager roles.
+
+----
 
 #### Background 
 
@@ -37,20 +39,19 @@ Other attributes:
 * ConversionXL and covert.com certified expert
 * Extensive experience working cross-functionally - collaborating with designers, developers, marketers to carry out splits tests, marketing campaigns and product improvements (CRO and product management are overlapping disciplines)
 * Self-organized and entrepreneurial 
-* Results focused and I have the hunger and passion to work alongside other smart people, grow and achieve remarkable results
+* Results focused, currious and I have the hunger and passion to work alongside other smart people, grow and achieve remarkable results
 * I've also taken some extensive personality tests with focus on finding my natural strengths and talents, here are my results (if you are interested):
    * [Strengthsfinder](https://drive.google.com/file/d/1HhfPPXNlv7SBxzYcYjPxbaL4VTqvQDZk/view?usp=sharing) - Doer/Thinker w/ Influencer 
    * [Kolbe](https://drive.google.com/file/d/11_s_WXvNgAVsitDN6W9XDvnZs4NWvATS/view?usp=sharing) - 7/7/4/2
 
+In my spare time:
 
-In my spare time
-
-Adventurer, love to explore and be outside. But I do a love a great movie (into sci-fi, comedies and overall stuff that makes you think) when the weather is crappy outside.
+Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also a love a great movie (into sci-fi, comedies and overall stuff that makes you think) when the weather is crappy outside.
 
 
 #### I can help
 
-* Lead growth teams and initiatives 
+* Lead growth initiatives and teams 
    * Develop and run growth/experimentation/optimization strategies and programs 
    * Improve conversions - A/B testing across every step of the funnel
    * Identify and work out growth loops
