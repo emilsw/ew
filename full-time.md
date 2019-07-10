@@ -5,7 +5,7 @@ title: On the market for a full-time remote growth role
 
 Hi, I'm Emils. I'm a multidisciplinary conversion rate optimization (CRO) & growth marketing strategist.
 
-Great fit for - growth manager, head of growth, growth product manager, CRO manager roles.
+Great fit for growth manager, head of growth, growth product manager, CRO manager roles.
 
 ----
 
@@ -33,7 +33,7 @@ My main strengths and focuses are in growth strategies, online experiment design
 * [Résumé/CV](https://docs.google.com/document/d/1W3O258igaKLH_YiugduWW2WDcfIpJupGX9SxaTBYzsg/edit?usp=sharing) 
 * **Email**: emils.veveris@gmail.com 
 * **Links**: (check footer)
-* Longer Bio
+
 
 #### Other attributes
 * ConversionXL and covert.com certified expert
