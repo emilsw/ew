@@ -15,14 +15,16 @@ For the past five years I've been helping SaaS and E-commerce companies grow thr
 
 My main strengths and focuses are in growth strategies, online experiment design (ideation, planning, prioritization and execution), UX research and data analysis. But I’ve dabbled in most disciplines of digital growth and product development (SEO, PPC, Email marketing, lead generation, contention creation, UX/UI design, web development etc.)
 
-Great fit for - growth manager, head of growth, growth product manager, CRO manager roles 
+Great fit for growth manager, head of growth, growth product manager, CRO manager roles 
 
-Past work samples and results:
+#### Past work samples and results
 
 * Revamped and led an international go-to-market strategy for Isolta.fi (a B2B SaaS), achieving 400%+ growth in paying users
 * Discovered key insights (using qualitative and quantitative research methods) and developed CRO improvements that converted 3X more organic traffic for Quimbee.com and more than doubled their MRR in one year (recently named the #9 fastest growing education company in the United States by Inc magazine)
 
 [More details and other case studies](https://www.emilsw.com/case-studies/)
+
+#### Summary
 
 * **Location**: Riga, Latvia, Europe
 * **Remote?**: Yes, preferred (working remotely for 5+ years)
@@ -35,7 +37,7 @@ Past work samples and results:
 * **Links**: (check footer)
 * Longer Bio
 
-Other attributes:
+#### Other attributes
 * ConversionXL and covert.com certified expert
 * Extensive experience working cross-functionally - collaborating with designers, developers, marketers to carry out splits tests, marketing campaigns and product improvements (CRO and product management are overlapping disciplines)
 * Self-organized and entrepreneurial 
@@ -44,7 +46,7 @@ Other attributes:
    * [Strengthsfinder](https://drive.google.com/file/d/1HhfPPXNlv7SBxzYcYjPxbaL4VTqvQDZk/view?usp=sharing) - Doer/Thinker w/ Influencer 
    * [Kolbe](https://drive.google.com/file/d/11_s_WXvNgAVsitDN6W9XDvnZs4NWvATS/view?usp=sharing) - 7/7/4/2
 
-In my spare time:
+#### In my spare time
 
 Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also a love a great movie (into sci-fi, comedies and overall stuff that makes you think) when the weather is crappy outside.
 
