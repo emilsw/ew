@@ -20,7 +20,7 @@ For the past five years I've been helping SaaS and E-commerce companies grow thr
 * [Quimbee](https://www.emilsw.com/case-studies/quimbee): More than 2X increase in MRR and 3X in conversion rate in one year (recently named the #9 fastest growing education company in the US by Inc magazine)
 * [Example E-commerce A/B test I designed](https://www.emilsw.com/case-studies/theyconvert): +12.33% increase in revenue per visitor (worth almost extra $3,000,000 in annual revenue) 
 
-Looking to swith from consulting to full time product work to leave a bigger impact.
+Looking to swith from consulting to full time product work to leave a bigger impact and achieve remarkable results with a great team.
 
 I see myself as an IC and/or in a management role. 
 
