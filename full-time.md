@@ -24,7 +24,7 @@ Looking to swith from consulting to full time product work to leave a bigger imp
 
 I see myself as an IC and/or in a management role. 
 
-My main strengths and focuses are in growth strategies, online experiment design, UX research and data analysis. Creating/optimizing/analyzing systems, mechanisms and experiences that attract, convert and retain more and better/happier customers. 
+My main strengths and focuses are in growth strategies, online experiment design, UX research and data analysis. 
 
 But I have hands on experience in most disciplines of digital growth and product development (SEO, PPC, email marketing, outreach, lead generation, contention creation, UX/UI design, web development etc.)
 
