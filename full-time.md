@@ -38,7 +38,7 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 * **Location**: Riga, Latvia, Europe
 * **Remote?**: Yes, preferred (working remotely for 5+ years)
 * **Willing to relocate?**:  for the right opportunity
-* **Expertise/skills**: 
+* **Expertise**: 
    * Conversion rate optimization (CRO): A/B testing, digital analytics, Landing page design and optimization, data analysis & statistics 
    * UX /UI design: User research, User/usability testing, wireframing, onboarding, user journey mapping
    * Growth marketing: PPC, outreach, email marketing, outreach, copywriting, Lead/demand generation content marketing, sales 
@@ -68,7 +68,7 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 
 #### In my spare time
 
-Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also a love a great movie (into sci-fi, comedies and overall stuff that makes you think) when the weather is crappy outside.
+Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also a love a great movie (some films I liked a lot: Fight Club, The Martian, Inception) when the weather is crappy outside.
 
 
 #### Things I like to do that helps businesses grow 
