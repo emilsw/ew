@@ -3,6 +3,8 @@ layout: case
 title: On the market for a full-time remote growth role
 ---
 
+<img src="/images/ew2.jpg" alt="Emils Veveris" width="100"/>
+
 Hi, I'm Emils. I'm a multidisciplinary conversion rate optimization (CRO) & growth marketing expert.
 
 Looking for growth manager, head of growth, growth product manager, CRO manager roles.
