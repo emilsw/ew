@@ -37,17 +37,17 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 * **Remote?**: Yes, preferred (working remotely for 5+ years)
 * **Willing to relocate?**:  for the right opportunity
 * **Expertise/skills**: 
-   * Conversion rate optimization (CRO): A/B testing, digital analytics, Landing page design and optimization, data analysis & statistics
-   * UX /UI design: UX research, wireframing, onboarding
-   * Growth marketing: PPC, outreach, digital marketing
-   * Project management: 
+   * Conversion rate optimization (CRO): A/B testing, digital analytics, Landing page design and optimization, data analysis & statistics 
+   * UX /UI design: User research, User/usability testing, wireframing, onboarding, user journey mapping
+   * Growth marketing: PPC, outreach, email marketing, outreach, copywriting, Lead/demand generation content marketing, sales 
 * **Technologies**: 
    * Web development: HTML, CSS, Ruby on Rails 
    * Digital Analytics: Google Analytics, Google Tag Manager, Mixpanel
    * A/B testing: Optimizely, VWO, convert.com, Google Optimize
    * UX research: Hotjar, Qualaroo, CrazyEgg
    * Email marketing: Intercom, MailChimp
-   * CMS: Shopify, Wordpress, Webflow
+   * CMS: Shopify, Wordpress, Webflow and more
+   * PPC: Google Adwords, Bing Ads, Facebook ads
 * [Résumé/CV](https://docs.google.com/document/d/1W3O258igaKLH_YiugduWW2WDcfIpJupGX9SxaTBYzsg/edit?usp=sharing) 
 * **Email**: emils.veveris@gmail.com 
 * **Links**: [LinkedIn](https://www.linkedin.com/in/emilsveveris/), [Instagram](https://www.instagram.com/emils_w/), [Twitter](https://twitter.com/emils_w), [Quora](https://www.quora.com/profile/Emils-Veveris)
@@ -58,6 +58,7 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 * Extensive experience working cross-functionally - collaborating with designers, developers, marketers to carry out splits tests, marketing campaigns and product improvements (CRO and product management are overlapping disciplines)
 * Have hired and managed a group of contractors 
 * Self-organized and entrepreneurial (I've been running my own consultancy and working remotely 5+ years)
+* Fairly tech Savvy (You don't want me to code but HTML/CSS/JS is not foreign to me. I've built and coded websites and a/b test variants myself. I'm comfortable learning and picking up new tech or tools quickly)
 * Results focused, curious and I have the hunger and passion to work alongside other smart people, grow and achieve remarkable results
 * Personality tests:
    * [Strengthsfinder](https://drive.google.com/file/d/1HhfPPXNlv7SBxzYcYjPxbaL4VTqvQDZk/view?usp=sharing) - Doer/Thinker w/ Influencer 
@@ -87,6 +88,15 @@ Adventurer, love to explore, be outside and ride [boards](https://www.instagram.
    * What makes them quit?
    * What's your revenue potential?
    * Figure what you should build next (which features, new product ideas)
+
+#### Principals
+
+* Purpose driven growth > Growth for the sake of growth
+* Focus on process > Focus on outcomes
+* Data > Opinions
+* Real results > Peer praise
+* Growth mindset > Fixed mindset
+
 
 Interested? Let's talk!  
 emils.veveris@gmail.com
