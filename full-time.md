@@ -20,9 +20,16 @@ For the past five years I've been helping SaaS and E-commerce companies grow thr
 * [Quimbee](https://www.emilsw.com/case-studies/quimbee): More than 2X increase in MRR and 3X in conversion rate in one year (recently named the #9 fastest growing education company in the US by Inc magazine)
 * [Example E-commerce A/B test I designed](https://www.emilsw.com/case-studies/theyconvert): +12.33% increase in revenue per visitor (worth almost extra $3,000,000 in annual revenue) 
 
-I see myself as an IC and/or in a management role.
+Looking to swith from consulting to full time product work to leave a bigger impact.
 
-My main strengths and focuses are in growth strategies, online experiment design (ideation, planning, prioritization and execution), UX research and data analysis. But I have hands on experience in most disciplines of digital growth and product development (SEO, PPC, Email marketing, outreach, lead generation, contention creation, UX/UI design, web development etc.)
+I see myself as an IC and/or in a management role. 
+
+My main strengths and focuses are in growth strategies, online experiment design, UX research and data analysis. Creating/optimizing/analyzing systems, mechanisms and experiences that attract, convert and retain more and better/happier customers. 
+
+But I have hands on experience in most disciplines of digital growth and product development (SEO, PPC, email marketing, outreach, lead generation, contention creation, UX/UI design, web development etc.)
+
+Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
+
 
 [More details and case studies](https://www.emilsw.com/case-studies/)
 
@@ -30,9 +37,9 @@ My main strengths and focuses are in growth strategies, online experiment design
 * **Remote?**: Yes, preferred (working remotely for 5+ years)
 * **Willing to relocate?**:  for the right opportunity
 * **Expertise/skills**: 
-   * Conversion rate optimization (CRO):
-   * UX /UI design: A/B testing, PPC, outreach, onboarding, digital analytics, UX design, Landing page design and optimization, data analysis & statistics, digital marketing 
-   * Growth marketing: 
+   * Conversion rate optimization (CRO): A/B testing, digital analytics, Landing page design and optimization, data analysis & statistics
+   * UX /UI design: UX research, wireframing, onboarding
+   * Growth marketing: PPC, outreach, digital marketing
    * Project management: 
 * **Technologies**: 
    * Web development: HTML, CSS, Ruby on Rails 
@@ -43,17 +50,14 @@ My main strengths and focuses are in growth strategies, online experiment design
    * CMS: Shopify, Wordpress, Webflow
 * [Résumé/CV](https://docs.google.com/document/d/1W3O258igaKLH_YiugduWW2WDcfIpJupGX9SxaTBYzsg/edit?usp=sharing) 
 * **Email**: emils.veveris@gmail.com 
-* **Links**:
-   * [LinkedIn](https://www.linkedin.com/in/emilsveveris/)
-   * [Instagram](https://www.instagram.com/emils_w/)
-   * [Twitter](https://twitter.com/emils_w)
-   * [Quora](https://www.quora.com/profile/Emils-Veveris)
+* **Links**: [LinkedIn](https://www.linkedin.com/in/emilsveveris/), [Instagram](https://www.instagram.com/emils_w/), [Twitter](https://twitter.com/emils_w), [Quora](https://www.quora.com/profile/Emils-Veveris)
 
 
 #### Other attributes
 * ConversionXL and covert.com certified expert
 * Extensive experience working cross-functionally - collaborating with designers, developers, marketers to carry out splits tests, marketing campaigns and product improvements (CRO and product management are overlapping disciplines)
-* Self-organized and entrepreneurial (Been running my own consultancy and working remotely 5+ years)
+* Have hired and managed a group of contractors 
+* Self-organized and entrepreneurial (I've been running my own consultancy and working remotely 5+ years)
 * Results focused, curious and I have the hunger and passion to work alongside other smart people, grow and achieve remarkable results
 * Personality tests:
    * [Strengthsfinder](https://drive.google.com/file/d/1HhfPPXNlv7SBxzYcYjPxbaL4VTqvQDZk/view?usp=sharing) - Doer/Thinker w/ Influencer 
@@ -64,9 +68,9 @@ My main strengths and focuses are in growth strategies, online experiment design
 Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also a love a great movie (into sci-fi, comedies and overall stuff that makes you think) when the weather is crappy outside.
 
 
-#### Things I like to do that helps business grow 
+#### Things I like to do that helps businesses grow 
 
-* Lead growth initiatives and teams 
+* Lead growth initiatives  
    * Develop and run growth/experimentation/optimization strategies and programs 
    * Improve conversions - A/B testing across every step of the funnel
    * Identify and work out growth loops
