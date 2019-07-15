@@ -13,7 +13,7 @@ Looking for growth manager, head of growth, growth product manager, CRO manager 
 
 #### Background 
 
-For the past five years I've been helping SaaS and E-commerce companies grow through better conversion rates and retention. 
+For the past five years, I've been helping SaaS and E-commerce companies grow through better conversion rates and retention. 
 
 
 #### Past work samples and results
@@ -22,13 +22,13 @@ For the past five years I've been helping SaaS and E-commerce companies grow thr
 * [Quimbee](https://www.emilsw.com/case-studies/quimbee): More than 2X increase in MRR and 3X in conversion rate in one year (recently named the #9 fastest growing education company in the US by Inc magazine)
 * [Example E-commerce A/B test I designed](https://www.emilsw.com/case-studies/theyconvert): +12.33% increase in revenue per visitor (worth almost extra $3,000,000 in annual revenue) 
 
-Looking to swith from consulting to full time product work to leave a bigger impact and achieve remarkable results with a great team.
+Looking to switch from consulting to full-time product work to leave a bigger impact and achieve remarkable results with a great team.
 
 I see myself as an IC and/or in a management role. 
 
 My main strengths and focuses are in growth strategies, online experiment design, UX research and data analysis. 
 
-But I have hands on experience in most disciplines of digital growth and product development (SEO, PPC, email marketing, outreach, lead generation, contention creation, UX/UI design, web development etc.)
+But I have hands-on experience in most disciplines of digital growth and product development (SEO, PPC, email marketing, outreach, lead generation, contention creation, UX/UI design, web development etc.)
 
 Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 
@@ -68,7 +68,7 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 
 #### In my spare time
 
-Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also a love a great movie (some films I liked a lot: Fight Club, The Martian, Inception) when the weather is crappy outside.
+Adventurer, love to explore, be outside and ride [boards](https://www.instagram.com/p/Bziwj1ihPri/) and bikes (all kinds). I read a lot (some of my favourite books: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X), [Obstacle is the way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) ). I also love a great movie (some films I liked a lot: Fight Club, The Martian, Inception) when the weather is crappy outside.
 
 
 #### Things I like to do that helps businesses grow 
@@ -91,7 +91,7 @@ Adventurer, love to explore, be outside and ride [boards](https://www.instagram.
    * What's your revenue potential?
    * Figure what you should build next (which features, new product ideas)
 
-#### Principals
+#### Principles
 
 * Purpose driven growth > Growth for the sake of growth
 * Focus on process > Focus on outcomes
