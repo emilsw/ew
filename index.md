@@ -13,15 +13,12 @@ title: Emils Veveris | Growth, Conversion Rate Optimization, UX & Digital Analyt
 
 Growth & Conversion rate optimization (CRO) strategist. I help SaaS and E-commerce companies increase profitability and grow through better conversion rates and retention 
 
-[Get in touch](mailto:emils.veveris@gmail.com)
- 
-<img src="/images/cr.jpg" width="300">
-
 I've had the privilege of working with amazing online businesses and help them grow (including Inc 5000): 
 
 [<img src="/images/ew_companies.png">](https://www.emilsw.com/case-studies/)
 
-A few case studies: [Clients & Results](https://www.emilsw.com/case-studies/) 
+[See case studies](https://www.emilsw.com/case-studies/) 
+
 
 What people say about me:
 
@@ -59,4 +56,4 @@ Featured:
  Webinar:
  - [How to Choose the Right A/B Testing Strategy for Shopify stores (Convert.com Academy)](https://www.convert.com/academy/choose-b-testing-strategy-shopify-store/)
 
- 
+ Interested in working with me? [Get in touch](mailto:emils.veveris@gmail.com)
