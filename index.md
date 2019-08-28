@@ -19,7 +19,7 @@ Growth & Conversion rate optimization (CRO) strategist. I help SaaS and E-commer
 
 I've had the privilege of working with amazing online businesses and help them grow (including Inc 5000): 
 
-<img src="/images/ew_logos_bw2.png">
+[<img src="/images/ew_companies.png">](https://www.emilsw.com/case-studies/)
 
 A few case studies: [Clients & Results](https://www.emilsw.com/case-studies/) 
 
