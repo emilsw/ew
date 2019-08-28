@@ -17,7 +17,7 @@ Growth & Conversion rate optimization (CRO) strategist. I help SaaS and E-commer
  
 <img src="/images/cr.jpg" width="300">
 
-Some of the companies I've had the privilege of working with: 
+I've had the privilege of working with amazing online businesses and help them grow (including Inc 5000): 
 
 <img src="/images/ew_logos_bw2.png">
 
