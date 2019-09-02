@@ -13,11 +13,11 @@ title: Emils Veveris | Growth, Conversion Rate Optimization, UX & Digital Analyt
 
 Growth, conversion rate optimization (CRO) and UX strategist 
 
-I help SaaS and E-commerce companies increase online profits through better conversion rates and retention. I've had the privilege of working with amazing online businesses (including Inc 5000) and helping them grow: 
+I help SaaS and E-commerce companies increase profit-per-visitor through better conversion rates and retention.
 
 [<img src="/images/ew_companies.png">](https://www.emilsw.com/case-studies/)
 
-[See case studies](https://www.emilsw.com/case-studies/) 
+I've had the privilege of working with amazing online businesses (including Inc 5000) and helping them grow: [See case studies](https://www.emilsw.com/case-studies/) 
 
 
 What people say about me:
