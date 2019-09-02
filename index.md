@@ -17,7 +17,7 @@ I help SaaS and E-commerce companies increase profit-per-visitor through better 
 
 [<img src="/images/ew_companies.png">](https://www.emilsw.com/case-studies/)
 
-I've had the privilege of working with amazing online businesses (including Inc 5000) and helping them grow: [See case studies](https://www.emilsw.com/case-studies/) 
+I've had the privilege of working with amazing online businesses (including Inc 5000) and helping them grow: [see case studies](https://www.emilsw.com/case-studies/) 
 
 
 What people say about me:
