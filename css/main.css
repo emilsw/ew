@@ -91,10 +91,13 @@ img + em {
 
 footer {
     
-    margin-top: 60px;
+    margin-top: 90px;
     font-size: .8em;
-   
+    text-align: center;
+    border-top: solid 1px #efefef;
 }
+   
+
 
 footer ul {
     padding: 0px;
