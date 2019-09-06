@@ -3,11 +3,11 @@ layout: post
 title: "Never Split the Difference: Negotiating As If Your Life Depended On It by Chris Voss and Tahl Raz: Notes, reviews, lessons, summary | Emils Veveris"
 ---
 
-##Summary##
+## Summary
 
 
 
-##My notes##
+## My notes
 
 When deliberating on a negotiation strategy or approach, people tend to focus all their energies on what to say or do, but it's how we are (our general demeanor and delivery) that is both the easiest thing to enact and the most immediately effective mode of influence.
 
@@ -32,10 +32,9 @@ A soothing voice, close listening, and a calm repetition of the words of your ''
 Labelling is a way of validating someone's emotion by acknowledging it. Give someone's emotion a name and you show you identify with how that person feels. Labeling an emotion - applying rational words to a fear - disrupts its own intensity. 
 
 How:
-It seems like
-It sounds like
-It looks like
-----
+* It seems like ___
+* It sounds like ___
+* It looks like ___
 
 Tactic vs strategy? Spoon is a great tool for stirring soup but it's not a recipe.
 
@@ -372,7 +371,7 @@ Normative leverage is using the other party's norms and standards to advance you
 If you got both ends covered, you'll be ready for anything - you'll know what you cannot accept and have an idea about the best case outcome, but keep in mind since there's information yet to be acquired from the other side, it's possible that best case might be even better than you know.
 
 
-####Checklist & Cheatsheet:
+##Checklist & Cheatsheet
 
 https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet
 
