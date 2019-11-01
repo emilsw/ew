@@ -59,7 +59,7 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 * CXL and covert.com certified expert
 * Extensive experience working cross-functionally - collaborating with designers, developers, marketers to carry out splits tests, marketing campaigns and product improvements (CRO and product management are overlapping disciplines)
 * Have hired and managed a group of contractors and specialists 
-* Self-organized and entrepreneurial (I've been running my own consultancy and working remotely 5+ years)
+* Self-organized and entrepreneurial (I've been running my consultancy and working remotely 5+ years)
 * Fairly tech Savvy (You don't want me to code but HTML/CSS/JS is not foreign to me. I've built and coded websites and a/b test variants myself. I'm comfortable learning and picking up new tech or tools quickly)
 * Results focused, curious and I have the hunger and passion to work alongside other smart people, grow and achieve remarkable results
 * Personality tests:
