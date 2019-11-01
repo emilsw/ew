@@ -56,7 +56,7 @@ Which makes me [T-shaped](https://buffer.com/resources/t-shaped-marketer)
 
 
 #### Other attributes
-* ConversionXL and covert.com certified expert
+* CXL and covert.com certified expert
 * Extensive experience working cross-functionally - collaborating with designers, developers, marketers to carry out splits tests, marketing campaigns and product improvements (CRO and product management are overlapping disciplines)
 * Have hired and managed a group of contractors and specialists 
 * Self-organized and entrepreneurial (I've been running my own consultancy and working remotely 5+ years)
