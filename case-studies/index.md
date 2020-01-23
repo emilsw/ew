@@ -3,7 +3,7 @@ layout: case
 title: "Clients & Results"
 ---
 
-I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting conversions and profits for Inc 5000 online businesses.
+I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting conversions and profits for Inc 500 online businesses.
 
 Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/), [Custody X change](https://www.custodyxchange.com/), [Isolta](https://www.isolta.fi/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/), [Marine Depot](https://www.marinedepot.com/)
 
