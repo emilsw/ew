@@ -7,7 +7,7 @@ html { font-family: 'Inter', sans-serif; }
 
 body {
     line-height: 2;
-    margin: 0 auto;
+    margin-left: 150px;
     max-width: 42em;
     padding: 1em 1em 10em 1em;
     text-align: left;
@@ -93,7 +93,6 @@ footer {
     
     margin-top: 90px;
     font-size: .8em;
-    text-align: center;
     border-top: solid 1px #efefef;
 }
    
