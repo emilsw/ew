@@ -3,8 +3,6 @@ layout: case
 title: "Work"
 ---
 
-## Professional highlights ##
-
 A growth marketing expert with a strong emphasis on making an impact and delivering results. 
 
 T-shaped multi-specialist with 7+ years of hands-on experience in most disciplines of digital growth and also digital product development (SEO, PPC, GTM strategies, email marketing, B2B lead generation, contention creation, UX/UI design, web development etc.)
