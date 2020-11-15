@@ -8,7 +8,9 @@ title: Emils Veveris | Growth marketing expert, currently Head of Digital Growth
 
 
  
-Hi, I'm <strong> Emil(s) Veveris </strong>. Currently Head of Digital Growth at [Lokalise](https://lokalise.com/), a fast-growing B2B SaaS that helps startups and enterprises streamline and scale localization to deliver products + content to end-users in global markets much faster.
+## Hi, I'm Emil(s) Veveris. ##
+
+Currently Head of Digital Growth at [Lokalise](https://lokalise.com/), a fast-growing B2B SaaS that helps startups and enterprises streamline and scale localization to deliver products + content to end-users in global markets much faster.
 
 Growth marketing expert with over 7+ years of experience working with fast-growing B2B & B2C brands like Quimbee, Isolta, Baseballism, Athletic Greens and more.
 
