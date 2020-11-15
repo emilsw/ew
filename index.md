@@ -1,59 +1,28 @@
 ---
 layout: default
-title: Emils Veveris | Growth, Conversion Rate Optimization, UX & Digital Analytics
+title: Emils Veveris | Growth marketing expert, currently Head of Digital Growth at Lokalise 
 ---
 <br>
 <br>
 <br>
 
 
-
  
-## Emils Veveris ##
+Hi, I'm <strong> Emil(s) Veveris </strong>. Currently Head of Digital Growth at [Lokalise](https://lokalise.com/), a fast-growing B2B SaaS that helps startups and enterprises streamline and scale localization to deliver products + content to end-users in global markets much faster.
 
-Growth, conversion rate optimization (CRO) and UX strategist 
+Growth marketing expert with over 7+ years of experience working with fast-growing B2B & B2C brands like Quimbee, Isolta, Baseballism, Athletic Greens and more.
 
-[<img src="/images/ew_companies.png">](https://www.emilsw.com/case-studies/)
-
-I've had the privilege of helping amazing SaaS and E-commerce companies (B2B and B2C, including Inc 500) grow online profits through better conversion rates and retention
-
-[See my case studies](https://www.emilsw.com/case-studies/) 
+[See some case studies](https://www.emilsw.com/case-studies/) 
 
 
-What people say about me:
+Articles & appearances: 
 
->*Emils is a pleasure to work with. He did a good job on identifying opportunities and <b> helped us more than double our conversion rate and revenue</b>.*
->
-> --Matt Sellers, Founder/CEO at Quimbee.com
-
->*Emils is our go to CRO guy, he has run multiple successful A/B testing and conversion optimization projects that resulted in 6 figure lifts for our client’s businesses*
->
-> --Giles Thomas, Founder/CEO at wholedesignstudios.com
-
->*Emils did a great job, not only with working on the sales page but also on email strategy, easily beating my 50 members goal.*
->
-> --Tom Ewer, leavingworkbehind.com
-
->*I've worked with Emils on a number projects. He is a talented and astute conversion optimization consultant, you will be in very capable hands.*
->
-> --David Crowther, nervecentral.com
-
->*Emils has a breadth of testing experience. I'd recommend him to anyone who is looking to get started with a solid foundation.*
->
-> --Ben Coltrin, CEO at custodyxchange.com
+- [Continuous localization 101: what it is and when it makes sense (Lokalise blog)](https://lokalise.com/blog/continuous-localization-101/)
+- [Not investing in localization is costing you more than you think (Intercom blog)](https://www.intercom.com/blog/not-investing-in-localization-is-costing-you-more-than-you-think/) 
+- [How one survey question led to 106.59% increase in MRR (Monthly Recurring Revenue)](http://www.emilsw.com/articles/survey-case-study)
+- [How to Choose the Right A/B Testing Strategy for Your Clients (Shopify Partners Blog)](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients)
+- [Thinking about A/B testing for your client? Read this first (Shopify Partners Blog)](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first)
+- [How to make Google Analytics work for your Shopify store (Acquire Convert)](http://acquireconvert.com/shopify-analytics/)
+- [How to Choose the Right A/B Testing Strategy for Shopify stores (Convert.com Academy)](https://www.convert.com/academy/choose-b-testing-strategy-shopify-store/)
 
 
-Writings:
-- [How one survey question led to 106.59% increase in revenue](http://www.emilsw.com/articles/survey-case-study)
-
-Featured: 
- - [How to Choose the Right A/B Testing Strategy for Your Clients (Shopify Partners Blog)](https://www.shopify.com/partners/blog/how-to-choose-the-right-a-b-testing-strategy-for-your-clients)
- - [Thinking about A/B testing for your client? Read this first (Shopify Partners Blog)](https://www.shopify.com/partners/blog/thinking-about-a-b-testing-for-your-client-read-this-first)
- - [How to make Google Analytics work for your Shopify store (Acquire Convert)](http://acquireconvert.com/shopify-analytics/)
- - [How to find your ideal customer (Churn University)](https://lesschurn.io/saas-churn-university/finding-the-ideal-customer)
- - [Talking to your customers: what questions to ask, and when to ask them (Churn University)](https://lesschurn.io/saas-churn-university/getting-more-information)
- 
- Webinar:
- - [How to Choose the Right A/B Testing Strategy for Shopify stores (Convert.com Academy)](https://www.convert.com/academy/choose-b-testing-strategy-shopify-store/)
-
- Interested in working with me? [Get in touch](mailto:emils.veveris@gmail.com)
