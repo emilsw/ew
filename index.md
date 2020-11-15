@@ -10,7 +10,7 @@ title: Emils Veveris | Growth marketing expert currently Head of Digital Growth 
  
 ## Hi, I'm Emil(s) Veveris. ##
 
-Currently Head of Digital Growth at [Lokalise](https://lokalise.com/), a fast-growing language tech B2B SaaS that helps companies like Notion, Revolut and ESL Gaming streamline localization to deliver multilingual products + content to end-users in global markets much faster.
+Currently Head of Digital Growth at [Lokalise](https://lokalise.com/), a fast-growing language tech B2B SaaS that helps companies like Notion, Revolut and ESL Gaming streamline localization and deliver multilingual products + content to end-users in global markets much faster.
 
 Growth marketing expert with over 7+ years of experience working with fast-growing B2B & B2C brands like Quimbee, Isolta, Baseballism, Athletic Greens and more.
 
