@@ -34,7 +34,7 @@ My journey into startups, tech and growth has been unorthodox:
  - 2009 - Bachelor's degree in Finance
  - 2007 - 2014 - a comfortable but boring corporate career, working in the supply chain at Carlsberg (while learning more about tech and startups on the side)
  - 2012 - First attempt at launching a startup (Failed)
- - 2013 - Second attempted at launching a startup. I launched Thrill Engine (and online platform for booking adventure trips). Made progress but still failed, yet I learned a lot (web development, design, digital marketing, sales) 
+ - 2013 - Second attempt at launching a startup. Made progress, I launched Thrill Engine (and online platform for booking adventure trips) but still failed. Yet I learned a lot (web development, design, digital marketing, sales) 
  - 2014 - Using my newfound skills started freelancing on the side doing a bit of everything from building websites to digital marketing 
  - 2014 - Found out about CRO (conversion rate optimization) as a discipline, more specifically A/B testing and experimentation and decided to specialize. A few months later co-launched a CRO agency working with 8 figure ecommerce businesses (while also growing the agency)
  - 2015 - 2019 Went solo, grew my consultancy, transitioned from a CRO consultant to growth marketing consultant, from working with Ecommerce to mainly with SaaS 
