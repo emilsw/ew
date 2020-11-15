@@ -1,7 +1,10 @@
 ---
 layout: case
-title: "Clients & Results"
+title: "Work"
 ---
+
+## Professional highlights ##
+
 
 I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting conversions and profits for Inc 500 online businesses.
 
