@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emils Veveris | Growth marketing expert, currently Head of Digital Growth at Lokalise 
+title: Emils Veveris | Growth marketing expert currently Head of Digital Growth at Lokalise 
 ---
 <br>
 <br>
