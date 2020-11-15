@@ -14,9 +14,6 @@ Currently Head of Digital Growth at [Lokalise](https://lokalise.com/), a fast-gr
 
 Growth marketing expert with over 7+ years of experience working with fast-growing B2B & B2C brands like Quimbee, Isolta, Baseballism, Athletic Greens and more.
 
-[See some case studies](https://www.emilsw.com/case-studies/) 
-
-
 Articles & appearances: 
 
 - [Continuous localization 101: what it is and when it makes sense (Lokalise blog)](https://lokalise.com/blog/continuous-localization-101/)
