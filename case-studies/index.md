@@ -5,25 +5,30 @@ title: "Work"
 
 ## Professional highlights ##
 
+A growth marketing expert with a strong emphasis on making an impact and delivering results. 
 
-I've worked with companies and products of various sizes and stages, from helping acquire first customers to boosting conversions and profits for Inc 500 online businesses.
+T-shaped multi-specialist with 7+ years of hands-on experience in most disciplines of digital growth and also digital product development (SEO, PPC, GTM strategies, email marketing, B2B lead generation, contention creation, UX/UI design, web development etc.)
 
-Some of the companies I’ve had the privilege of working with: [Quimbee](https://www.quimbee.com/), [Custody X change](https://www.custodyxchange.com/), [Isolta](https://www.isolta.fi/), [Athletic Greens](https://athleticgreens.com), [Baseballism](https://www.baseballism.com/), [Marine Depot](https://www.marinedepot.com/)
+Area of expertise:
+- Acquisition & conversion
+- A/B testing and experimentation
+- Digital analytics and data analysis
+- UX/UI design and research
 
-Types of businesses: small to medium size, B2C & B2B, SaaS & Ecommerce, Lead generation, Affiliates
+Currently, I'm the head of digital growth at Lokalise working on:
 
-Markets: e-learning, invoicing & accounting, health & nutrition, fashion, sports & hobbies, law, home & furniture, 
+- Demand generation strategy 
+- Growth & marketing ops
+- Growth & marketing team building
+- Lead generation
+- Lead nurture campaigns
+- Digital analytics
 
-Here are some case studies, and biggest wins:
+Past work samples and case studies:
 
-### SaaS 
+* [Quimbee](https://www.emilsw.com/case-studies/quimbee): More than 2x increase in MRR and 3x increase in sign up conversion rate 
 * [Isolta](https://www.emilsw.com/case-studies/isolta): 400%+ growth in paying users 
-* [Quimbee](https://www.emilsw.com/case-studies/quimbee): Helped more than double MRR and triple sign up conversion rate 
-
-### E-commerce 
-* [Whole design studios](https://www.emilsw.com/case-studies/whole): Multiple successful A/B testing and conversion optimization projects that resulted in six figure lifts
-* [Theyconvert](https://www.emilsw.com/case-studies/theyconvert): +12.33% increase in revenue per visitor, worth almost extra $3,000,000 in annual revenue 
-
+* [Theyconvert](https://www.emilsw.com/case-studies/theyconvert): +12.33% increase in revenue per visitor, worth almost extra $3,000,000 in annual revenue
 
 
 
