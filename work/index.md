@@ -37,6 +37,6 @@ My journey into startups, tech and growth has been unorthodox:
  - 2013 - Second attempt at launching a startup. Made progress, I launched Thrill Engine (and online platform for booking adventure trips) but still failed. Yet I learned a lot (web development, design, digital marketing, sales) 
  - 2014 - Using my newfound skills started freelancing on the side doing a bit of everything from building websites to digital marketing 
  - 2014 - Found out about CRO (conversion rate optimization) as a discipline, more specifically A/B testing and experimentation and decided to specialize. A few months later co-launched a CRO agency working with 8 figure ecommerce businesses (while also growing the agency)
- - 2015 - 2019 Went solo, grew my consultancy, transitioned from a CRO consultant to growth marketing consultant, from working with Ecommerce to mainly with SaaS 
+ - 2015 - 2019 - Went solo, grew my consultancy, transitioned from a CRO consultant to growth marketing consultant, from working with Ecommerce to mainly with SaaS 
  - 2020 - Joined Lokalise full-time (a b2b SaaS) to lead their digital growth efforts
 
