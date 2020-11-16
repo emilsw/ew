@@ -1,10 +1,10 @@
 ---
 layout: case
-title: "Isolta: 400%+ growth in paying users"
+title: "Isolta: 400%+ growth in paying customers"
 ---
 
 ![Isolta_growth_mixpanel](/images/isolta_mixpanel_user_growth.png)
-*Increase in paying users since we started our cooperation (Jul 2017)*
+*Increase in paying customers since we started our cooperation (Jul 2017)*
 
 [Isolta.fi](https://www.isolta.fi/) (part of Accountor Group) is a small business invoicing software serving more than 35000 users across 5 countries since 2001.
 
@@ -56,7 +56,7 @@ And more importantly significant improvements in retention (users kept coming ba
 
 <img src="/images/isolta_retention.png">
 
->*<strong> Emils helped us gain growth in Latvia - significant increases in new free users and paying users </strong>. We gained valuable knowledge and deeper insight about the Latvian market (our end customers, local invoicing norms and standards). We have also been able to apply the learnings we’ve got from his work in our other locations as well.*
+>*<strong> Emils helped us gain growth in Latvia - significant increases in new free users and paying customers </strong>. We gained valuable knowledge and deeper insight about the Latvian market (our end customers, local invoicing norms and standards). We have also been able to apply the learnings we’ve got from his work in our other locations as well.*
 >
 >*We are very satisfied with the progress we have seen as a result of our cooperation. Without the Emils, who has knowledge about local norms, standards, culture and language as well as growth marketing competence and valuable networks, we hadn’t been able to achieve the growth we’re seeing now.*
 >
