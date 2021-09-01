@@ -10,7 +10,7 @@ title: Emils Veveris | B2B growth marketer
 
 
  
-## Emils Veveris ## 👋
+## Emils Veveris  👋
 
 B2B growth marketer. Currently leading growth at [Lokalise](https://lokalise.com/), a continuous localization and translation management platform that helps tech teams at Notion, Mastercard, Starbucks, Hyundai, and 2000+ other companies ship quality localized products, faster. 
 
